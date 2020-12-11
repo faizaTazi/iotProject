@@ -1,0 +1,22 @@
+[
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Storage'
+  },
+  { permission: 'find accounts on the device', type: 'Contacts' },
+  { permission: 'find accounts on the device', type: 'Identity' },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'full network access', type: 'Other' }
+]

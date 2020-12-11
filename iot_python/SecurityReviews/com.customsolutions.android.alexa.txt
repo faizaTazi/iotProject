@@ -1,0 +1,15 @@
+{
+    "reviewId": "gp:AOqpTOFj3ITsyh1nYcTMzRA0frlJlZc3dRG9WLLQtCicKwNOJzHaEl9xWh6yPvte0nRhOxYTVFtRMbN6FA4toVU",
+    "userName": "Ruby Clay",
+    "content": "Not likely the app but to use and connect to another program through this app I have been extorted to pay Microsoft just to access it where all my microsoft was updated and secured, believe it or not, with amazon subcontractors, then microsoft in there text with a certified MC persons, caught ,a more money scheme (produced each day making online a poor avenue. After asking for money to change a password they then sent me a link to pay the \"just answers\" and then froze the text link, real fraud.........................update a week later after uninstalling this, they charged me another 39.95, like the black out of Joe Bidens fraud/crimes these big compnaies have access to your moneyt and just steal it. I have so many movies purchased on Google pl,ay now I have to find another avenue to just have my monoes secure from theft. TRUST ME DON'T BUY THIS APP, YOUR HEADACHES HAVE JUST BEGUN, ULTIMATE THEFT MORE LIKE.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOGE_mraEafbKNUjizTzdRuzl4nf4iHfNbatLvkcxqWy7isto3YGKqCYA5CCNj8bcXYxDJ9-IyLpI_13a0g",
+    "userName": "Terry Watkins",
+    "content": "Hum this app wants me to log into my Amazon account through the app, don't sound very secure",
+    "score": 2,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "3.0.5"
+}

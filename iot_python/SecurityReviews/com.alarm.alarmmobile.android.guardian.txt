@@ -1,0 +1,43 @@
+{
+    "reviewId": "gp:AOqpTOGe0_n6AmINMXlnzjZwKwUWCfmt7KO0WPf94TtIQ7NKMWEKVCvMOggIC4d1hz-XMjdRmVHa8a8928l1",
+    "userName": "tammy johnson",
+    "content": "I have gaurdian security how does this app work ? do I need to pay extra for this app ? this app does not let me create an acct",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.13"
+}{
+    "reviewId": "gp:AOqpTOF2mFInPOKJe202K-MzEAmcuP460jHtplH0W9WQzpjlai_-Ohz4vxyweKykwZ0c_XLJhKjMUh7rqTDl",
+    "userName": "glmoore001",
+    "content": "you need a way to adjust tamper sensitivity by the user. I have had it raised twice by the security company and still get tamper alarms when inputting password. You also need a way for the user to delete groups of Video Doorbell recordings without deleting individually. I have individually deleted a couple hundred today and have more to do.",
+    "score": 4,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "4.10.7"
+}{
+    "reviewId": "gp:AOqpTOEf0_IdxPeC5-HCHbgNs97Vw84UQAJJ_LPqyOHrj5EGLKRHU6nFRNGPOiKfgSyXeSgrXCtVPTTN6Sc9",
+    "userName": "Mrs. Okin",
+    "content": "great piece of mind, family is secure",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.10.4"
+}{
+    "reviewId": "gp:AOqpTOF0EjUzzrtgDeIPET4qm0E92vb8mN87W7n9Jj8is_GoQf1nuCU8TfGX_-DhjxaeZcO3EgPVUdTpu8kX",
+    "userName": "Jason Mays",
+    "content": "Absolutely the best smart home security app available!",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "4.10.4"
+}{
+    "reviewId": "gp:AOqpTOHjQSwywSqz0oWrLDgvU2hCN4uvMPuzCChQ8QTQaSPuO-KtQLJTovaH12759HG5IRjVa9d3wcy-nnsd",
+    "userName": "Carolyn Jackson",
+    "content": "I was told that the system records clips whenever someone is in the area that was selected on my monitor. Unfortunately this system will not allow you to go backwards to see what triggered the alarm . It Do Not record 24 hours as I asked when getting this system be abuse I travel out of town often. This is not a good security system. Look around for another security system if you're interested in one. The salesman who sold me this garbage is Kenneth Scurry. I called and texted him regarding",
+    "score": 2,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "4.7.6"
+}{
+    "reviewId": "gp:AOqpTOGQiONvN-Kk2rjhTsFaWrGXZh501vS0N4YeLeUMfped7E4Ri9rLIwEHZvB-TCKsGe421ljEwb1qynNB",
+    "userName": "Jordan Jones",
+    "content": "For a security app, this provides basic information. If anything goes wrong after initial setup, good luck.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.5.7"
+}

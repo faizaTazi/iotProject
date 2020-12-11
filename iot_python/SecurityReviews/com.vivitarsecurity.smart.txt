@@ -1,0 +1,57 @@
+{
+    "reviewId": "gp:AOqpTOHyosoNWYueEDBVHHjIavcnH3jU8j0vkNaqzhRLvQrZbqQhhPWqwutaz1FHgSDo03Zqbe1q3cjKlMXEPfI",
+    "userName": "Daniel King",
+    "content": "Not good, cant seem too add my wifes phone or add her too my family setting so she can view the security footage or get notifications as well. Also it wont let me cofirm my home location as well.",
+    "score": 2,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "1.0.7"
+}{
+    "reviewId": "gp:AOqpTOHTb9I-BTkXnr9VeNptQd-A5I2LmaFckFuckHNdMwzgl1A9da4emqacldTRdjw4EvG49wZqySudnAmrMnA",
+    "userName": "Samuel Cormier",
+    "content": "The Camera are great. Operational, very clear picture, great night vision. The cameras get 5 star. The app gets 1 star. Its is minimally functional. Very hard to navigate. My biggest issue... I have multiple cameras, including outdoor and indoor. With the app, you are only allowed to view one at a time. If sakar would like to be considered for any real home security and monitoring, they seriously need to upgrade the software so someone can view multiple (as many as needed) camerafeeds atonce",
+    "score": 1,
+    "thumbsUpCount": 8,
+    "reviewCreatedVersion": "1.0.5"
+}{
+    "reviewId": "gp:AOqpTOGMh0a2OocgkdZ-TAkuSEm4hWw7FqS_Zu7hkO0KOh3x9ep7PJmHsgNPapyxRXyangGv2UI2ev8bqXu-xVk",
+    "userName": "Tory Yoder",
+    "content": "Not really digging on the app itself but need the cam for security so not much I can do.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.0.5"
+}{
+    "reviewId": "gp:AOqpTOFkQe87SXNLz5mktskFf0PibrS0DDmtl2mj06DG1krXzL5wlbx9tmf4KhrGHFzWBqUzSf1cU2hCtPgfh6A",
+    "userName": "Jeremy Pople",
+    "content": "Can I add a picture to this cause I just want to show everyone how I can watch the cops down the road thanks to the zoom feature, while they watch me. No, ok well that sucks!!! But this app is awesome. But could be awesomer if it wasn't soo damn pixilated when I zoom in. A must have app for good security. Especially for all you crack hypes out there. You know who you are!",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOFOvAIFG1FBdezyEosTGQDEe2BA-gZHPTlyPRIT9Mht5LPeiUbD5IlhGesU7sdj9X5RHbps49Gqu5of0rg",
+    "userName": "Daniel Jennings",
+    "content": "Great app, security at its finest!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.0.5"
+}{
+    "reviewId": "gp:AOqpTOF5Ni0MOYIcXn8J64-MxqwKs0yOsxtxlaVO0oLDH9Y70s4dEPgx0Eok1Trx78LSQDycMjeux4MeGwVfVLY",
+    "userName": "Sean Michael Gallagher",
+    "content": "Good security app",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.0.5"
+}{
+    "reviewId": "gp:AOqpTOEF6nw3EO-Th_8lywOyMd-d5Qi2THioccWSOq6LmYwT2THsFPjELzuthcWZX27WJ5gRp_Ik3JmGftfFz18",
+    "userName": "Emma Martinez",
+    "content": "I'm glad I got it. It make me feel safe when I'm home and when I'm at work I can be assured that my home is safe and secured. Definitely have and would recommend.",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "1.0.5"
+}{
+    "reviewId": "gp:AOqpTOHYG-KjRReiapK4FvimA2yqjdIiK1zzKO4K9HK58Nj-a0FMPl0TfE5kK2Rxc7ccQxKNWXW-epxnlI9Ch-A",
+    "userName": "Sherri Smith",
+    "content": "I cannot erase old pictures/shots taken by the cameras. I erase them, then they don't stay 'erased'; the pictures are returned to my system file. I keep trying to erase the pictures and they won't erase. I want to return both of the cameras I purchased, but I can't erase the private pictures (i.e., me walking by camera in my underwear for example). Watch out folks!",
+    "score": 2,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": "1.0.5"
+}

@@ -1,0 +1,71 @@
+{
+    "reviewId": "gp:AOqpTOGEyfB7_2FB7SDXakXuoY3RZDu87L85cJpbV7J1JMaYAvpFjdPPwiq5c-u7rYUcBDZg76Q5hL9KRi6rr6g",
+    "userName": "Hamid Khan",
+    "content": "It's really a good quality router but lacks in security option and no control over duel band configuration. But overall it is a solid device to use for home mesh network. Not go mention that the installation is too easy and faster. App is also very easy to use.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.2"
+}{
+    "reviewId": "gp:AOqpTOHKfkPb2U0Emk_de5OCXAVa8cC1k-V8OTAs-zXnloOgLBN2SuzHlVG92BbF8wbrOgTsK1OjhyJSyF2tDco",
+    "userName": "Ryan Stancil",
+    "content": "Crazy easy, very secure, truly an amazing piece of technology.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.2"
+}{
+    "reviewId": "gp:AOqpTOEi5St7JgXio4m3OJZcFH5znWD3SMMMLim_n6FGiE8UZSZQZLRYmD5Z2dyZ160ZUgEjSoh4xOiWTqCvwT4",
+    "userName": "Babe",
+    "content": "I hope that guest users CAN'T / SHOULDN'T BE ABLE TO Modify admin settings when logged IN As guest users. Also 2FA is a must for security purposes",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.2"
+}{
+    "reviewId": "gp:AOqpTOGjgRkm5Xfsu0xPBVgRYrNHjiDjyaBX0aFLd4opGt68Jpb2iuIVIez4RJIUT-3vVg0wdWkn7dxR8kr3T7s",
+    "userName": "Alex Akselrod",
+    "content": "Completely insecure. No allowlist option, only a \"blacklist\" as if it's not possible to change your MAC address.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.2"
+}{
+    "reviewId": "gp:AOqpTOFIFN6csc9fJtKa9pcq3rwY9TcbleQZkgeCfSvRK421INyCH5CNrW8urZVz-1FENERR89kEtpqQ6Phb4lw",
+    "userName": "M C L O V I N",
+    "content": "Pls include wifi security settings",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.2"
+}{
+    "reviewId": "gp:AOqpTOGPCqJeuyX6r7NtVCGgikXI2tekkEW6voCcAyum75YzQXDhU9Ap3gMU5oLGg5V99xaMRg30bsawkCzZrkE",
+    "userName": "Aditya Akash",
+    "content": "This is a very simple home tool for your TP-Link wifi. Can be understood by anyone. Gives you more control of the invisible virtual security of your house and data.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.2"
+}{
+    "reviewId": "gp:AOqpTOGMIm3NtXRwn5AtEDR2v03poSML-hk891FM2-yUBti-zvEwo6BKQ4mu2doJLq9ZBCcF8f0ydNhFKW5DgXo",
+    "userName": "Ali Abdulmalek",
+    "content": "Very easy to set up and use. Perfect tools and gives good sense of security. Would be appreciated if there is a possibility to add a tracker to track usage and MB / GB downloaded per month.",
+    "score": 4,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.2.1"
+}{
+    "reviewId": "gp:AOqpTOGA84UTlA6r9qJgZZ2tg_qh57UCZ-aZguYaNHOaLNl6RMCVtTe8d4H_dvf3sxakjYcUlq9JjKTX6P0LNmI",
+    "userName": "Rob",
+    "content": "Great control over your network. More control equals better security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.1"
+}{
+    "reviewId": "gp:AOqpTOFh9WSvpjql1BbPwiH1Vz80pXkDRwoxjK6PWd4dI6cQQZigGGsS9QuXU_9EercuKtRqjyq1scjYURm1CSc",
+    "userName": "Ryan Lukens",
+    "content": "M9+ Signal and speed seem to be good, however some but not all basic consumer grade router config options are here, pucks run fairly hot, poor app UI design/organization, privacy policy and must make an account to configure and manage, can't see any detail on connections between mesh points and main other than simple little wifi signal bar type symbol, device names in client list not user friendly / don't show IP/MAC, and also poor web browser config. Overall very unpolished user experience.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "2.1.2"
+}{
+    "reviewId": "gp:AOqpTOE_N4vSSpvwx3Y9cOT7qxLfB_P6nl9OCSbvpb51Z94XbBo7ovg3kDu6KwrQT37Yk_B7ENzE8Ej17NmcqXk",
+    "userName": "Botvinnik Fernando",
+    "content": "Make an option for wpa2-aes only security. It will get 5 stars from me. No improvements.",
+    "score": 3,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "2.1.2"
+}

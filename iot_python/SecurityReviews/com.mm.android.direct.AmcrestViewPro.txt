@@ -1,0 +1,120 @@
+{
+    "reviewId": "gp:AOqpTOHbeGM5vKQHjxKZyu7toCA_4j6Y-9XZF7FLwtTIXNmGi676PCRUhMb_F8sEipUHs8L5Am7Pz82lJaMLdGw",
+    "userName": "H&W Blessed",
+    "content": "Not secure My camera is PTZ camera and I noticed that it's always pointed in a different direction than what I set it originally and I am only one who has access so who also plays with it encryption keys has only manufacturer ? Guarantee its comunist China",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOFeKvbfy5tceLb79patqbVeZgcLdS1OyNh8OOdx3nLgLGuak2-hch7WK1-K9nZG9iIajZbjxx_Owyr088c",
+    "userName": "earl daniels",
+    "content": "Working as advertised thank you amcrest for making a plus product for cheap price my 960 still running strong without hiccup I advise any looking for top notch security system that can view any where in the world pick up this little cam you won't be disappointed we'll worthy super clear view",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOGB8i9BLYgg5P55gnge1q7jWGE5BD2iU4cvBpaHor0hJqr6pDOSD8nCRwT6p28Zkck6EX7N4sF0xR_lavo",
+    "userName": "Reynaldo Medina",
+    "content": "Installation of a POE camera went smooth, however when I opened the Amcrest camera there were no instructions. I suggest that a Guide or Manual be available inside the box. Also an authentication would be nice for loggin better security. Just a reminder to all, this is a viewer. You can choose your own cloud or NVR or whatever.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOF33kpOaDMuAw2m8fBwxUPXpolSovBBWgpn_R2HJZMHBjw-UMD6cHLCSBV5lnKjNU35CraTWqHz0FbW_DM",
+    "userName": "Bill Baker",
+    "content": "I used to be in the security industry. I feel I know equipment very well. I'm amazed by the quality and lie price of their cameras. Better yet, their tech support and customer service is the best I've seen.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOEIaun4ydMfu7sVHJd6BLIq1gMrjtvfxfwyt0ItuyXAFLdrrMqyPVwCPtxPvT7op-CI6d-62MLbMCrVB8c",
+    "userName": "George Sarris",
+    "content": "App disables configuration settings for push notifications at random. Also crashes at random. Wish there was a more reliable, secure app for my Amcrest cameras/NVR.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOGfObPPhFHsR3aLfVeWuKyrwwbr9vlfgfnryO54cPI2p2LZs4hJWY_dZ0oQgEo8c4k6e1NN5UdUpYOCMR4",
+    "userName": "Alyssa Marsh",
+    "content": "I love having this extra security. It's nice to check on the dogs when I'm not there. Very easy to use as well",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOEyz3R4FqwEan5csw7s4iXMFH5g6JQsYrAsK7hy8nOtBNsOcCWEtF9HL0CZ8XNW2tIGSh0aD7SZJp5UN7E",
+    "userName": "Alden Leonardo",
+    "content": "Great Home Security Cams if you pair it with the right amcrest cameras in the right spots, you get a good quality home security system. But, the app needs to improve a lot, specifically the playback feature. It should be easier to tap into the SD card recordings of each camera from the app. The app hasn't received an update in half a year, which in apps in general is a big deal. Other cams and their apps are catching up by now and Amcrest will be left behind if they don't pay attention to it.",
+    "score": 2,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOHZ6hgIe14cCXem1H4TksxcZ2i5BLGqvKvTQhuZ6jQrUxubB0tfH_6VGRsvd2miwwoS9V3qxte8RMXyoCY",
+    "userName": "augustine becerril",
+    "content": "App literally crashes every time. Expect to open the app then force close it and then reopen it just to view your cameras. For a security system that could possibly save me and my families life, it's companion app sure is garbage. I",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOHW9p29BH-mprsothHqs3ONYZrjnMXBOvE54vRLJ6Ie7x1_bXBLE5lt6TPMu_vYEe1WJh_OoirVLMdvdjo",
+    "userName": "Abdiqani Warsame",
+    "content": "Great security Camera",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOF8OLhibtPWyq6DaCgpL_D6cH5mlzHmRy_KsNpi_TlnJ_pPz1_mFv5aBhObewhRmIu-t0ogT8QBJIAP1Ak",
+    "userName": "Bee A. GiGi",
+    "content": "WHY would you remove date & time stamp from camera view Youve made it useless as a security tool Unbelievable, to make a product worse, than when purchased",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOEb8pIJs-SeLoR2KAmZxVIKnpfl6oYdP7ak85GKdJCpMX6vNJYkgOuUTNdOYatSocKO8V5HMRJ-9CLk9hE",
+    "userName": "Johnny Marshall",
+    "content": "App disables notifications automatically leaving your security alerts useless. Not good for security. Have tried to fix with tech support, no solution. Many other people having same problem.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOH70u4N8axW6lODxQplV4WzRNPqxQUEF_A-h_-F0L4mYLJCSeMfd8oMh4csv-GDs5-jCIYMW2uFbbWDkiw",
+    "userName": "John Luschen",
+    "content": "Great for watching the dogs but that's about it. I have never been able to get it to record. I would consider this a novelty but not security. I had to buy different camera's for that. Great picture, audio to and from, but a little delay.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.005"
+}{
+    "reviewId": "gp:AOqpTOFzY3hBWfzXTdEdwAsSYuSR4Q1O5QWULyDb5jqf6wGzmEcePAU_Nl93QgiGMUc9OUl-_hiRjmo-4PdfMpU",
+    "userName": "Andy Ashie",
+    "content": "This is great and cover all my needs for security especially since I travel a lot and need an extra eye on things",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "4.2.008"
+}{
+    "reviewId": "gp:AOqpTOHgjro-wXKH3GyPDTVN6TC7PiTts7jllcTD21a9Jzi9HrkLWqZkMae7Hr0ofr6uh3hALijNf9W4tVnyWCQ",
+    "userName": "Kodiak Bare",
+    "content": "Lousy app, will not save ANY settings after configuration. Video quality mediocre, even in HD mode from previous app with another 960H device. Grainy videos at best. Program set on DVR, instead of app but, settings remain the same and NO recorded playback found, even though DVR does show recorded events the entire week. I had programmed DVR to record 24/7 in ALL events, copied that to ALL channels. Even in DVR programming, it defaults back when you exit menu and return to setting I just changed, it's back to default settings on ALL channels. My old system was so simple. This DVR don't even support alarms, when movement are sensed by cameras. Yes, there are icons when it detect but, NO audible alarm sound to let us know. Playback search limited to 24 hour only? RIDICULOUS! When we go away on trips/vacation, we CAN NOT access DVR to view/record/save files from thus app!!! If there ever were to be any unfortunate event of a break in we CAN NOT retrieve files as evidence? What's the purpose of security system when you CAN NOT retrieve video evidence??? Is it a APP issue or the DVR? In either case, UNACCEPTABLE system performance. Tried to web access, system keep telling me I got \"wrong pass word\"? Get real, I set the pass word, I can access through DVR but, I CAN NOT even log in through web? Yes, I tried Firefox, Internet Explorer and even Chrome browser, although it recommend you DON'T use Chrome. Fix it! Thinking about returning the DVR and go with another brand. Amcrest had always given me issues, which they CAN NOT fix...their own system?",
+    "score": 1,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "4.2.005"
+}{
+    "reviewId": "gp:AOqpTOFDu2auZQqaPc-Vt0kVC8hRHriXYC6j-sspQRlb1XVGLZ3nEN2Pq3hrHgXHBfXeL6C0dj9-vHJ8I8yG70Q",
+    "userName": "Harrison Rhodes",
+    "content": "Among the best mobile security apps.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOGj7aLe3tAesZn1EPAicR5VJ9FiKHWND5IIKqymEOlJFx0xF68I7o42RDga-IsIsAi0YMQf-ssRlzKxXGM",
+    "userName": "Ney Tejeda",
+    "content": "good app and good system to security you business and your home.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.005"
+}{
+    "reviewId": "gp:AOqpTOE6AhyI4Lgz6Xtt7VBERUYJV8IzhvDz6fdDU9oCFERsWQ_bULP5fwcLzkLbZ7K_W2MHij5g035qcnhI4Os",
+    "userName": "Rudy Ramos",
+    "content": "This is def the worst security app ever. Hundreds of alarms n not one notification. Everything goes in circles. Do not recommend at all",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.2.005"
+}

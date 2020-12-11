@@ -1,0 +1,34 @@
+[
+    {
+        "reviewId": "gp:AOqpTOEXqiiZZEsE5DYEi4HdstuCny2YmvvhtIoIT-zVRiVaDVeQ4f4HRqMh-YZUGykpsmTqPaAmhVLmY66QNRU",
+        "userName": "Enmanuel Nunez",
+        "content": "Bluetooth option does not work on Android. Tested this app on Android 9 and 10. In both cases the bluetooth option would not work. However, it works on iOS.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.1.2.037"
+    },
+    {
+        "reviewId": "gp:AOqpTOH3DCnaA39itLctuLybdUgduJQMAK0vdUb-I1zw7QqjxtTE85hLLRX2gmjLyWomH-GjGzuOKyxdWFQHFhk",
+        "userName": "David Wilson",
+        "content": "This tool enabled us to quickly move forward with commissioning controllers by scanning QR codes to recover the MAC address when needed. The QR code could not be scanned directly from the controller tag, but the app does work when scanning a picture of the tag that is zoomed in on another phone.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.2.037"
+    },
+    {
+        "reviewId": "gp:AOqpTOGOQpgHNpgrPPnwf7ad1sRQoRk7UX50IgPlYB4doMsV1jMCb3luDyTayVO9ONuD1QCg4Vv-4tazSxWz5eQ",
+        "userName": "Dave Minnie",
+        "content": "eCommission Bluetooth adapter is useless.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.4.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOHi6065kCsIFw6RwMFV7p2zeYqKLHjT12wQlArHK-u0hwJ-q0NDBu1zbwwMLqetFvLVi2zr3caUZttVfyE",
+        "userName": "Mick Morley",
+        "content": "Allows you to advance the project in absence of the full project \ninfrastructure being in place. Also provides a useful secondary interface \nto the local network.",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.1.91.0"
+    }
+]

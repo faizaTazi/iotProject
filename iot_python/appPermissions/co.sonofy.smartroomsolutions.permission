@@ -1,0 +1,29 @@
+[
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'read call log', type: 'Phone' },
+  { permission: 'read phone status and identity', type: 'Phone' },
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  { permission: 'record audio', type: 'Microphone' },
+  {
+    permission: 'read calendar events plus confidential information',
+    type: 'Calendar'
+  },
+  { permission: 'receive text messages (MMS)', type: 'SMS' },
+  { permission: 'receive text messages (SMS)', type: 'SMS' },
+  {
+    permission: 'read phone status and identity',
+    type: 'Device ID & call information'
+  },
+  { permission: 'read your contacts', type: 'Contacts' },
+  { permission: 'control vibration', type: 'Other' },
+  { permission: 'run at startup', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'allow Wi-Fi Multicast reception', type: 'Other' }
+]

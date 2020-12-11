@@ -1,0 +1,141 @@
+{
+    "reviewId": "gp:AOqpTOHqFt3GLPoUYh_hfil-mr6G9lyS48W_ylJ-UzIGOihZjBRYdgI_e_4VP90hoo4SB_sUawnIVFYjYGTXaBw",
+    "userName": "sandman x",
+    "content": "It's functional. I've never tried anything beyond using this via lan or vpn though so I can't say how it would work remotely by the way the vendor intended. I don't trust that anything is secure which is why I use my own vpn.",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.22"
+}{
+    "reviewId": "gp:AOqpTOH49QHLeWzoQSmQVqw4M5v23EEvEEUvCdUCXE_meKfFgJhz54F4R4NH-_elDG-0lh7nkfeIbZ4jvM8BBr8",
+    "userName": "T T",
+    "content": "Terrible just Terrible. Shake my head .... Is this the best you can do for your security app are you people for real it's a shame ....",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.3.22"
+}{
+    "reviewId": "gp:AOqpTOHt1TkCZAJV-CAYuWOvOtg1necIVRESuQ3rJFuqw0bY7bQ-ZF84Ww3gOW6s1_Pgqs0IUiUTiehXtFQ5veI",
+    "userName": "Kawal Jeet Singh",
+    "content": "While login with Google... It's showing app may not be secure.... And it's not login",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.18"
+}{
+    "reviewId": "gp:AOqpTOETCRDI5opE4ESp6yrjo75x0mdfqGfQMJ5UyVP1fugy68uGo17DBej9j3ihNpJ3NzJgilEl1ESGwjvz8Ck",
+    "userName": "Dan",
+    "content": "this app works as well as their actual security system.!!!! DO NOT GO AND BUY THEIR CCTV SYSTEM. they are big con artists. Apparently dont do refunds. Didnt want to give one star wanted to give no stars. Hope covid-19 ruins your \"business\"",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.3.18"
+}{
+    "reviewId": "gp:AOqpTOFR92c1QI7swz--WXjDlVxJAVZPz6ngeENbUl9Iq8_I2HHgKTDOdk8um-KtL66Z-iidZmg413iLL0BXwRo",
+    "userName": "Mandie McLemore",
+    "content": "This has been most frustrating. It keeps saying it's offline, while my ring doorbell that is not wired is working perfectly. We got these specifically for when we went on our vacation and the entire time it wouldnt show us anything with no way to fix it from a distance. Choose a different security system",
+    "score": 1,
+    "thumbsUpCount": 17,
+    "reviewCreatedVersion": "3.3.18"
+}{
+    "reviewId": "gp:AOqpTOFch5GYapjnUaxGL1xajIoj8-_5U8ZbygLf0AB0Xt1AU-quRNRt36BKkET-MYNzMbXUb5B11kGEyEloE7o",
+    "userName": "Digitise & Deals",
+    "content": "How can I secure my connection? It seems like anyone who has my ID can see my cameras!",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.16"
+}{
+    "reviewId": "gp:AOqpTOHkLP6_IN8zez7UyIwQBBNUXEF2xGdgSA6RISBxIqyv2N4ECTC5cPkUDLZXpFyLJIhfsW4kLECkGlDIlx0",
+    "userName": "Nick Hammer",
+    "content": "Very janky app. I have three security systems and this app is the worst of them. It never wants to connect.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.11"
+}{
+    "reviewId": "gp:AOqpTOHK28LAxVvWErndsXJKDv5NroeRLP95i-aCR20ip_kck1MrxiduXG5f4BIPAE6StyDbB5HMtjzeL8aYMSU",
+    "userName": "Susan Downing",
+    "content": "excellent software! simply create an account to the IP PRO server and you have instant remote access to your home security system and all your home or office cameras 24\u00d77 from ANY device. I used the Android app.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOG0dYQiOHuoF1W4-9ngsGbjx-dFQDv_hy_tIs9BlO-PcWZp1z-dkSs165VQdsIsI6WqGedaHJF0jzvCgKw",
+    "userName": "D Jenny",
+    "content": "What's wrong with this app now. It worked well in the past, but after update to new version IP Pro, it only works with my homewifi. No connection at all with other WiFi or data flow. I mean it's not helpful for security when you only can check it at home. It makes no sense. Can the developers fix this bug or just simply bring the old version back?",
+    "score": 1,
+    "thumbsUpCount": 46,
+    "reviewCreatedVersion": "3.3.10"
+}{
+    "reviewId": "gp:AOqpTOH0zjc60gccFzLsvKMh5dGKjfkYEOWomYPTT48GnkH2dKbBgtI9Aa2on_cXrfgmPJT2tkKF4dj0GVWZ2Ds",
+    "userName": "Deanna",
+    "content": "This app was great about a year ago. They need to go back to what ever they were doing then. I was getting notifications on my phone and I could view \"alarm\" videos for that day and 2 days prior. Now the app no longer captures that feed I can only do play back mode and search threw the feed and I no longer get the notifications. So now I have this camera that's pretty much just that. Can't anything with it if it's not giving me the security data.",
+    "score": 1,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "3.3.7"
+}{
+    "reviewId": "gp:AOqpTOGfZC-PHPplNKX6C-NSOH3rhy--I0UXLcyzy_-B98aSqjK6gr4bwljalcLLLUL4Fl-uHVkDnl1DknIhy-c",
+    "userName": "Phil McKrakin",
+    "content": "This app was recommended for the security system I bought...wow...this app is worse than an Italian tourist in a speedo!...takes all day to load,buggy and crashes frequently.I have a Samsung S9+ so it's not my phone......",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "3.3.7"
+}{
+    "reviewId": "gp:AOqpTOEfbdG2JPSddOrgvDi3Wk9--RI2igqQ2vaQPlkMFc3Qe2C-7sLPSg5SBOytIp7sZ1t7wcpJEkQT1rMZrKk",
+    "userName": "Neal Chauhan",
+    "content": "A super easy way to view my security system on my phone. A little laggy, but no issues!",
+    "score": 5,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": "3.3.7"
+}{
+    "reviewId": "gp:AOqpTOGKvFaFjSFMFj4Y-rpViuNhOu1bk9Yr8zl6X9T5-yMMWKjdKFbZCgsT7vEBh0iorP0z2aMwMCkirumXgvg",
+    "userName": "William Bauer",
+    "content": "North security notified me that they are installed unknown apps without permission",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.6"
+}{
+    "reviewId": "gp:AOqpTOFiaJNsqTT8JU8slrW9_JjiRjZ6qqbLzkhk6kiJ6KXxU8Tq6kHvJ8fU6cGbPEWnbWOzY22UqI5blXgyesM",
+    "userName": "Jacob Sanders",
+    "content": "Garbage. Cannot make any major setting changes through this app. Notifications to my android don't work either. I bought a security system and downloaded this app so I could be notified when there is activity around my home while I'm not there and so far all I've done is waste time and money. The \"push notifications\" feature in the app will not stay on when selected so my phone doesnt notify me like it should.",
+    "score": 1,
+    "thumbsUpCount": 19,
+    "reviewCreatedVersion": "3.3.6"
+}{
+    "reviewId": "gp:AOqpTOEw-jMGZ8INkdk-cCTWoXOHhC85s-9U0e5MbtlrCWo59DaESuBAjbbCwJtn3ocpEHoeb0bvmOLogLSs-HA",
+    "userName": "Shelley Hill",
+    "content": "This app use to be great and now it is horrible.You cannot connect with your home security unless you are home and under the same wifi. Useless...",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "3.3.2"
+}{
+    "reviewId": "gp:AOqpTOFUY9lDZWfwc3InHUGGMSmD5lrZw4aUGFttaIuCDBgPYkYHfbggD3ZBWsULUsfDWnWxBgT8MZMJw5GCxcM",
+    "userName": "Saji Mon",
+    "content": "Excellent app,feeling secured your home when you're away from home.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.2"
+}{
+    "reviewId": "gp:AOqpTOGWjO-tBEktKhOpzwKl1xIMcR-C-boD20DiPznQ1W9IYRP2gBx9hLJC0n4miV7iUE7VWzmul_l3jJ0M1Wo",
+    "userName": "Dean Finney",
+    "content": "Nothing but trouble for the past few months, probably since the last upgrade. Android phone. IP Pro always reports unit is offline, even when i am standing by the home unit screen and it shows on-line. Essentially, i cannot ever check the security system remotely.",
+    "score": 1,
+    "thumbsUpCount": 11,
+    "reviewCreatedVersion": "3.3.2"
+}{
+    "reviewId": "gp:AOqpTOHbk7adiGQNEcHiQzkC2jv-eMmet9yE4_H0f958jgCYth9g8rkoUA7pSl5HXZ0Js-hnoL-UcpCHvvuoQIA",
+    "userName": "Andrew Wong",
+    "content": "Samsung Galaxy Note 9 with latest security updates. If connected over WiFi on the same network as the NVR, app loads fine. However, when in mobile data mode, the app crashes upon loading. Reinstalling app does not help either.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOGmwHynTh5ysaWPRzGkhfASOo_hhLCR8nOtg2_A-auhl1f4qnz3L3um-1ovv1qopGC0ej5jH6A6YpEqUbw",
+    "userName": "Monique Buschena",
+    "content": "good security lousy audio. I have went thru the entire setting and I have no audio from camera at all. I don't understand can someone contact me about this issue. I will raise my rating if someone can fix this issue.",
+    "score": 2,
+    "thumbsUpCount": 6,
+    "reviewCreatedVersion": "3.3.2"
+}{
+    "reviewId": "gp:AOqpTOHPAxZjM6K8691BsXMw1GR3QEcnDqeYBKtrCmK0GGslqG-N_mUubOp3krCy2mrxIJxCJ5_GRyckb_u1o_w",
+    "userName": "David Jackson",
+    "content": "basic features but works well for me with Yeskamo security kit",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.3.1"
+}

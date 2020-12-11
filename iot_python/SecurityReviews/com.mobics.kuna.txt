@@ -1,0 +1,218 @@
+{
+    "reviewId": "gp:AOqpTOGbwLBHcOLIJwzujeLqV_xD9b7AO7YaICgS3LSPLqMv6_1bTvR_JmV6pxNtTzyxScll_WwpWZpA5XwX1g",
+    "userName": "Blueberry Horror123",
+    "content": "I can't live without our Kuna security light system and its features. I love it it's fabulous and we highly recommend it!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.7.6"
+}{
+    "reviewId": "gp:AOqpTOE72SF-U-CJNVtwo-vM95Pw8bWWAJAcRkOcltIi7BmaZ1KECrwQfRHW6zTI3nHV1tR9K2QI1xjyBObkSg",
+    "userName": "Ivan Yamanaka",
+    "content": "After owning the security light for about 2 years it 1st. Came on during daylight hours also, then it would randomly sense movement at night now it doesn't work at all automatically! Tried resetting light! Will be looking for a more dependable camera/light combo!!",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "2.7.6"
+}{
+    "reviewId": "gp:AOqpTOGcdPaTVJcp5v8zwN5OpqjYdisxDh-3jdeqGc5N8bYn33I-Jug28hhlygwubnsKBmBHLFuky73zIhd6kg",
+    "userName": "Jon",
+    "content": "$200 maximus security floodlight stopped working 3 weeks in. Bluetooth just stopped existing. No red, yellow or green led lights on floodlight appear. Floodlight permanently stays on with no motion no video, all functionability lost. Waste of $200. If I wanted just a light I would have paid $40 not $200.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.7.6"
+}{
+    "reviewId": "gp:AOqpTOHptGasgAmU2PvE4_ftuVreztRZTN_7Rx_vRoL2H2EpPYrRo3Lhf3I55dvfndi-DlY7ro2paPYZXrOK1A",
+    "userName": "Bill Archer",
+    "content": "I being ripped off! I have been with these people for almost a year. There's no way to contact them. And I want to ask why am I being charged monthly for video recording storage (they store up to a month) and other companies like Ring and Blink charge nothing for up to 1 year of storage.*** If you can still return their cameras do it! *** I want security that I can send my video to my cloud storage that I pay for yearly for twenty bucks for 50 gig via Amazon. Or my device. I'm going shopping!!!",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "2.7.6"
+}{
+    "reviewId": "gp:AOqpTOFSf5kwiQCNf-FvEhYDK6wrjEl4gaZCS2aRYBtvsHvzkHtkCihZnlqsnUH2OwjoqC1XoQmk-yYmr9wJhQ",
+    "userName": "Vanessa Baxter",
+    "content": "I love this security Crystal clean videos and excellent reception Its amazing!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.7.6"
+}{
+    "reviewId": "gp:AOqpTOGLiLzYBfcxFN44s_NoyLjzremIQjR0BB9u3xKKQTAHQLRN5TG67fGcUh_9TA_cVy1xXjPES4xWKCsh6A",
+    "userName": "David Hendricks",
+    "content": "I cannot emphasis enough how glitchy and unreliable this is. Do not cont in it for security.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.7.5"
+}{
+    "reviewId": "gp:AOqpTOGyrqj_dqo6zC-oe7A7c2ebzE1l0uQco0BDH0l7jpyBv54ss_qQ1rSttNbW-NkpQV4QcAfVoLKXIr1Iaw",
+    "userName": "Mary Rogan Thompson",
+    "content": "Always some reason for it not working correctly also very short range. I will never buy again. In fact when I buy my new house I will leave th his behind not worth the hassle to even remove it!! So much better security systems out there and more cost effective. Very disappointed!!!",
+    "score": 1,
+    "thumbsUpCount": 8,
+    "reviewCreatedVersion": "2.7.5"
+}{
+    "reviewId": "gp:AOqpTOEE4IaOt1s25vWJFJZVNfW_mAIqteXIGXwpdIIYFNHcvLyg6eOwhB-uHH7vJUeiJ4fZ72fMUYGMjHV-Lg",
+    "userName": "James Barnes",
+    "content": "1 year-no problem. Bought 2 porch security lights, 1 security spot light off Amazon. If your having trouble make sure WiFi is strong enough. I have basic high speed wifi with my own modem/router and I have no problems with either security lights or Kuna app. Great video quality and features. I pay the very reasonable yearly price and has much more features than the free version. The A.I. feature is very accurate. Able to mark out areas of detection for people/cars and have no false detections.",
+    "score": 5,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "2.7.5"
+}{
+    "reviewId": "gp:AOqpTOGDSs8BJMiM3jKP2xoGyRu0Q3IFWe3uEYmmPclIXf3BlWx2w7A8shHDSeXcaStfTXR7vhVcUNMRA-VfZg",
+    "userName": "Inderjit Rupal",
+    "content": "I completed the power recycle process several times and improved the wifi signal as well. But their garbage light does not work. I have a security light from Kuna and it is garbage. Their app is also have same quality like their light. Do not waste your money on their products.",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "2.7.5"
+}{
+    "reviewId": "gp:AOqpTOFxye0bWKan-5SKRKLhySXWqP_BHrOb__dcHft_3JZxDegEz5Mx3DoJ5T_54ByBn-WpC7FirTg5OMPFQg",
+    "userName": "Gregory Weinstein",
+    "content": "Live video is great. Video playback contains kuna watermark, which blocks the viewable camera area. Contacted support. They are aware of the issue but dont necessarily care from the response I received. Would recommend other security systems before investing in this product.",
+    "score": 1,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "2.7.5"
+}{
+    "reviewId": "gp:AOqpTOFuk897VurAMdJb4pvassHLsLp6l4PQM6zr1l5cVu9GaL7kxZi7GUl2jB2yXKFdlWlX3lMqyyUd5t9AVw",
+    "userName": "Warren Mitchell",
+    "content": "this is the worst security system I have ever purchased!!! this is the fourth camera I've had every time I get one in last for 3 to 6 months did it gets defected right now the camera that I have no longer detects people coming in my yard it is live feed that's about it no more detecting people",
+    "score": 1,
+    "thumbsUpCount": 8,
+    "reviewCreatedVersion": "2.7.2"
+}{
+    "reviewId": "gp:AOqpTOGSl52w0aIc42M1mNxF12HJPRY6gXdDAzoirGbUifqZyh-PLGhpXEhBapE9MWZW8StLxCsuUBqcfftLaA",
+    "userName": "Dennis Billups",
+    "content": "We live in a high property crime and drug ridden area and this security system has been very effective in keeping our family and home safe- we love this system!",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.7.2"
+}{
+    "reviewId": "gp:AOqpTOE1xjbedJ3rAgUvlGWPzzwJAn5oFwqdvdYYSocHZ17QFVOLbl1orYUJxus3d8kF7h-QI4z0XBM32b_rHA",
+    "userName": "Timothy Carmichael",
+    "content": "Since I upgraded my internet to 250. one of my camera lights don't work, and two compation light no longer work. I initially purchased 3 camera lights and 3 companion. now Im stuck with what I would consider junk. my cameras don't always go on at the same time, or off. i have to do that every night and morning. I'll give them away so I can make it easy for a security system that will actually work. now my house sits unprotected due to the poor decision I made. $780.00 right down the drain.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "2.6.5"
+}{
+    "reviewId": "gp:AOqpTOH00N1CdZ4uQKUX28KG8J4VMI-30LFnOC2oYdUl08DnxnXb2TrHDDNFWIdS1CY5qUnJWivzfD7dipc-Dg",
+    "userName": "Paul",
+    "content": "software could be 100% better. I own the Maximus security light. I have one on my front porch and on my driveway in the form of the flood light version. because this system doesn't allow different detection tones, you end up getting hundreds of false-negative detections daily. even with the motion detection set to 17%, the flood light detects Cloud movement, Shadows, Reflections off the cars parked in the driveway. this software is flawed. even with a subscription, flawed.",
+    "score": 1,
+    "thumbsUpCount": 10,
+    "reviewCreatedVersion": "2.4.7"
+}{
+    "reviewId": "gp:AOqpTOG3fvDkaSjCgX7JzJTXSTL2AuHkuqPO2jz18b7Xg87nIqyPjBx7BSy9bHfWoOkWSsiOqoGe6U1HWyniXg",
+    "userName": "Aleksandar Crnogorac",
+    "content": "Probably one of the worst security apps on the market. Constantly drops connection, notifications come in maybe once ever 30 visits, the free version of the app is completely worthless as it only gives 2h play back. It's a 200$ digital peep hole. And before someone blames my internet, I'm running a wyzecam v2 on the same network and have never had a single issue. If you're looking at buying this gargabe, check out wyzecam and ring first. Also doesn't integrate with anything with no plans to.",
+    "score": 1,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": "2.4.6"
+}{
+    "reviewId": "gp:AOqpTOG6zvecxuQ2TfaRccVl0Y2tcOCZl6yeIotX8LM8ZNSpE4dAIu4-MBZdCwgc3hNZtiM03y5d4sKDeIfb3w",
+    "userName": "Luis Villa",
+    "content": "Best door security for home",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOF1cc68FOpva0bp4qChBun3j8OfMVW0pdBPT-7vmWv1OI27VBFuXkA7xaA-ANpHXTRyp8jCWn3bMVV_7w",
+    "userName": "Timo C",
+    "content": "Are you kidding me! \"Spend $175 on our smart light security system... Oh by the way pay to use part of out app\"",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.16"
+}{
+    "reviewId": "gp:AOqpTOGgJMhe2dmt-Srid5MUAfQV6gykXUlAMrgVqRAdf3rb3H7JxKHMMlaqu4QQS_1V5Pr7Rk9Bc2PdPY01qA",
+    "userName": "Mona's Creativity",
+    "content": "great security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.16"
+}{
+    "reviewId": "gp:AOqpTOFWoj5ZQ0Uhg2nBIIKkUfgBQi0sgbBRu5HDXSkPgE5PmNm7_htk8siB9-92xYZVYngu_898IX1UpzFQYQ",
+    "userName": "Tina Macon",
+    "content": "No Amazon Echo camera controls. Unreliable and unstable connectivity with \nrange extender 10 ft from camera so ineffective for security and worthless \nwithout paid app subscription. MUCH better free or low cost options out \nthere.",
+    "score": 2,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "2.2.14"
+}{
+    "reviewId": "gp:AOqpTOENZMwlPuRvlgp-pC7E4CGB7z1uW6WsgZtcAC7gfmbddsGpzKgdpRQ0q6pHnto8iM2yErFizcUtIU2vgg",
+    "userName": "Donut Wit sprinkles",
+    "content": "Glaring hole in your security system.  I found that an event is only recorded if someone steps directly in front of the camera. I walked from the street to my car parked in the driveway. I opened the door waved at the camera located directly in front of it.  I then closed the door and walked back to the street...nothing. It was only when I repeated what I had done but walked in front of the camera that the event was recorded.  And that was with AI enabled and motion detection set to 100. Not good.",
+    "score": 2,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "2.2.7"
+}{
+    "reviewId": "gp:AOqpTOGMjMlYNLuyNXTppE62L3pfRXR_gQ5VHAsIBWB5rgQPICDNp7rsCfAIRVJfVpcnpm83IVjCJy4kp8JisA",
+    "userName": "Michael Clark",
+    "content": "Can't even pair the security light...no matter what device I use to try and establish the pair.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "2.2.0"
+}{
+    "reviewId": "gp:AOqpTOEs_vb7H4GLmofAgwMMpAyPiCbhq2fbl9Ms0I5TfI2WsJFRJyYPEkXt-bnXbXLR0IPvZqiHVIAw2eSAEA",
+    "userName": "Corey P",
+    "content": "I have the Kuna security and companion light. Setup was easy, pairing the companion light was simple as well.  The software is another issue.  Most of the features you think you were getting are grayed out (unaccessible), which is upsetting since we paid alot for watered down app. I don't have a hold to talk button as I've seen in other videos without having to upgrade several hundred dollars a year.  Video quality is good. You can only move the camera slighty. Other than that I can see who comes to my front door",
+    "score": 2,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.2.0"
+}{
+    "reviewId": "gp:AOqpTOFurUaIfM7x-1IRoc5N5b_0jUwtsoqbZb7JHofnLmY_m8BRvRWSAwMk0l_t6AuBfVTJNKu0mGq8wNY-nQ",
+    "userName": "Jason Dempsey",
+    "content": "The app lost its mind so I had to log back in multiple times. It won't dismiss notifications so they come through five to ten times. Combined with the subscription, this is one of the crummier security systems.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOEqJ91niE3jPGEWH5n-N64MKGKFkSPxgKidXezajr-ZEGWiRYmtTBO2F8wL9jWPCO5SR6aUJPcpjpgwrQ",
+    "userName": "Sheri Sabat",
+    "content": "A security pin to open the app would be a nice addition.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.0.5"
+}{
+    "reviewId": "gp:AOqpTOEnK9Z44I56BdssUIrIFVhKDKXfZ0q_K3xtIaWM7z5nL2RNtHZO69USqfOZ8JTUVy4eOV7Bqgq4ykZtPw",
+    "userName": "Ned Flicker",
+    "content": "Lol nah honestly tho it gives you all the features of a heavy duity home security with out the heavy duity price plus the autio lests u kno ehst ppl really think about u cuz its incognito also",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.0.5"
+}{
+    "reviewId": "gp:AOqpTOF6FUfQYDxmlgy8izcECN8ET-vz7PS3rnPKDrdwHWICaLO5XVljZUfVBhjJ6LXwIbENv_oDSkTtaQlPzQ",
+    "userName": "David Greenlaw",
+    "content": "The updated app doesn't work. There is no live video any longer. The camera only captures a still image, which it claims to be \"Live\" video. This is unacceptable for a security device! Please update this app by going back to the previous version, which worked fine.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.0.5"
+}{
+    "reviewId": "gp:AOqpTOF2Ws9N4AlZWW__QPa5QJsqcFJYdtwxyFSdhnIdKxfG4VdpVrMzNZQiikYrtW_38oZcA9oMiLcqF2P6sQ",
+    "userName": "Y Crad Properties LLC",
+    "content": "Now I feel more secure in my home knowing I will get anvimmediate alert if some one approaches my back door.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.0.4"
+}{
+    "reviewId": "gp:AOqpTOEs6q3ziLpCl-l0jy_CqHJlXoxjFgz74rlTo-uQWoi4MWz2P9YqEWhdKJxS23depXY1I0Y_6RAC1dT_Lw",
+    "userName": "Gee Wiz",
+    "content": "Missing critical feature of automatically playing pre recorded message when motion is sensed. Please add this feature and Kuna is worth a five star! Kuna can act as security when you are asleep.  Also, no IFTTT despite months of promise.",
+    "score": 1,
+    "thumbsUpCount": 9,
+    "reviewCreatedVersion": "1.6.13"
+}{
+    "reviewId": "gp:AOqpTOGUgU1qYafMLeE_myaVfcpf0dBlplkyd-eOhLq6RdhjFbXmcg4ukvlDp2ckOfPjI-rUOhV2SLsd7bwQDw",
+    "userName": "Paul Rose",
+    "content": "The hardware is great, good camera, light, sound, and two way audio works fantastically.  The app itself is easy to use and navigate, but the one critical feature, the reason I purchased this addition to my security arsenal, the live view, doesn't work 100 percent of the time, I still get audio and it is working, the camera quality and streaming is great and it is recording, I just can't see it as it happens.  I've tried several times, the suggested fixes, it will work for a bit and go out again.  Also, I stopped getting notifications.  I am using a recent Android OS on a Motorola droid turbo 2, my wifes video sux, but she gets notifications and live feed using her apple ph.",
+    "score": 1,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "1.6.9"
+}{
+    "reviewId": "gp:AOqpTOF0PU18Y-dk7FheRYmBERYATcwMB5a9pe1TKGQsK-t0K3RqNFEcpC7jdX4flvP3T11hlP9OySh9aPSLmQ",
+    "userName": "Christopher Keefe",
+    "content": "I'm assuming we are rating the app, not necessarily the product...I'll be brief on priduct- don't rely on it to protect your family, the only consistency is inconsistency. Now the app- used to be much better. Apparently v1.6.3 thought I launched to live mode too well so now it blacks me out for an undetermined amount of time. Real nice when someone's at your door. Or- even better when you think your family may be in danger. It's happened. They need to get it together over there, it's not security.",
+    "score": 2,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.6.3"
+}{
+    "reviewId": "gp:AOqpTOGyXfErGHzYUL0iZEz1FuFjkQzZEdawRcI-QA2yUVhnu97nJAshIESUeuDiZerR5YiHYhiXjMJXvR_o5A",
+    "userName": "R M",
+    "content": "You couldn't ask for a better security. We were able to see things that were going on that we had no idea about, and the support awesome. My hat goes off to you Kuna. Well done.",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.6.3"
+}

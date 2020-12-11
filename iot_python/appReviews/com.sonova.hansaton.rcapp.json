@@ -1,0 +1,34 @@
+[
+    {
+        "reviewId": "gp:AOqpTOFpZFGI6iWnnw9_smx5nEwylWhCndRrzS9osUQiSEgLdZAS5by28Hf_5F54DdCm0tWQX5b2jR0uFkMETw",
+        "userName": "Frans Kruger",
+        "content": "Difficult to pair",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGRKqLAizendUQe3hoZxuMNB8AoFoCetOHv59XT7hG9BgReEmXv-AwT_g5UZfbs7GaPnoRU80X_-3eusw",
+        "userName": "Fred C. Williams",
+        "content": "App cannot find my hearing aids after multiple tries following directions.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.0.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOH7_Hho3suK9rVgmanoTK-3kyNm5u7Hc_8WcKbzL4OH89WBpVts4D5vGvm3cA2kK-_1syFFN1u3PcXEKA",
+        "userName": "Wayne Lewer",
+        "content": "great app but can'tsee how to put icon on phone",
+        "score": 5,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "1.0.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOHZMMpIzieQ4WgeYlLtF5CbwwXolFjdWsj3s7PSKu8r4BgW9BsNPvdDkr8UbLvA87Jc5wxK5dFa_0EmFg",
+        "userName": "Steven Middleton",
+        "content": "Would be great if it worked. Refused to connect to my compatible hearing aids.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.0.1"
+    }
+]

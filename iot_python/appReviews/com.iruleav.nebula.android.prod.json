@@ -1,0 +1,74 @@
+[
+    {
+        "reviewId": "gp:AOqpTOFZk2ZAExmoU2eg_Z4vi9_GWoiL7FMN-afVagGSaErdajmD6vb23R4hNhDypOMmK-3O4bKCIsXCubwTvng",
+        "userName": "Alan Morgenstern",
+        "content": "Gets the job done!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFCVXpeaWDDi0yaEtG-vQ1lbrfF7mpbPzwN0B5_p7UqHyw4PYEaTN-Ww3uswgtnVG2wI9ctbm3hAHzUCQU",
+        "userName": "David Gauck",
+        "content": "latest update blocks use with down level controller, gives warning, but continue anyway button does not work. so you are hosed. This was fixed, now it's broken again!",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.2.9-prod"
+    },
+    {
+        "reviewId": "gp:AOqpTOHgJI2kwA-BrbQZUJmrQWLDD6lxlFOrmCLPcvKiEzGdU24yg1yRvaRDURXqpRcAbtPpEsTwIwLhlHVRyUY",
+        "userName": "Kevin Jackson",
+        "content": "THE FUTURE IS HERE.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.11-prod"
+    },
+    {
+        "reviewId": "gp:AOqpTOEIQHq2GBKLJoE4ENhnnPtU2eHErsl4pIiYmfpCfsq1HrrRF9spWeAIe8FkW7nlasVMCkFmw1GDLoMAYfU",
+        "userName": "Chris Hanson",
+        "content": "Kramer was very helpful in resolving the issue i had running the app and it works great now! if you are having problems make sure you're running the latest version of google play services and try reinstalling. thats what worked for me!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.1-prod"
+    },
+    {
+        "reviewId": "gp:AOqpTOGoo1XwuqOxq1RyD2ysQu5SOD46Y5HOlI9OPOq6f95Yzo8MEEoQy7Nsp47NNR_akLJyNgBp7eiLQq1Nz_g",
+        "userName": "Adheer Rampath",
+        "content": "I love programing using Kramer control, really in depth. Amazing!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG-TFETEOqApuq8nayt1vqM2ijw0H8hd9_fWPIqLon6c8aXN6KUmY0xDbkUzFFcAWmmfJbEJyAoQo_7yYo",
+        "userName": "Jhon Media",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOGN3bUV6-IUbpj8u5WLdQomOgwG47HB44u6qItE4FR6cYKNinPD28ejLcyKxXMJ-umPUpATLc0Fvel-AZU",
+        "userName": "mari muthu",
+        "content": "Will check and come back",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFGxqso2yLMAOOciaGNEflsAAbJ7VxYQnMtoPuPnlxYFBmV1UnamMywegWI2ehsijcPM9Z82FpNfm1NynA",
+        "userName": "Dave Bowdler",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOFTfH45lJUlzQp4ciyLpUMjZntL9vw0KVvy79pTLdS8wxFDs44-eiPmQT6ZC_R93UVxr182lbYHTX7ODTY",
+        "userName": "Jeremiah Cunningham",
+        "content": "this software is so good, the team must've worked so hard. I can control my entire office with my phone or iPad and the customization is so flexible I was able to easily integrate our company imagery to personalize our interfaces.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.0.4"
+    }
+]

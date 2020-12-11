@@ -1,0 +1,27 @@
+[
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'send sticky broadcast', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'run at startup', type: 'Other' },
+  { permission: 'set wallpaper', type: 'Other' }
+]

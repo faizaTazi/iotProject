@@ -1,0 +1,799 @@
+{
+    "reviewId": "gp:AOqpTOHsoM9LjYmyxaAokVA7SBK0HW-hh2CQjZ-F7XkZh99n2_b0n4Lu8lHiGL6HcphlyeHy01LJBocZ1SbLo9w",
+    "userName": "Derek Alexander",
+    "content": "Love simply safe. Best security system ever.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.33.0"
+}{
+    "reviewId": "gp:AOqpTOF6wmT6HE2w3Hj_3X1ytoKjlE6LRq4AFiZ36RpDBr6ffVL1jvKmfCf628oU7KX9bUqUsb5GyLO8WOGjTtk",
+    "userName": "Steven Person",
+    "content": "Best security system @outstanding monitoring price",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.33.0"
+}{
+    "reviewId": "gp:AOqpTOGNP9YzziB5FdPF-iqg3c_h4sDUDf2mL0lpa1UhFGUfuRaC6SPNcOVwHHOQx9DcKGyZUJPykkkjMxUqHgA",
+    "userName": "Beth Bishop",
+    "content": "Very easy to setup and use. I will recommend this security system to all my friends and family. I am very pleased with my system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.33.0"
+}{
+    "reviewId": "gp:AOqpTOFXsH58n8FQgafsNZgfhZ0iniTxQzvrJD-ZC8PDjnAWXWdEDvlSby4CRl-bcdGn7TNnX4ETWz4uEp4v3ug",
+    "userName": "Jim Hughes",
+    "content": "Excellent security system. Had it for 3+ years and 0 issues!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.33.0"
+}{
+    "reviewId": "gp:AOqpTOFH8gNrkrzeJSFre861bnjv20ptx6ftHjPfdXyQFWYKCfnuhOrXQTzVoLW7rgXrFlzPVgOJpUNIoYnIJj0",
+    "userName": "Vincent J. Donald III",
+    "content": "Best product for home security!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.33.0"
+}{
+    "reviewId": "gp:AOqpTOG77Gj5hh3qg3imnJ-B8tAO1LmP9XuikZlNp_HBrBLTx6YvCbrthoIQlwjRSJkNsc-wLQlkSA2HVeJZiEc",
+    "userName": "Mark Carpenter",
+    "content": "Feeling secure is a good feeling..",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOGq5m8we700Li3vhip2ZGTpOH-7fzBqCP27s9j1OOOdVq7KRmkf6_AvwkYqV4zL0TbHSxHMRoxgS0fI62Q",
+    "userName": "Kay",
+    "content": "SimpliSafe is a great security system at a great price. It's easy to install, and the customer service us excellent. You will have peace of mind knowing you are protected. You can't go wrong with SimpliSafe!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOGxrhQaCgoUd-OB2a3HPD62cgu_aTPnJ7P2NLhQpBcVCT66ylmPlFXZQZMhWPPlavGA_FzOJMvEoJATOjk",
+    "userName": "BB",
+    "content": "I just installed my SS home security system.The app seems to crash, lock up, lag, etc. Camera seems to have a lot of trouble connecting as well. Since this is only day 1 of the new system, I will try to give it more time but so far this is not a good first impression. UPDATE: 10/20/20 I learned that my internet is part of the problem, especially with the camera. I upgraded. Working better now. SS is also very quick and helpful in their response time! Feeling better about SS now. :)",
+    "score": 4,
+    "thumbsUpCount": 12,
+    "reviewCreatedVersion": "3.33.0"
+}{
+    "reviewId": "gp:AOqpTOEI2u9mR0gBCJkEmtMKO9bocFO4Yc9JFcoItAMdZ8r7l7Ff6nwrBciCh9_qvOhplS9XB62l0VCh9AW2KRQ",
+    "userName": "Eduardo Bibian",
+    "content": "Very easy to use application that compliments the SimpliSafe hardware. Where other services charge you a lot more for similar security services.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOGnu8EFriwx917iiexAl4t7f1bIdUi281SFqRlXV54DxDberovHG26wUIxtK95izswf0q0ibyxKQCj88iQ",
+    "userName": "jared smith",
+    "content": "Best security system I've ever used",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOE6kj-7AYHLb6OQ_PmJ74kw02f6XWYFzD7beRMIolpHgZ7AaRx7nx4NrJ6J0zEB6Yy1XMt0rySO38osvb0",
+    "userName": "Teresa Kelley",
+    "content": "And so a clubhouse I belong to voted a few years ago to switch from our former security system to SimpliSafe mainly because it was Wireless and secondly because of the pricing. I am an install technician and have installed multiple components and complete packages of this product in people's homes for the last 3 years. I appreciate the knowledge of the employees. The quickness of the response team on alarm services is the important thing to me and SimpliSafe is on top of that.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOHPxdeh8FALeR4L3u6LJivHTdlgA7b_C9CO0JF4si4YbeqNtzyX2hE3i7wbQIJb0R3OsnRyj03a70SWH50",
+    "userName": "Black King",
+    "content": "Been rockin wit Simplsafe for a long time. They have always performed as good as ADT or any other top security system. Easy to install and easy to take anywhere you relocate.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOHq-jM4ZOZyCw2dlwjOrwXXA3v8fT-ugT1ncn_GwUQ0QBmKcrfrweVC-bEIQACheZWicLInWdYHy0Rdisc",
+    "userName": "Steve Bower",
+    "content": "Easy to install, versatile, and cost-effective security system. And customer support is excellent!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOGTIDa11pmNHqMRALqsoSB8QNXOfb_GmXGCIYJZv_xyy50ECsKfL4ih7-myTQkv6W5KfpQiutJnpAHlzHg",
+    "userName": "MD",
+    "content": "The app is user friendly. We use the app to arm/disarm the system more than we use the keypad. I work in the security field and recomend SimpliSafe to my clients for home security continuously. The tech support is always friendly and very helpful. When my system arrived the keypad malfunctioned (I'm sure this was a rare fluke occurance) and I had another keypad within serveral days. Everything works perfectly. I highly recomend SimpliSafe for basic home protection.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.31.0"
+}{
+    "reviewId": "gp:AOqpTOF7u-sRZxgQ2My8-q8n6PZRxFBDRMA6HRQx4w2Oe_gtuk9cggSRO1V5SgMCkRhQJ79Ec801Rg2lJhyyz18",
+    "userName": "rico",
+    "content": "User friendly and great security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.32.0"
+}{
+    "reviewId": "gp:AOqpTOEe94IcgyRcoGlQRyiVxBIEahZEdaFGVHi4iLdvNgBf2_4aDoFt22bU3Tz_C63BZxzCtpTyqY1zoF4mtoY",
+    "userName": "DJ Hess",
+    "content": "Fantastic security system. Covers security, smoke, o2 and basically anything you can need. super easy to use too",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.31.0"
+}{
+    "reviewId": "gp:AOqpTOEZibA6zAwyK4A2aiRbHc3tWgv2cFWRCIggENaQ8wX5c7MBhaWokI_8WMgUIMokYIZi54AhEuVnQXrbHkU",
+    "userName": "tom sheakoski",
+    "content": "Best home security system. Money i saved on home insurance covers the monly charge.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.31.0"
+}{
+    "reviewId": "gp:AOqpTOGbwm9UKTbh8GduOWRdUZXXtY4CXCwScrzhy05CXMyWZr_4mmD1QvVSNgeX4I47EZe3IgGye4XYeuncaNE",
+    "userName": "Scott R",
+    "content": "Great affordable security system. Easy DIY install, user friendly, and the app is really handy.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.31.0"
+}{
+    "reviewId": "gp:AOqpTOFueShUmQtjU2gWqcbZ3lsd0ipl8Yp9l05WDss45sEvFeJRpWjlsY-iypf61xeVLvwtGqTCjyND9yfSWh0",
+    "userName": "Don Baulding",
+    "content": "Excellent security system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.30.0"
+}{
+    "reviewId": "gp:AOqpTOHJ9RsLJW9E9f20hHv2jZhoGDh1jAp9r-IalNBQPPy2yJEoTWkZBu7BbB2VjmI8Pn8kmZOnjdJqNiIKLR4",
+    "userName": "steves locksmith 211 steves locksmith 211",
+    "content": "I'm a certified Master Locksmith have been in a security industry for 30 years SimpliSafe is easy and amazing product that I used highly recommend the system Brittany application Steve from Steve locksmith",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOHFkw_t1OxNtzWAU1f2iw_d1RujX5cIAWsD5e6IWyTpkbAUBTI804pQwSQz1ilzgiOkhZxTUjB4OlkTUb4",
+    "userName": "Nick Alvarado",
+    "content": "This is the best security system that we have ever used. It is easy to install, I can get as many different add ons as I want and the monitoring is top notch! I will always recommend them to everyone.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOH891-1DRmhm82Q8e0xoyUBHS1tn9t46rZYQCwUpZRMZydqkr00Wa6KShHh7AWH7FHHs3uWzSMfD37M5IY",
+    "userName": "Dave Bale",
+    "content": "I have been using the Simplisafe system for about 6 months. Word spreads quickly you have security. Thanks for your help and the security. DB",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.30.0"
+}{
+    "reviewId": "gp:AOqpTOEKXusGBhGSsShhbdhZLdK9OdPRlEZgm9VIKLaIPAlOf45DcXqVRMo0lnXvIe-JsI_8WZnYaEhTUAU6RwY",
+    "userName": "Tina Laatz",
+    "content": "Best security system you can get for the money very efficient very affective",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.30.0"
+}{
+    "reviewId": "gp:AOqpTOGmWn26fPDcFejDFWKbN-oOCnZndvnFBhpmNiqKeS-dj1n0J0B2Z-ZaR1CjLMvimJuHRTYglui6aDHvRhE",
+    "userName": "Ken Figurelli",
+    "content": "Great, simple security system",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOHsFrLwfdIt0iOmaakDU5jCQC-tXVez96y7JoSUXU4J83-Mbw5RziszzKXBbuCvrkC6wExuWn7CVC9cm54",
+    "userName": "Jim Kates",
+    "content": "A great security system. Very easy to install and use. It was a great decision to get one.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOF57DmRjNLyZI3S6ZXjLeSWRYEaQc0paGmqwBaNwlcBvaSqnY3ZHyzp9xP_kxrnCtjCmGOasAMB-XGf07k",
+    "userName": "A Google user",
+    "content": "Fantastic security system!! I have had the typical wired, horribly expensive system that I finally had to discontinue. Then I heard about SimpliSafe. So easy, convenient, efficient, portable, & affordable. The response center was fantastic on the several occasions I spoke with them. I have had the system over 5 years, & I absolutely love it!! It's funny that some of the old security companies are now copying the SimpliSafe security model.",
+    "score": 5,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOFCuTgwjkuI3ks-5o9m7c3CyTLwzAuJ4XQrTPodoxj-psG3KbUn_ZisZEr_usN0Q4wUVSuHQyiRhmweEIg",
+    "userName": "Kurt DeAngelis",
+    "content": "I love the app and love the equipment but most of all I love the very low cost compared to those big name alarm companies. The app has been on my phone for 10 years. It works flawlessly and is a normal part of our everyday life. We've added video cameras and the video doorbell to our system and they have integrated within the app smoothly and without issue. The entire program is the best value for the dollar in home security.",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOFX7nOyaiNP_SdABd3OuRh3GSVdSKyCU0p_PnlOgVqMUkYGyph9UXE8QIziS1-TOrXS9P1E9BS6TWrfcqI",
+    "userName": "Crystal Wiley",
+    "content": "I think it's an excellent security system. I can access everything on my phone which is really nice. I have 2 other roommates and we all leave the apartment at different times so it's nice to be able to arm it to home through my phone instead of not arming it, arming it away or getting one of them to arm it. The installation was easy as well. Anyone can do it. We even moved and putting everything back up was a breeze.",
+    "score": 5,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOHSvxe3vUmucMv0qsbhhelx0N4sixcTFMeUeF-AAinRkC62fmuoLkKPUFM1eLPHfcf6LHovIn9lmdcYqqY",
+    "userName": "Robert Henson",
+    "content": "Great experience end to end. Would recommend this system to anyone looking for home security, without contracts...",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOHW5BA-UYZ0srbl43XRX081CwcHjXBwVygWHnhr7H7Dll9vBeAk7Yr3uq5IZ3gv_4GJC4a7JUCpwlyg4LE",
+    "userName": "Michael Smith",
+    "content": "While in the process of deciding which system to buy we contacted several people from SimpliSafe and received all the help we needed. Once we purchased the system we were in touch with others in getting our system set up. Everyone was very helpful, friendly, and patient. The system works great!! We are pleased with our decision to purchase a SimpliSafe security system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.29.0"
+}{
+    "reviewId": "gp:AOqpTOGxKfaRU3ae5wDmAOQRulu8uTUq6KMvb-T-5eOwrnRiJ_cMAHaDjBGIBihRH7PeVWj-44pIYlP1oLg3NLk",
+    "userName": "Jay Pusey",
+    "content": "Great app great home security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.28.0"
+}{
+    "reviewId": "gp:AOqpTOG4LhTkLlUnpDLbd7vf-Pd4m1mGBAKm2T-6FCj7v13EVBtR_q9p07NXsH58q_kXThqAt_bItlRYaJv95tw",
+    "userName": "Zac Larkin",
+    "content": "Best security ever.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.28.0"
+}{
+    "reviewId": "gp:AOqpTOG5APgEIzAt0P5hgaDsU59-Yktp4YSOaBXAl8bbXDu6x9_qABUeUuH9SPujv-_WAqo5rgvMAtNQGd0Mjy0",
+    "userName": "Bruce Ford",
+    "content": "As of today I have not installed my system. My current security system is not over for another month. Once I install.the system I will write a more accurate report. UPDATE after the simplesafe update I am no longer able to verify my cell numbers, I had getting txt messages until the 15th. My phone IS NOT blocked as the representative keeps saying I cant pay for monitoring when my cell phones don't get alerts. Emails nor phone calls to simplesafe have corrected the issue.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.28.0"
+}{
+    "reviewId": "gp:AOqpTOHRhfbHuqPpV5RTPMcoLGB4reU4TCNMCFdsrA2i-g0C8o6VCEPlhBbIdQlbw-wZqrIb3VbqsPQT69yqpwg",
+    "userName": "Rebecca VanDyk",
+    "content": "A home security system that is inexpensive and can be relocated. It was easy to install. We have 4 kids and my husband is gone for work trips a couple times a month. I feel much better knowing I will be alerted if anyone tries to break in (or leave the house).",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.27.0"
+}{
+    "reviewId": "gp:AOqpTOGjQ0XYiCQF7x2SWRynEWHgn7E_lSIIhH9CQbsouiMUCHU70m4Tqakzzy2bH4AyfAy7TZHb7wUZZ5MqC4s",
+    "userName": "Wendy MacClellan",
+    "content": "I have had the system for years. Its amazing. I love it. I feel so lucky to live in an era of simple security thats reliable and affordable. Thank friends for making this!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.27.0"
+}{
+    "reviewId": "gp:AOqpTOH0dlcSBYUZZie6ffG3iQG21SNMGP8pPE13XHmKQpkQISyo0qVmidARj1aGQwMRoWf4m1W5J48PPG_rd_w",
+    "userName": "Jed Sheehan",
+    "content": "It's easy to use and convenient to have all the security system cameras and sensor info come right to your phone. Only complaint is that sometimes the video doorbell drops connection.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.27.0"
+}{
+    "reviewId": "gp:AOqpTOE7vw6M-xdjPThnrc4haPHGCCcW381xrgaAnsX2nFfELGsxcMmzrqyoa4mZXCAZWqhezRNGRyc69TLhRlQ",
+    "userName": "Jack Casey",
+    "content": "We've had our system over 5 years, with one upgrade, and it and the support have been working fine for us, providing that extra measure of security, we didn't have before, at a nominal cost.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.27.0"
+}{
+    "reviewId": "gp:AOqpTOEGBV7sMztLNMAAkktj-Xvku91pYs8ZfgegLN1DwAmf1cqZFpLDwuPZ0uGuZjtockb9BsLgvWNZVV3wQbo",
+    "userName": "Missouri Bob",
+    "content": "Works very well with SimpliSafe home security system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOGenbyQOKgFRNcpMx_94m0Y9izAAKaQI20YoHXBZgmSXDXsUQbMiz6TezNz50PvawrCKjNA5gZaR_hCZfc",
+    "userName": "Hoang Nguyen",
+    "content": "Been a simplisafe customer for 3 years. Reliable equiptments. I never thought security can be so affordable. It just feels good knowing my home is monitored and I can always keep watch on my home 24/7 with cameras. I even have a camera to keep watch on my dog when I'm away. I highly reccommend simpli safe.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOGtLt28u4yrkBLeG9YaAt1Hkz_5xUSbigoTPMhv6yrP4qaTJEhIVjKMVTaoxJRnEtHDO6PkkeOwk3M8tSg",
+    "userName": "Adhimu Baucum",
+    "content": "Rarely works. Not the best feature for a security app. App doesn't communicate with base station.",
+    "score": 2,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.27.0"
+}{
+    "reviewId": "gp:AOqpTOHXjNUpMevZ25O0LoQXq7a2lBm-2aC0YiaTijyicv9qLp7RwXyxwgDi83xJ0TDSMb7EDAGKR_jnp691mZ8",
+    "userName": "Richard Cagle",
+    "content": "Love it. Easy app and works ALL the time which is very important for a security app.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOEApo9Loa83p9jyeKg5-zJ4oj8s3WR9GmweMfWaJShfkIPWvLMB-2JWI1RSlHBSCTrlaBU5A0aQDJV8oxs",
+    "userName": "Ajah R.",
+    "content": "Simply Safe gives me peace...at home and away...better than the Ring security system!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.27.0"
+}{
+    "reviewId": "gp:AOqpTOHVnKEFkTz39Kwj3ZYz4EJZBHU_uBTJJ1yi1lV3NPzn6BoELtaJnOL2-Jw667wTNH_6Pp775rEFKFGiOlU",
+    "userName": "Doug Burns",
+    "content": "Very easy and quick to install. I would recommend this security system to anyone.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOHQUG8anaUrCFJCUtKxR5AM42ej4xrDNXnuxOZX-K6YvXpMoI8egO0eDZuwPwATT4CPShZod0-M5WSNWFU",
+    "userName": "OSCAR VALENTIN",
+    "content": "Great security company. Very reliable and personnel very helpful, knowledgeable and foremost professional!!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOFFxjesnDxKrCTIerU4U2TAgX_rJTptYsPcgw89yb5oDi8qm30ip7bTSdIR1DrgzNk5xSdRMgFZx5ZLfB0",
+    "userName": "Michael Redmond",
+    "content": "While it is a very good security system, the cameras also let me check on and talk to my kitties when I'm away.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOEKdwag3jMVcJTYiwnBHbZhrIBmCEJyDraaDBl9_27SWB8XDvFkUW-JNx4CY2j-x9fAQpz47NoRZnZssqU",
+    "userName": "Efrain Munoz",
+    "content": "Truly wonderful system... we even recommended it to our church elders...now we use it as the main security for our building...",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOH78QUExhNsZ2kybH50RfRjr83YRzUQ6X9nPEVvh4FH4c6lf1jnLCXxa7tXoe_p5Eog7lg-M9M0veCcQPg",
+    "userName": "Robert Q Nielson",
+    "content": "Great app for managing our home security system!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.26.0"
+}{
+    "reviewId": "gp:AOqpTOFdSSbb-glNEmeK8vSobkVIW1AqhS_xULF_p-yRnZeri0dy8oZUQWGcRYpiAqrVSR44aEUbXRLC3qZF3fQ",
+    "userName": "Mark Phifer",
+    "content": "Security System is great! Just installed it at the house. Very easy to get everything synced and up running. System is very intuitive. App is very simple to use...almost vanilla. Still learning SimpliSafe but seems to be able to replace the traditional wired security system functionality without the hassle.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.25.0"
+}{
+    "reviewId": "gp:AOqpTOF5BhMeqLDDe2mRGt4cIGxuP6_HnwYgwmAeP94zoBKPnIzCUVd8q49Yw820yZrR-yETRszMlQW1yAaFsfM",
+    "userName": "Dave Windham",
+    "content": "Just installed this system last week. So far, so good. It is very easy to install and activate. The key pads are easy to use and understand. The only drawback is the chime alerts that emit when you need to enter your security code. The volume of the alerts is extremely low, and my wife will forget and open a door when in the \"home\" mode. Luckily, I have been nearby a key pad each time so far and I disabled the system. I have seen many suggestions that this be addressed by SimpliSafe. So, I will add my 2 cents here as well and suggest the same. Increase the chime alert volume in the system.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.25.0"
+}{
+    "reviewId": "gp:AOqpTOHWAVw_EL3RC7sjPk0oyMMadlRAEUN70YGjJQYgAFIAoYcQmfhuOFHmlnUVP86urBrskjEIDaL3cBHGLMA",
+    "userName": "David Johnson",
+    "content": "The simplicity of this system is beautiful. I never had a security system as easy to install and maintain as SimpliSafe, yet so functional and reliable. I hate to recall my old systems that were more complicated to set up and operate than an airplane! We've had this system for almost three years now, and I am still impressed with the reliability, monitoring service, and pure ease with which you can add or change components!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOHU7x-Ax_xDpGKeSzC3eSQQEvmj_rEhRUlNHj1RAwE5f9VKFAoCHsftP_2rAyh2f4ND5UCxGblIJYBt6VA",
+    "userName": "Howard Teer",
+    "content": "Most reliable security system well worth the money I spent!!!",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.25.0"
+}{
+    "reviewId": "gp:AOqpTOHImitc3VsLH5M9t6vhvsE_8xkFcjMrotBHkAEQGMJsV9aJGWD-ho_-EahEFT79EmNsRAZXiRmojYCT2SM",
+    "userName": "Butch Holada",
+    "content": "The best security system I ever own. Would definitely recommend the security system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.25.0"
+}{
+    "reviewId": "gp:AOqpTOGiJH_AODFGHyGWWIDnsIfgDDUE4qiSzJWCxbsO48ExRaXH1uSzyTNpFX43RcRiH6R0o8qJXLTQMy70FH8",
+    "userName": "Michael McNeil",
+    "content": "Great app and affordable security. I would love to see the addition of truly wireless (battery powered) cameras and doorbell camera and would upgrade my review to 5 stars but I am happy with Simplisafe and their associated app.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.24.0"
+}{
+    "reviewId": "gp:AOqpTOFIkGI5iu6LeaP7WN6tLSx-fshw8eVbobL9p9uRWsDbi3p0DhWNP3U3YBfIUs6UsBNSEhoC3UTiBE57W1Y",
+    "userName": "Michael McNeil",
+    "content": "A good affordable security system. I would give 5 stars if there was an option for truly wireless (battery operated) cameras and doorbell to allow more flexibility. With that being said I am pleased with the system and app.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOEt7eagQVMbiHW-UE9Oe2GgNZ0oxW8q8lgA9Al54wNvQcn3ejextD_vCxmJ18y4mXvUWMRX5GyY2ZY5YJ4",
+    "userName": "Carol Barie",
+    "content": "This is a great system. I feel safe and secure. My alarm went off in the middle of the night and the assistance I received made me not feel alone and helped me through the situation. I would highly recommend this system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.24.0"
+}{
+    "reviewId": "gp:AOqpTOE2wNdFlhSJPOM2adunz42MI6loyXdOL2PIAj0-XswiLg0vDYdhenhSo8k7SMhG1hJ1loQdb6fm7CVIAQk",
+    "userName": "Rick Martinez",
+    "content": "Great great security system. The cost was also great. Their Security Call Center is very responsive and friendly. I've ordered additional components also. I highly encourage to get on it\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\u2b50\u2b50\u2b50\u2b50\u2b50",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.24.0"
+}{
+    "reviewId": "gp:AOqpTOHsmQAdXnZYoQnSh0FAceSOKX6pykODn9njNZnODU2QoWA8b3bDl7MWwNAFdRVJ1VhFupyDR2digLyj2hE",
+    "userName": "Ty S",
+    "content": "This is a good security system however, I gave 4 stars because I purchased the \"recommended\" Wi-Fi extender mainly for my doorbell camera and I keep receiving a error message- we lost this part of the recording\ud83d\ude21",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.23.0"
+}{
+    "reviewId": "gp:AOqpTOETo9dbYrUMJXaSLWHnCG6SKqO5XwViNynQ4cRfBZmePtgiFIfQzahdmE2gaQpIh6lJ63NcLofBzY34ByI",
+    "userName": "Jarrod Chappell",
+    "content": "Push Notifications STILL DON'T WORK On ANDROID. I keep receiving \"Check your connection and try again.\" This was the SAME issue from 4 MONTHS AGO. It's not just my phone having the issue. Feel free to update the app to fix bugs like, I dunno, alerting people their house has been broken into. Great security; terrible app.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.23.0"
+}{
+    "reviewId": "gp:AOqpTOFbQVKT-3ZoqWTXj5ZO5rgTLZMFcGlUy6Z2qvQ-5-ZrfqBXhH71KYrb8ICQVqPP1EynElcf9lRQwIY2yyM",
+    "userName": "David Hancock",
+    "content": "Keeps everything safe and secure",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.23.0"
+}{
+    "reviewId": "gp:AOqpTOGVxQbjk3E1o3meGi00QetSdPqh-RI1P5zFTD_7IcnmZ3dzXx4CI7E66lNPeSsnPGo3xCmZXVJ1aY0zIA0",
+    "userName": "Iris Ingram",
+    "content": "This is a great security system!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.13.0"
+}{
+    "reviewId": "gp:AOqpTOEgyF8AiBik-E_hElzvzf6OjZ2BZ5TXJreYe_WUOhIERQhoQHnTQh1l84VGLa8-SYguw5x0hzTR5yx_vxE",
+    "userName": "Stephen Fleeger",
+    "content": "Simply safe is very good. I am extremely happy to pay the additional fee that gives me remote access to setting and clearing the alarm. I can leave home with a sense of security knowing I can control the status anywhere and anytime I choose by using this wonderful app.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.23.0"
+}{
+    "reviewId": "gp:AOqpTOFR1s4ebubQ6Tc0YUSoATnx8wS47l8FqhLfd7UT8wOopDm38105GdhXkC55vdXZUjO4XPHoUgTCOOb-XzY",
+    "userName": "Johnny Gary",
+    "content": "Simple, easy and secure, using top of the line people, equipment, technology and idea's. Safety and Security, without a BIG bill.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.23.0"
+}{
+    "reviewId": "gp:AOqpTOFjQErpA8qymAv2fS72PAwN8NGT4xMm0R_2JtyLg9oiAVtcJhzMTSoL8kZWriNznAZuton1A2EP2db2K84",
+    "userName": "Miguel Ruiz",
+    "content": "Falls short, dashboard tells me my smart lock needs update, will not connect to app to update. Customer service not very helpful, they don't even know what I'm talking about. Very disappointed. Fast forward several months....... All good, highly recommended, great security. Good app, easy to use and install. And affordable. Thank you Simplisafe.",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.23.0"
+}{
+    "reviewId": "gp:AOqpTOFz9LRO59B_EF-hjSv5Af58eQz0qaWNgzOmGjwxLG43CVAfVIPMvkHhcfSC1mUOGw-erMxLPqPnxxhaHDQ",
+    "userName": "William Clements",
+    "content": "Just installed my SimpliSafe and can say it is a great security system. Have to upgrade my internet Service however to use the cameras.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.22.0"
+}{
+    "reviewId": "gp:AOqpTOGZKuxUuHzYe9Jp0QyFcoU4_Af7UueDPwOx46d9wULV5Mqufdbtfp9KMP1eKVK0B691Ut81NOH9aVx0TqU",
+    "userName": "Gregory Day",
+    "content": "Wow! This app really completes the marvelous SimpliSafe security system. It allows you to easily configure your system right from your smartphone, probably even allowing you to set parameters not available elsewhere. I'm a computer and software guy, and this app is one of the best designed and well thought out pieces of software for smartphones I have seen in a long time. Kudos to the SimpliSafe team for a great system backed up by great software! I highly recommend the entire SimpliSafe system, monitoring, and phone app to anyone looking for a high quality security system. And you'll save a bundle to boot!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.22.0"
+}{
+    "reviewId": "gp:AOqpTOFLYwursAHRI0bR8y-9xES46r8wBrdSw2HLs76bNJ5iO5IrGzHz5pv_GTcBgzx68z4JXu5NkVQ9LYcHL6k",
+    "userName": "Rajiv Panjiyar",
+    "content": "I am using SimpliSafe for over 5 years very reliable and cost effective solution for home security.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.22.0"
+}{
+    "reviewId": "gp:AOqpTOHJna3nSU-4gH8LDaz7OZRgqgm2KoYyKAwGZq6punV-XscoSQfXLUw48ZH5QDN6qX4TTtaNKbpHqWGHvCY",
+    "userName": "Dan Wood",
+    "content": "The system works flawlessly. It makes us feel safe and secure.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.22.0"
+}{
+    "reviewId": "gp:AOqpTOHXD1ZGrIF2EILTjHaOHC_xAefUImX6KxSUBCc0e9gtEIYBC5hMNUJnIe_C2tBUTlYfme37kT7XcrEoPQU",
+    "userName": "Kyle Hutson",
+    "content": "Fantastic plug n play security.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.22.0"
+}{
+    "reviewId": "gp:AOqpTOFumzpOj96FYD5zGIG9hp5Kt919Urcps0fo9KqXEA7AeGFNoBID7tKQi6JZHtotgW81vm3p6WAnPZSLaZw",
+    "userName": "Nicholas Jovanovic",
+    "content": "Great home security system that is easy to use and cost effective.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.22.0"
+}{
+    "reviewId": "gp:AOqpTOF7tf02wsBheuUtHdK-yEuJHRIJ7JcXvTLEuNXmvjlENEi214uQ0H-a_5xkS_ejWItUa_xCH8kT6RxO7vQ",
+    "userName": "Joy Valle",
+    "content": "The most reliable security service we have ever had and we installed it all ourselves. Love it.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.21.0"
+}{
+    "reviewId": "gp:AOqpTOFg0ohhJ5emgi642inp7sQiZLk6rV6yup1GF7HdeEQis-xM3kUPBzeS3jgVITDiray3cVjM_pT6bKV5HG4",
+    "userName": "B Wade",
+    "content": "Great security system, but the app needs work. Takes way to long to connect to vase station to turn on or off your alarm.",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.21.0"
+}{
+    "reviewId": "gp:AOqpTOGvsodakeNDulfvXG5Q78ky9fS98w35eQah6fKGhJKth-6JQLaZwHM2hjqKSHv5dSVYgrah2AtylJue7PU",
+    "userName": "Travis Lutz",
+    "content": "The app works well and hasn't bugged out yet. There's not much more you can ask for in a security system/app.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.21.0"
+}{
+    "reviewId": "gp:AOqpTOEU9x2lOSOzn9-8XZW4x31ytKxwBPN0BwqCcozy_sPwOPX_bfbDX4MO1fUAR3LirhktjCGY1YlXtJVlL_8",
+    "userName": "Chris Durham",
+    "content": "SimpliSafe is easy and effective. I have a better feeling of security with this than with my old security company.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.21.0"
+}{
+    "reviewId": "gp:AOqpTOG3Xp0caQQHFjcWogfG9oJL9la8rTKNVw4VKH6uP7efRRhsLqSUkb6cYrmlZFAOcKjgFS4-eGO2euwHMm8",
+    "userName": "Gerald Fox",
+    "content": "Love security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.21.0"
+}{
+    "reviewId": "gp:AOqpTOEifAujOR4d0TaG6wfxAFo7Y5HBPLOFkYybq_9xTYcgrha-3jivbLwR3iODE4iUJRNqLbN2vQGgmamsg5E",
+    "userName": "Jerome Walters",
+    "content": "I have had no problems with Simplisafe which warrant anything less. Their customer service is great and their camera system is superb. I wish the phone app had biometric security because you can arm and disarm the cameras with no additional security which is why 4 stars. Other than that, great",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.20.0"
+}{
+    "reviewId": "gp:AOqpTOGejP7idwPhXWvb-i7MuDtAIsQt3wFHiDzFij4Egab-sVFkiZSC3-sSzIcHrfUnPPmbtPeDmo1JrNCjQLM",
+    "userName": "Ivan Servin",
+    "content": "I was another security company that wouldn't give me better deals or any promotional extra equipment. I was a customer with them for a couple of years. Price would just keep going up. I've been with simplisafe and price and monthly charge are reasonable for me. Equipment is great and accurate. I would like to see could there be some kind of beacon light for the exterior of the house when alarm sounds outside. It would make it easier for others to see where the trouble is coming from. Thanks",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.21.0"
+}{
+    "reviewId": "gp:AOqpTOHm07sxigzfsXnSzs8dearR76e9u1HB2idiNtctMon6UpbOzsiqJ1NC9USXj4HD05AW_4csAymbPSTHFiE",
+    "userName": "Tracy Pica",
+    "content": "Convenient, secure and allows us to manage our alarm system on the go.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.20.0"
+}{
+    "reviewId": "gp:AOqpTOGWGfIN3Goo4UCTOWeVfpiMCOFWE318fm8qT5y5zqhl0tW1n7gzNooHZpVQ7gRPyo0PXp_C8E2_8d2451k",
+    "userName": "Antoine Adolphus",
+    "content": "I would recommend this home security system. Easy to setup and the system is on point. And tech support will walk you through and troubleshoot any problems. A++++",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.20.0"
+}{
+    "reviewId": "gp:AOqpTOHL2TLsf4yENMZ3OYW8pWAEshK8fv3Axy2CxkfaP3OZkZfY_Rc_1uDddZMxjP3P1md4Q9Oz0qKmDvvKemY",
+    "userName": "Ronald Gardner",
+    "content": "Have had SimpliSafe for 3 years, I could not be happier! Best home security system for average homeowners!! Great APP for interfacing with the alarm system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.20.0"
+}{
+    "reviewId": "gp:AOqpTOG0Z_dO5GCuXjpPDnGFTItqZvLU4PUg7aiBAMz9hcf3Jb__QXN9JeJiC6ZRZIbtD7xk-V5ZWD7A8PBawOQ",
+    "userName": "Gordon Metzker",
+    "content": "Love system been away but never out of contact with home security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.28.0"
+}{
+    "reviewId": "gp:AOqpTOFpNP__MxFXi9sHC0drSiCAr93QaUoFqAIJlRg0ZveDtHnl3g0eMiQN-z0vey7OzZQ7Wt7GkJ5SKVfscAM",
+    "userName": "Kathryn Kemp",
+    "content": "I now have a more secure system at a wonderful price. I'm very happy with Simply Safe , its features and support.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOEsWdjkD4q0Eh7LBzUP-wy3xSA656wJM3xdFHL2jZPcv7E6RMyo0LcgCGUwsvMs1H69qaFabREISOmmE_I",
+    "userName": "R Brown",
+    "content": "App works quite well, and allows me easy access to anything I need to do with my system, as well as providing me private alerts whenever my selected sensors are triggered. Very customizable and easily changeable. Only glitch is that each and every time I open the app, it directs me to the activation screen, even though the system is already registered and activated.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.20.0"
+}{
+    "reviewId": "gp:AOqpTOHb3nvlw5On6YbRMEunlgx6biUjmh2oVZAlP31YCdSsLc6p9E6fl6LjALo_AtUwAgPE2eljG1hYPfK1HCE",
+    "userName": "Merrill Russell",
+    "content": "Been using this security system for over ten years - Love it",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.20.0"
+}{
+    "reviewId": "gp:AOqpTOE3NMhm9IP8WqKxIIEuqlDuV_zKvhdO8wzpZDdimJO7OuH8adN7DDUzVishSLAyIj7ssld5Wnr4ed39drI",
+    "userName": "Don Garcia",
+    "content": "Best home security system on the market today \ud83d\udc4c!!!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOFZ6dhGpN-VnFCX_vJfvK3NhmcKwExfU1dlSuzD9RLhIvZnkQaQC76yUhSg3Y7fmymJzoUGWzSP8Jbvj3c",
+    "userName": "John Piper",
+    "content": "The SimpliSafe App is a easy to use took to help ensure my peace of mind that my home is secure. If I'm at the back door I can disable the system without having to go to keypad all the way to the keypad. I can monitor my camera and system events from anywhere in the world while travelling. Love it!",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOGWWRPzMjQ4aaPeq-YBkAHAV44gFcyxaP1qfh4JHOe44JIRT-EhdvsJ4ojC3TfHmzn9QHPgykMvifP6VZY",
+    "userName": "Hunter Chastain",
+    "content": "Simple yet effective home security app.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOHmdxM6zlC7lv3ZFHh4oTq2Rrp2ItWS3-ylCSgRXdjLExQH4MJMdc7eQT-uo3lETPA3DgpxoQupKE0rFrs",
+    "userName": "cherease bean",
+    "content": "I love it,i feel secure in knowing its watching",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOE1_xDdyf-ybnw3Tif8mVHA6Qp5JkyzQ3WYRrxE_Ydorr1VaGl6K-wd0RL5exKJ3U_y_aXRMRrdydU5vvI",
+    "userName": "Judy H",
+    "content": "I have had Simplisafe for a few months now and I must say the system is reliable and reasonable. It is easy to install and there is a great supportive help line and What i love about them, they are patient, understanding and ready to give assistance. This system really works and i would recommend it to anyone who wants to improve their security. You can start on a basic pack and then add devices as you go along and it is so easy to setup, so Enjoy !!! \ud83d\ude00 \ud83d\ude04",
+    "score": 5,
+    "thumbsUpCount": 30,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOGif4h08jF6R7-MGJgYtzEmaHllnFg-IIHycFTKVDe68NjeOkpgZGwdr-LHpawHjOaNRq-d_FoEDsjE6II",
+    "userName": "Todd P",
+    "content": "SimpliSafe has been very useful and an effective tool for security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOG9GVUz0oYA_wH1JTAfremBBWfUKHTko-w3YOG1gf2JRCv1N-RtjoP-tuV238jIgZRJVhSFe9lnRbPZ_1s",
+    "userName": "Alexandra Neubauer",
+    "content": "Great inexpensive security system. Convenient control from your phone feature.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOHBSm1autLF7_smvh8c1VLf6_l6vFNa4hdhLP7ypepleUo0pVwgKgaC42b-_ug11MHNIno8M50nd7zzfDE",
+    "userName": "Jonathan Wendel schleichkorn",
+    "content": "I had rampart for 20 years was very expensive but they were very good, but simple safe home security more affordable just as diligent and super easy to set up amazing amazing service thank you",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOHanCh6Swpkqqr2ZadcaaL7Z1gh9mSorc58isT7h6jrlkqz_q02szThy2YBhpue_FQWj-dlhTUCAtlUAtk",
+    "userName": "John Horton",
+    "content": "Economical way to secure your home, easy self install and good and responsive customer service. Have been a customer since January 2020.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOGwNzjUoMp9LTx-CngkzWYK1Mlfsqv9qZ8GKpDX576KNYlIlB3HUwCTQ8HO3LJEOacS7QZ0carV56zzbDU",
+    "userName": "Kenneth L Johnson",
+    "content": "My SimpliSafe does what it's supposed to gives my wife a feeling of security",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOGxHDCJBXUQM1IQyr4DodQ10yjFve2_sAvBYo_LfNZ9-4aacIHryxXcX8eOCgJPdUZbqMdBWcMM5YSM1J8",
+    "userName": "D N",
+    "content": "The best security system ....",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.19.0"
+}{
+    "reviewId": "gp:AOqpTOHzlnA7gh-DlEWTUx9jaM7LOSfjT9pivXVPsaeH5ljFPCBYSzXEI5KMcJ4lwsWvVPqyxg3Eb7A4tWO5QGk",
+    "userName": "Nick Archer",
+    "content": "Quite simply the best value smart home security on the market. Very happy with the products and services. My only gripe was having to run cables for the CCTV cameras.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOGhW1JX6Y_v9Y-WCRrJ_Up4RcC7ynLrF9ea86VWMylUAEbqOYMNBIzKEOqyNYkn4vBT-H39UmwmqTpvQh0",
+    "userName": "Jonathan Amaro",
+    "content": "Awesome app Awesome security system",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOEu3ZQLFT4w3qAtLUz3216ISEwjgw0kgAC97Q_8Ya24npJcwHxeKAnjZpllEkuOdAnmH2O5n_suC6p4F2k",
+    "userName": "Heather Ryan",
+    "content": "Great app and security system. User friendly",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOFiB21RS-14JvXmpW9CxxdqHaCJ4zZPj-F_b2VThQdZvmlqyg7wYDLzNQCZLgboyeaHs6Pq81hjuFJBpQA",
+    "userName": "Becky Handy",
+    "content": "I spend more time looking through my cameras than I thought I would, lol. This security system has help calm my anxiety and secure my home. Plus it is easy to install yourself and inexpensive month to month!",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOFDvrCEGqy22rQKIW8vwpw3fV7UvRpSlEdMsMX7EdV2WuzMDg_fHtQQZRJVJDn6WHTbo6ech5r99OL99m4",
+    "userName": "Richard Scipio",
+    "content": "integrated wifi door cam with security system. Works well.",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.17.0"
+}{
+    "reviewId": "gp:AOqpTOFo1xxm7d9P0EBJt31ZRhbDDtPKVJGKQ6lM4HaIsYQcwONpdOUE-2SQwjcEPNG2A-aXuTC_gaANsWiUmbE",
+    "userName": "Chris James",
+    "content": "Awesome security system. Works well for us and is really inexpensive for what it covers....love it",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOEChKhpAAhRZVB_JwIBAwjDWL5phdWMR_oW0imcY9pMsZ5iyz14s77zDv4kiG7xEvU8x_wGe_ap29CKYmA",
+    "userName": "Jennifer Stagliano",
+    "content": "Love the security that SimpliSafe provides for myself and my family!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOFxiFv-waOZeN7R3gusWbOaaOwrIFzm21r5b5VOrfdogcHVV5L3i1Pm3w4epqhRqXaXJsDXnYu-mCAzWRI",
+    "userName": "GUITAR METAL STORM",
+    "content": "This system and app work great very happy I chose simply safe for my security system, very easy to setup and great customer service and support.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOFEqmthsBN91ULU853UOiSbYmFVCEO87B9tLn2uc27f-FZJ9TgCqBEobCYsy4zY5742KuEjlYMLmQJK014",
+    "userName": "Jim Casper",
+    "content": "The best, easiest security system, intuitive and very user friendly",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.18.0"
+}{
+    "reviewId": "gp:AOqpTOH9OQ5s3k6qAqg2Ly2BVVo_G5Sg9VPyDn2Tlwf6m4ZShS46fQXElKcVgE64cR8ehR0IKTmUIUcwyXAvJm0",
+    "userName": "bren bode",
+    "content": "This system makes home security and home safety so easy!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.5.0"
+}{
+    "reviewId": "gp:AOqpTOFkPFuSTBzA3EfeIjcYT1e6Bey_Hd9VdBqZlk8gfGoiuTA46VF5Mfnthn4mBm666FOKFtwtRAkc7sxd4G4",
+    "userName": "Renei Hall",
+    "content": "This is a very good security system. No contract needed and very affordable. I love that I have the option to set up the system myself without paying extra for a tech to do it for me. I do have issues with the camera sometimes. It has alot of connection issues. Otherwise I'm happy with my purchase.",
+    "score": 4,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.16.0"
+}{
+    "reviewId": "gp:AOqpTOFEBJiKoB3OjSkyuaWhoCryEFEXrJPv9LupvUC8v93HYKq3moiyKRjT0SAALC4Oym2gmr-yK_qMFlowxj0",
+    "userName": "Kevin Taylor",
+    "content": "I recently discontinued my home security with Comcast and was driven to SimpliSafe by all of the positive reviews on the internet by sources I've come to trust. The camera sometimes takes multiple tries to connect. Otherwise the app appears to work fine. My only disappointment with the system thus far has been with the volume. I have a large home with high ceilings, and the tone emitted when the doors are opened is difficult to hear upstairs. I was a offered a discount on a siren that would \"mimic\" the tone from the base station, but was disappointed that I would have to pay for another accessory. The Comcast touchscreen station was much louder.",
+    "score": 5,
+    "thumbsUpCount": 16,
+    "reviewCreatedVersion": "3.17.0"
+}{
+    "reviewId": "gp:AOqpTOFIXaqaHQa2Cd4RTOtTrtWMObBuhWjaulx7a9Z_HvDNTxMLJ90TuR0be5CCUXmIzII-ciICz7AdiDXy9JY",
+    "userName": "Wes Howeth",
+    "content": "great application, and great service! very easy to set up and use. I get notified quickly if I leave a window or door open, which is what I want in a security application !!!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.0"
+}{
+    "reviewId": "gp:AOqpTOHNViSSFVTtxn907-mjK3K7MTg2wjNALOmDb9HRe01DUMWp5HSLogvC4u_egbiypgbuHlgwkfrC5eVF5lI",
+    "userName": "Carolyn Myers",
+    "content": "Excellent security system",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.0"
+}{
+    "reviewId": "gp:AOqpTOH6QWK-XFJm84abYsmBbFLIj-bJQZEwhjd2B5gpArkO3_C0jtRJEzELvSfwQ_X4zcjobnjI3hzvWyaiBNo",
+    "userName": "Ruth Irving",
+    "content": "Really like this security system. Easy to install and to operate. At first I only ordered one camera but soon decided that I needed a second camera for another part of our home. I love the way I can use my phone to watch what's happening in my house.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.0"
+}{
+    "reviewId": "gp:AOqpTOFyAEsPzqKc6CQ-6VFzOdR2LxdxcXmt8bP3s4f96FAAgUMQ5zac_yd7iD-MZwvhXbFIx8KgChmMGxWzV84",
+    "userName": "norm boatright",
+    "content": "Best home security system you can buy",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.25.0"
+}{
+    "reviewId": "gp:AOqpTOEAouHmE9zuY2jWxHlvk9vTrzsUf6FC2ycQwBB-qc4FXek0Z_OO-PRj6-YtT2fmUOL8HqvCf0YNVr_31nc",
+    "userName": "Dewey Lee",
+    "content": "SimpliSafe is the best value in home security, period!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.0"
+}{
+    "reviewId": "gp:AOqpTOHSjwsJN4JQTeCBUSxwrHMwTVBT-MbtwIa3gvvVN88LHglRg9fBX18CwDoXC0OJrd7rw83OJNFCyxcBo-E",
+    "userName": "Rudy De La Cruz",
+    "content": "Excellent security system",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.16.0"
+}{
+    "reviewId": "gp:AOqpTOHIeJvYTbgSSW-W4_Sc_TmCkcTs85VIDK1TCC_4R_yjzwFjRbtKJ-R27y9u3o4nepuNk4c8ckIR4GxYBHA",
+    "userName": "Ieatkittenswspicy Mustard",
+    "content": "Easy to setup. Sensors need better screws tho. Kept falling off my door. Scared me when a sensor fell off my door and almost caused the alarm to go off at 3am. I secured them all with screws after that. The screws need to be stronger. Kept stripping out. I did get it to work after a few tries tho.",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.16.0"
+}{
+    "reviewId": "gp:AOqpTOG7M6iZEmW-OVVSxGbEnAJiNJqdxIgxeMBT5YTnaF-o6G5TIiLwIZrf4z6kEeE1FKwl-y_b8yyPncXLE-o",
+    "userName": "DifferentColor OnePoeple",
+    "content": "Setting up for the first time was easy. All you have to do is read and follow the instructions that come with the system. Adding another camera or a sensor is easy as pie. The paid service is also very affordable compare to other home security providers out there.",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.16.0"
+}

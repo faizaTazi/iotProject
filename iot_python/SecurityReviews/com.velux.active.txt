@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOG0YvAV8b6uXlLtQ0MQzlT9d43f3JP6AlgxYKjWADOrwdJy3KG2u2fb8rwqxfAT15S9pVUu44a_NBDGsg",
+    "userName": "Martin Barrell",
+    "content": "Customisation of options is limited otherwise so far so good. Would be good to be able to group blinds and windows for manual operation. Would be better if there was more control of room airing so you could specify the maximum length and minimum outside temperature. Gateway would not use dual band Access Point from list of WiFi where the SSID is the same on both bands but worked when I put the SSID name in. Gateway dropped once because power lead does not fit securely.",
+    "score": 4,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.6.0.6-all-arm64-v8a"
+}

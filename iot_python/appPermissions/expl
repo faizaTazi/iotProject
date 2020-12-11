@@ -1,0 +1,26 @@
+  { permission: 'read your contacts', type: 'Contacts' },
+  {
+    permission: 'precise location (GPS and network-based)',
+    type: 'Location'
+  },
+  { permission: 'read phone status and identity', type: 'Phone' },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'read phone status and identity',
+    type: 'Device ID & call information'
+  },

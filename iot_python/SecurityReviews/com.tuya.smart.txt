@@ -1,0 +1,85 @@
+{
+    "reviewId": "gp:AOqpTOFO06pGjXEaUjYxUhZTKxGJH5eEfEkreyrnet8TfUCWgDvZj2jICHyC0AUO45hT1HAjXY9IzmZbfytOUw",
+    "userName": "Scott Andrews",
+    "content": "I have two lightbulbs which I can control change colour etc. However I am not able to add a routine to them using the X number of minutes after sunrise option. Frustrating as these lightbulbs were purchased as security bulbs.",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "3.20.1"
+}{
+    "reviewId": "gp:AOqpTOGhnu1_pooinVONEM7ivDIQllgTiJuiweipUX51hoWUT-8cGrUWMYBthSPfMveQbwJ7qliUdMSJQqCBIw",
+    "userName": "Stacy O'Callaghan",
+    "content": "Doesn't pair to my light bulb at all, waste of money. Fails every time. Also the privacy settings are entirely unsettling.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.19.5"
+}{
+    "reviewId": "gp:AOqpTOGdP2x_FVsVRR5eqw8VOBcp5JRQdWjpcZtGgRdfZf3vBdhhSCUXj01e1_YlrMxpQn4o4xdS9oFRCA-Y2A",
+    "userName": "Paul Freedman",
+    "content": "Was good, but new privacy policy update is unacceptable. App opens and asks you to approve or decline the latest changes to privacy policy. There is a link to click but this didn't open the privacy policy, so the app is now completely useless unless you're happy to blindly accept whatever the policy is.",
+    "score": 1,
+    "thumbsUpCount": 33,
+    "reviewCreatedVersion": "3.19.5"
+}{
+    "reviewId": "gp:AOqpTOFSLiYZ6UsQNmlpByxtuUC6aliTIaI-6DpjkBpxU54Xur3rGvzAnht4iXIHPDzJqqHLCGuA5Me3T5eFMQ",
+    "userName": "Andy R",
+    "content": "I used to love this app, however now it is asking me to agree to a updated privacy policy, but won't show me what that policy is actually is (there is a link to click but nothing happens when I do) As I refuse to blindly agree to an update without being able to read it I guess I'm looking for an alternative app.",
+    "score": 1,
+    "thumbsUpCount": 42,
+    "reviewCreatedVersion": "3.19.5"
+}{
+    "reviewId": "gp:AOqpTOF84t2785NeLz0EXSlTLuCwTN0AwpKdiCUMffwFHThb1ZOJnrxfVOcpjrQYrdWxyIyO6PDJ1SaYJmnUCg",
+    "userName": "John Stratton",
+    "content": "ANYONE THAT HAS HAD THIS APP FOR THE LAST 4-5 MONTHS HAS SEEN THIS APP GO DOWNHILL QUICKER THAN AN ALPINE SKIER. Started over by redoing whole install process. . Now the Cameras both say on line & work. 1st time I try them it was failure. Pure garbage!!!! 3rd update: All hooked up and they say on line: Neither work. If you have a home security system buy their outdoor cameras and use them. Costlier but no headaches. Is Tuya short for sucker?!!",
+    "score": 1,
+    "thumbsUpCount": 16,
+    "reviewCreatedVersion": "3.18.1"
+}{
+    "reviewId": "gp:AOqpTOFK4kirGBtzTOm5Rgi76TnHjKTF-q14HP5QsoN7I5y3o5YdhkWfzt9GvqfYwSVW9EqpNDdwHQ6vvyLQqA",
+    "userName": "Astrid Malory",
+    "content": "Very reliable, great quality for it's price, great service and the options for personal customization is very satisfying and I feel more secure",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.8"
+}{
+    "reviewId": "gp:AOqpTOEcZilFShiDeGn8s0TatNvP86pCvYvIrkH93fcdDT-Mbmb9J9gBQMLILJm5LqIMdqupE5aca9Z1mKj57Q",
+    "userName": "Claire Yonng",
+    "content": "I'm very happy with this security video camera... It's awesome",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.8"
+}{
+    "reviewId": "gp:AOqpTOEcn513SzbraXMtOY1u1reECaKwbF0YfaZiFi04U5IuKuVpsLmZWZkJLKBS8czOs-pfiysbCReEPHrU1g",
+    "userName": "Giles Peg",
+    "content": "What a security system made real easy",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.8"
+}{
+    "reviewId": "gp:AOqpTOHHGOBNyemxm45_NCdyZJYE0Jm1i-sdMESji_jfm_GkDLYn4_Y5_SxpYzvm4xxJbaHvafqsPPgj0WIi4A",
+    "userName": "Byron Faulkner",
+    "content": "Great for home security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.8"
+}{
+    "reviewId": "gp:AOqpTOFWQeYuNvR-SqpmmKrLFmptbXV2nra5SP_g_iZ7jlpjRrZ_CqxgqHU25_Kxx4IWyPvyiYILNzs8qak5qQ",
+    "userName": "Eartha Leopold",
+    "content": "It provides adequate alerts for motion detection. I mainly use it to spy on the dogs when I'm not home, but can see the benefit of security features when out of town.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.17.8"
+}{
+    "reviewId": "gp:AOqpTOEjpb-GWbYrEFk7zyfut933H517cFumZe8Byd8u9kJA3S9SMfCRv7rE-jVR9XZevkgAYS_DwxduHdcrIQ",
+    "userName": "Corey Scott",
+    "content": "This app is exactly same as Smart Life. It still does not let you automate the color of color bulbs. Only the brightness of toe color last used. I want to have the color automate through out the day at ste times! Fix this and I'll give 5 Stars! Also would be cool if it would link up to the Remo doorbell cam. But I'm sure there is a security issue there.",
+    "score": 2,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.15.1"
+}{
+    "reviewId": "gp:AOqpTOECyBO5WErwnIuDUp7tJg6TGlODdDRTXiJRDL6oqFdwT03XTeRh39HlFr5hj1BrVRFmbIWV12FofOTXeg",
+    "userName": "Pastry Crocs",
+    "content": "No notifications from security sensors while app is closed, doesn't run in background, laggy notifications when it does work.",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "3.15.1"
+}

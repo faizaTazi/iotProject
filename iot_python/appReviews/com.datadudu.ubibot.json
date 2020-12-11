@@ -1,0 +1,74 @@
+[
+    {
+        "reviewId": "gp:AOqpTOEQT9-LfYMmySh_lwUTEg-5FE67DJbo7EUHb4TX70DMZJU6NxA05bZOQNsocXKHaN2gDeJ75cebt6niQks",
+        "userName": "Ryan Olthof",
+        "content": "App works great with WS1. Phenomenal value for this kind of monitoring. Unable to reorder the devices in the list once they are added.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.4.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOH3A4Q2nydGGAFfZEVaXQ-ENvPmo-a46TVNkw46EIfuVC8Gsw3iAS0oAB72EbfKh2juTLnG1VbyuBNPrEE",
+        "userName": "Danny Tsang",
+        "content": "Functional and gives information I need. Taken a star off for not being feature parity to the website e.g setting up integrations and the UI style is not my favourite (latter being more personal preference).",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.3.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOHG2-QrOrTHbFUZxwYcSmzZ0eOkxV7ODPvzKRXX8O0-9nJYtui0aPuQ-0INVe8RdE1LnIZS4KJL8QG1x1k",
+        "userName": "Libby Lamarr",
+        "content": "A decent app, it would be nice to have an exit button so I don't have to kill the app whenever I've finished using it. Also, it would be great to have widgets to display latest stats.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.3.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOH1g6FUh7cwuJltmmUrE8yJBjlJW9SupiHgfKQi_VOWrAwqUVisux1IUZZ8qcszzAXP3dh78DVBtCbccsQ",
+        "userName": "John Lawlor",
+        "content": "The temperature readings on the chart are unreadable, they are all bunched up on top of each other. Have a look at Grafana for a good chart example. There are spelling mistakes in the app. The word 'less' is spelled 'leass'",
+        "score": 3,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOHB3-SOXHpSVABMMjwOvjGjX0iHFUPSZPyHfXcGo2VvV-jFBj4xvgRSGyw2YzQATMnRt1UMGbL-8eO8KBk",
+        "userName": "Rodney Miller",
+        "content": "Great app, great data. Using this app for data on ws1 from a grow tent. Great array of data and using the syncing to Google sheets for more analysis.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOFS8gnTpKGEEi-aX7LetT5fV2IvGT7lEYuCJfs-DiETv00j4cCveN2Z1mFjVOYjas2KalybgHQbjlheCGQ",
+        "userName": "Alek K",
+        "content": "In prior version I was able to control the vibration sensor sensitivity. I think this is important, why it was removed? It would be nice to be able to change the graphs order. Update: it's been fixed. in the latest updates. However, it's still confusing since configuration seems to control the sampling interval in minutes for all sensors while the vibration sensor shows no units and controls sensitivity.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.24"
+    },
+    {
+        "reviewId": "gp:AOqpTOEoE_Lb0nVheO2qOr0J3p62kFw0_lAyJ-K_50xDYWVoTKLtHNLZKTGas-bSX6_F0g_QmA1jlUgD8bY_Wes",
+        "userName": "Brendan Short",
+        "content": "Excellent app to go with UbiBot environment sensor system. Works as described. No crashes or bugs affecting use. Best bang for buck IOT environmental sensor by far. Regular updates continue to improve it.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.24"
+    },
+    {
+        "reviewId": "gp:AOqpTOEsChLeYGdyOGC4IW5Zb6uRGNscVfSGYOOcFPxiVQD51ybh7QfQ2HCPc2SpX3H_WqUGVoB6vuJo5Ui_3vA",
+        "userName": "Tony Davies",
+        "content": "Works very well with UbiBot WS1 sensor. Well designed and implemented UbiBot server platform. I have the sensor located in the loft, running on 2x AA Alkaline batteries. The sensor also has an external temp probe which passes up through the roof and is fitted into our external solar hot water tank. Software then provides a useful record of loft temp & water temp, with intuitive graphs over various time periods. 4/5 * given. Cons: Nothing major, but niggles, ie: Android app refuses to quit via Back key, and no Exit button provided in the UI. App sometimes crashes when selecting different time periods for graph displays.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.1.23"
+    },
+    {
+        "reviewId": "gp:AOqpTOE9iFmVB_QqEG1MqdzkpkITG0T03GPDcEqqDtjbTfmF2x2nt3gr8IyPRoOZbsi6v359FioQQ_PQt2jCnJA",
+        "userName": "David Brawn",
+        "content": "Have been using for about 5 months. The original version was completely stable and reliable. Since the recent update, when changing the time period for graphical display the app frequently just hangs. Pretty annoying",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.20"
+    }
+]

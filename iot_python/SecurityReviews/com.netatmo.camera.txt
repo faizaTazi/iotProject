@@ -1,0 +1,148 @@
+{
+    "reviewId": "gp:AOqpTOF3B9z9WBXfC_VERt5CGC3FlXZgfbOqs0TPKzjV7Ho7yP1LXItFKyqQwYGoGCbpZdai_Qe3d1BU0GzDeL4",
+    "userName": "AndyB",
+    "content": "Updated from 3.1.4.6 to 3.2.0.27 and, as advised by Kate from Netatmo CS, the alerts did not return to \"default\" settings so thanks for the resolution and adding a star. Will do further checks for any other concerns. Would be good for the app to offer a backup per camera as memory cards do eventually fail thus learnt security data is lost.",
+    "score": 4,
+    "thumbsUpCount": 12,
+    "reviewCreatedVersion": "3.2.0.27"
+}{
+    "reviewId": "gp:AOqpTOHmMcrrKFQWyh99776pKS7PozmfwX_U2W37Uyr3xPYOiUa88swfMj5uPDwRkZmFe_oYLqGIqUbfq_FDIV8",
+    "userName": "Christian Bentley",
+    "content": "Just install a camera. Looks good so far. Update September 2020 Best security system ever! All the features advertised actually work perfectly. Customer service is great also.",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.1.3.3"
+}{
+    "reviewId": "gp:AOqpTOHrrSHF5Gi7PmNHOzIvNzz8hdy5wyuE8jf_XW0XSe0MjWFwW2Sd8LvHypD9PVfo9ck8Br0FlcoEbcnU-rk",
+    "userName": "Eric Vasanne",
+    "content": "Le syst\u00e8me fonctionne assez bien mais il faudrait une solution pour facilement signaler/changer l'\u00e9tat de l'alarme. (par exemple des raccourcis ou widgets pour changer entre \"\u00e0 la maison/parti\" et la possibilit\u00e9 de changer le niveau d'alarme en fonction de l'heure. Ex: alarme si visage inconnu la nuit uniquement pour \u00e9viter les d\u00e9clenchements non souhait\u00e9s.) Il me semble que la d\u00e9tection via position ne fonctionne pas vraiment. Donc encore des am\u00e9liorations possible via l'appli. Eng: The system works relatively well, but it misses an option to quickly switch between alarm configuration. (eg some shortcut or widget to change state between \"home/away\" and a possibility to define alarm security action depending on schedule. eg: only alarm in case of unknown face at night to avoid false alarms during the day) There also seems to be an issue with the geolocation, it never seems to detect it properly. So they are still some improvements to be done in the app.",
+    "score": 4,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "3.1.2.2"
+}{
+    "reviewId": "gp:AOqpTOGJzwgqctdoulN8AoQlOdNFmmvVVULCRy0n_j_U13doMxsnA6YJXZ-xUYgz77-4dJDifzbv7B7ruczXCh8",
+    "userName": "Moody Blues",
+    "content": "Beware! This camera was okay until it started sending me notifications for people I have never seen and who were obviously not in my home. It's asking me to identify at least 20 strangers which means our faces are showing up on other people's apps. This is downright creepy. How can this be a secure camera/app if it's doing that. As a security professional I can tell you this camera is not secure otherwise it wouldn't be doing that. Beware! I would love to see what Netatmo has to say about that.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOG15tzCENpUBgZ7cSM_1ZJijR4suARuWMgc3DLUSwOlpAydy1-NJFmKyVVrcVMrZZlwtKY9RsFR66ZC0kk",
+    "userName": "Fletch",
+    "content": "I like that you can now set the playback resolution, but I can't find a way of it defaulting to 1080p, I have to manually set it each time? Also I'm a little concerned since they changed their App logo, the fact it just says security (no mention of netatmo) makes me think they're going to be taken over or are going under? :-/",
+    "score": 3,
+    "thumbsUpCount": 9,
+    "reviewCreatedVersion": "3.0.5.9"
+}{
+    "reviewId": "gp:AOqpTOHYpZ2qqrqaVmRbJObcIyDK5PAu4wy7O3YjVskMa8uzVnfADwS6VSt6G5bsumr7Sq3y6kzpzD51xr_poqw",
+    "userName": "Jason Stabb",
+    "content": "The camera so far has proven to be very good, my biggest gripe are the security features of the app. I live in a shared home and I really like that I can share the app view with housemates for shared security and openness with each other but it does not let you restrict access to settings, meaning anyone can just turn it off or adjust alert window making this camera useless for security application.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.0.3.4"
+}{
+    "reviewId": "gp:AOqpTOGtijUKwSqEDwSwzmRNYuokEdKFFNmmZ-XSRwD_Bf8egFs3Enr6ksW-kr1GEjMS7AcWutsLnvgF7Nqv104",
+    "userName": "John L",
+    "content": "Been a long time user, generally it has been flawless with rare occasional disconnects for 20mins, and odd things which haven't been picked up. Customer service very good, which is the key thing. I have opted same security system in another home as a testiment of how good these are (I've tried other highstreet brands like Swann, Yale, Arlo and Ring).",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.0.1.2"
+}{
+    "reviewId": "gp:AOqpTOEVRzT-i3J3q7naMfMdUy9QJ_ZWla1d1KcHYEhGMJjD_V_mtw1H_DrJKu6ZQYLOp79l6_KjNJJZHDAUjJs",
+    "userName": "Freddie",
+    "content": "very happy with nenatmo presence and the app. great security.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.6.1.0"
+}{
+    "reviewId": "gp:AOqpTOFAWTb3wLdJEDUWEwmnTsl7i83-WcG0CV-Rno8ywWY4cYj6f_bmvvWmGPIhXZLMTLbO93txdI2v9BxbGoE",
+    "userName": "Liivi Tantaal",
+    "content": "It ok but to call it smart is a joke. it keeps giving security allerts on our un moving car and windy trees. I keep applying the other tag to windy trees but nothing really changes. Its anoyng as hell when at work and you get 20 notifies.",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.6.0.4"
+}{
+    "reviewId": "gp:AOqpTOHrgvwrwS-ehu4F0UOqXV_ry0VaXG-CO0AJZst70QJHt5jWBXQi-FVFDT_rDujXyEkpgOxfzEt0yKMHAhE",
+    "userName": "NULL NULL",
+    "content": "Great security system. No subscription fees. Have two of the outdoor cameras and one indoor camera",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.5.0.2"
+}{
+    "reviewId": "gp:AOqpTOFGyUdb6IYQVr_i0iCG11vvNBtOSiGpKAt8LBW0kWC56otRo-5qvSsaUTJSSajK_D8rddWBjI943VkaPw4",
+    "userName": "Mohammed Aljallaf",
+    "content": "Perfect App and system ... Feel safe and secure while away",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "2.3.6.2"
+}{
+    "reviewId": "gp:AOqpTOF3JSqYvTj2qQXYtcd6BPHuHdWyiuC1zDT0CwJFt9WDAuf6f_j9IwKAEBvGogDFut-DIcJtBiCwK1lUMgU",
+    "userName": "A Google user",
+    "content": "Great for a quick security fix and easy to install",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.3.4.2"
+}{
+    "reviewId": "gp:AOqpTOG3DTvNg9fLaaK1X48utmD1pUWI8cgTtPqT5Oj_RrpXMsd-KifN-cB-C-EG8tLQ82Z_LrkW-jK7_HlZxkA",
+    "userName": "Linn Rafferty",
+    "content": "The only big issue is that it doesn't send notifications, although the \nsettings have been selected to allow them. This used to work ok, so I \nassume this is a bug introduced in an update. Please issue a fix for it, as \nnotifications are an essential feature of a security app.",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.4.10"
+}{
+    "reviewId": "gp:AOqpTOHku3p4I7MB0QirO8yqa7By5gnzblFwB35fstAx_t2F5HkUXyy9azn_ehbBZcsQtSaLDgYdUMF3jtLcfjs",
+    "userName": "Claude Benshaul",
+    "content": "This product feature non-functional geo-location and erratic facial recognition. It will redefine for you the meaning of the words \"useless\" and \"frustration\". I also have a weather station but the welcome camera and the security app are not recommended.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.2.4.9"
+}{
+    "reviewId": "gp:AOqpTOE2u6xyJaU3qdVNVZb1XT87tQ871Rhrp20dWFhStki_sS9tE-WtTa4RBCAj6YYcAD06Pkz0Pn0Z4LQ5Cig",
+    "userName": "James Singlehurst",
+    "content": "Works well with the awesome camera. I find it more useful than my 3K external security system.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.3.0"
+}{
+    "reviewId": "gp:AOqpTOEUKLvZSO5cbgfUT9W-eiBMV1y-kshQKlwIa228fxgk0Hs1W5XElpVW4tqL1JftoGJx-nV5IjqPNfqNgV0",
+    "userName": "Jenny Schenkenfelder",
+    "content": "Great app that helps us secure our home. Makes me feel safer after a robbery last year. Wish we'd had this before our house was broken into.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.3.0"
+}{
+    "reviewId": "gp:AOqpTOEMnwLc-UKTIUy1wnzdUqR3DUMPqmZ7CzbvroUIfS_xdnIDEdAVnqyXnvCObvWj1DufHsJhPqTJFUuliMQ",
+    "userName": "Matthew Cheshire",
+    "content": "Great for all sorts of operations . Currently using as a baby monitor.  Buy great as a security product too",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.2.0"
+}{
+    "reviewId": "gp:AOqpTOH2bm-jZJy-WQpdCAdS90EgENP20vDiZrY-hzylXWm9hkSwsXv-Fr4QoNGD7njcprYsjemYCZk6a5XUU7w",
+    "userName": "Rob Smith",
+    "content": "Superb without monthly subscription. Love Presence for monitoring and security",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.2.0"
+}{
+    "reviewId": "gp:AOqpTOE1hkV3lnHFiovT6UxAuU4-66cA936vJPh4jloGME40a3hUTbe6vbEkpDqbXzaIOVyQAbcIjT688PHH7vA",
+    "userName": "Tj Kelly",
+    "content": "superb product, if you are looking to increase security (real easy to use) & need an LED outdoor light then this is the best & I looked. Everyone in the house can use it.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.2.0"
+}{
+    "reviewId": "gp:AOqpTOG4e8wR25JN0YoMWOr-oe7fC--nC1Js6gSc5YkGNFp9CSHdcVgSGRAjnDAKnPLavEA2KyGSh67iFWb2oL4",
+    "userName": "Emma Jackson",
+    "content": "We have had our netamo presence and welcome cameras for coming up to a year now so are in a good place to review their performance. The app in short is underdeveloped and under-supported. There are numerous bugs which don't seem to be addressed including, unresponsive at telling welcome all have left or individual people have left, not loading thumbnails or only loading half of them, not loading video, crashing, and generally a slow and clunky experience. The algorithms behind detection are in need of a serious update, sunlight on cars sets off alerts, improve detection option does nothing as it still identifies the same events incorrectly. Additionally, welcome not recognising pets unlike the presence means a house with animals has many alerts a day. There is a high number of false positives that leads to alarm fatigue which defeats the purpose of having a security product in your home. Also I would be interested to know where the logs for the device are kept, as anything on my network should be reporting to my SIEM. When first looking at home security the choice was between Netamo or Nest, after considerable time using netamo I can honestly say I wish I picked Nest. Hopefully things improve or it may just be worth sinking the cost and buying another product.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.0.8.0"
+}{
+    "reviewId": "gp:AOqpTOFx678PN_ztblASUdehvE_5lU9QV123P_VGW6QFnXqEQ0j5fTrZupV6VBUOdOGM9IzNITTQMjZ7Z-bqYFg",
+    "userName": "Jordan Cherkewich",
+    "content": "It worked for a while, doesn't connect anymore, connects for a day, doesn't work again. Unreliable at best. Not what you want in security. DO NOT BUY!",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "1.4.4.0"
+}

@@ -1,0 +1,120 @@
+{
+    "reviewId": "gp:AOqpTOHgfWOrbcrHdWODsh2VzaY1kHQ78vGiukD0Lvr1Jw6if-3JrxPMIWgdPvMCp-Ph0La2binpNCxsqLoBeQ",
+    "userName": "S Osipiuk",
+    "content": "It says it needs permissions to access my location and to make phone calls, and refuses to even start unless those are granted. Absurd! There is no reason for an app like this to need those things. This app is supposed to monitor and control my appliances. No way it needs my location or to make calls to do that. LG has no excuse here. After spending some time trying to get it to work, I found that impossible. Uninstalled and will not install it until such time as LG fixes its privacy issues.",
+    "score": 1,
+    "thumbsUpCount": 16,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOE8wMVx5Lnwf7yvNS_VWprbJgabLIAN6WRbuD9ESLVATlRFVAGJ_-rItqAB9YQ7SURLGP3Y236pjYHXUQ",
+    "userName": "J J",
+    "content": "For the size of the company LG is and how many mini splits they sell This app should be working much better. There are even privacy concerns seeing how they want to access your location which is completely unnecessary to run this app. It always has connection issues with Wi-Fi. All I want to do is turn it on when I'm away from home to warm up my office and I would say 10% of the time it doesn't work which is definitely annoying.",
+    "score": 2,
+    "thumbsUpCount": 20,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOFSYbPv5Pl2IE2Dukx6CItkgBRB8vvFpIckF6P8PYJM0kr5MswaYrK6jgiuYO2jms9RxzyAaiYAUhurUg",
+    "userName": "Kat CoonHound",
+    "content": "It will not let me add smart home feature to my LG account so I can add my brand new washer. It wants me to switch from my Google account to my LG account, and then when I accept the terms of service and the privacy policy, it says that the page does not exist. Seriously???",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOHqFrmSYxV9s-ih-ze75C4ljY05nYzDYNSoSYVEdeG5IXehr7CjO1lBwKL6PD_Nl1EJD1YrwSEMNImcLw",
+    "userName": "Lex Neva",
+    "content": "Why do you care if my phone is rooted? Seriously? This is not a damn banking app, people. ETA: Thanks for the reply. Please reconsider your policy. Why does a fridge app need high security? In any case, the if there were any risk, it would be to me, not your systems. There is no reason you folks need worry about whether my phone is rooted.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOH3tCjEY3mBBcPdwkcOVMWNDao3Vr_RgoLdVRxmB9Ow8knupAKKKlQ-Ae5A1y63E8rZGYFq_TM5znzuVg",
+    "userName": "Keith Grant",
+    "content": "App requires phone and geolocation permissions! Seriously why does this app need to make a phone call? I find this quite invasive and a major security threat. Each time I run the app, it tries to sell me new goods and services with access to my LG appliances a distant afterthought.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOEeFxkN8uFf5mTpfvWEqZGqHzPlvPvZmnd-48s0a0KGAOOxc5lhqkfeWvvHeu1QPXK2w-X6WbvalFIfEQ",
+    "userName": "matt anglise",
+    "content": "The new LG ThinQ app doesnt work LG have replaced a perfectly easy app to use as my tv remote controller with a complex multidevice app. I have only 1 LG TV device. The app asks for access to telephone and location controls making it a security issue. I paid a fortune for the premium signature smart TV now LG have crushed the user experience with something that doesnt work. Please bring back the simple functionality that works LG!!!! Great response LG BUT as the app doesnt work, any response?",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOFKmNigVwz8zy3sJoIJlKL6ugyGBxHru-zjLnfaKokggzA5C9MKiALTSHutAA9xZkIq4bpMfEBj0ftaKg",
+    "userName": "Aleksandar Dekic",
+    "content": "Whoever designed this application never in his life heard for MAC address. To find this info app need to be conected to unsecured router/phone at first. Then copy that info, remove app from phone and install somewhere else. Usage of application itself is poor. Downloaded cycle's can't be stored in app for good. If I made customized cycle app should recognize and keep that after starting washer, BUT NO! App reset values to his own settings!",
+    "score": 1,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOGeQUh3KYBbHBr54M49zgVglFSajmVQld5YW1SZrK75FJlo9qbaItDiKxJEO0dgEiSOkXQ45V9aukpbHQ",
+    "userName": "Keith Vick",
+    "content": "Doesn't work. Says invalid terms when I check privacy policies. Even if I check all three.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOGE7JZV81SgzgiR646u_2uDPNyReRsBL9Xqox2X1_bHwbS_Wu8KYifeZ2pBm13QDJDCeFjaJosH6jgyCQ",
+    "userName": "Jenny Danzmayr",
+    "content": "The Application needs permissions that are completely unnecessary for an application like this that are most likely used to mine and steel private data. For example the make and manage phone calls permission. With this permissions that app can make phone calls without your knowledge and can log with whom you are on the phone. When you don't give the app this permissions it refuses to start so it's completely unusual. Stay away if your private data matters to you.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOGILov0yvoQv0k8321TZaVxQJnIauPXG7w5-Lk8XpcAbEaXK-VGdxb_BGDBvZEqtth5JtJ1QGkZQLJJHQ",
+    "userName": "Robbie Wurst",
+    "content": "I can't even get pass the login as it states that me accepting terms and privacy is \"Invalid terms type\"",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOG10CVuJNliY0uFSLGMlewGoldJf454SzuSsxwpdCifaXQNyy9jWX1Dd25kATIOr4ui6uqQAVSBI0IqaQ",
+    "userName": "Christopher Powell",
+    "content": "Useless. There is no reason why you need access to my phone calls and call settings. Your excuses are not valid. Seriously considering not buying any lg products again, smart or not. Total invasion of privacy.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOEKgcCbHXK9gZGA3wVD5_gSfRjAv2e20MOgM5_3ErrnoYBQWLrFzAdjpNGaXWXb9dmHUO0fzJ-mK_-LYQ",
+    "userName": "Randy Smith",
+    "content": "The app was updated and it now requires us to agree to new agreements including a privacy policy that allows them to gather information on us for marketing to sell to 3rd parties. We pay a lot for the appliances this is supposed to support, why are we being used as a product to sell?",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOGIopnrGF18mvLM9kRIil1PEPPvuIAusc_3XcOu487f3LmM29EIYlskB3mpIrcNYr6FL2QetpVv-LmAaw",
+    "userName": "Justin West",
+    "content": "I can't even accept the terms and privacy policy.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOHZkE9XF48iZwOfhatPQmcVCp6m5usyDJbZK9in3Aw0R9LrU6DF5DnCX8IwwM6SC-jLsjriUSKhdAvNjQ",
+    "userName": "Rodrigo Margonar Silva",
+    "content": "I have uninstalled it just after installing. On an era of data privacy regulations, an app that should be doing simple tasks does not need permissions to view and manage contacts and calls. If you decline, you can't use the app. Wake up LG.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOG0Zm9eQSg2GbEOl3kC4NA2sNYj-flTD6QP-c0NGAX0fDMmFg130aIsbhjz7d_FDFXLjxvLAcB_iZmCjw",
+    "userName": "Scott Stegman",
+    "content": "Just another typical app that is more focused on invading your privacy and selling you things that you literally cannot use for instance accessories for devices you don't own, instead of functioning properly to simply control the devices that you own. Another big tech fail.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.5.1047"
+}{
+    "reviewId": "gp:AOqpTOH-XKo5mExHEoO9zOr_PrDfzHUSSliPUA4LhnY5gbVRTU1fDWE2EzO8tOY99acV9x94029jx9S-fP2qlQ",
+    "userName": "Colton Loewen",
+    "content": "Had to uninstall, was causing too much anxiety. In the latest update, the app now tries to enable bluetooth and has a banner saying when a connection is lost. I keep bluetooth off unless I need it, for security reasons. So when I saw it enabled, I thought my phone was compromised. And I have it set so apps can't use data in the background, so everytime I see the banner while downloading anything, I get a slight panic attack, thinking that the wifi is down and I'm downloading over mobile.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOE2gi7448UVfun8GQqj3AzvcZe9481dnwUAjMuUn8AUbWZC-zc6S2bWi4y5espl5afoRyIMZ4zBJG9HOw",
+    "userName": "Dmitriy Todd",
+    "content": "The LG TV app is now integrated with this one. Fine. Why does it need access to my phone to manage my TV? Why does it need location access to manage my TV? Why do I have to sign in to this app? No respect for privacy to speak of. Not interested.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}

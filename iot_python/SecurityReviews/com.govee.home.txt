@@ -1,0 +1,64 @@
+{
+    "reviewId": "gp:AOqpTOFWn5ZlTNn_dNYeCJS_K6q6nkV-dPm5si8iHoRBk_99PyAfGJlz4CX0L3CB-g7Wz0E3GGQ1JqsxV2VSMQ",
+    "userName": "Jeems Just Jeems",
+    "content": "Requires location to be enabled constantly to log days I've bluetooth for NO reason. Might return these thermometers if i can't make them work with a third party solution. What an invasion of privacy.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.6.1"
+}{
+    "reviewId": "gp:AOqpTOFo8q_mrVULBF823lQzNuYgfWjzgCPSb9oyg5kot3vluV3FkeiwrM-DJH6xnEGmmPZ95-3Z6dOVwzEDfA",
+    "userName": "L S",
+    "content": "Uploading data to a server somewhere. Transmitted over 2 MB once app was back in range of light strip that has a mic on it. Absolutely no need to transmit data. Major privacy concerns.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.5.1"
+}{
+    "reviewId": "gp:AOqpTOFmoagIl8ai1cxtIAE2NWs3jaAbY1R9i__D5F0mCsCHmUxjq584fvN2B9RZnCINisPo9H36ZIi9Ea97Rg",
+    "userName": "Meticulous Se7en",
+    "content": "I bought an indoor thermometer/hygrometer. It does everything I want, and the app has been mostly fine. However, Im knocking stars because of the account. 1.) Need an account to export data from the device. Sure, I kind of get it, but I'm able to do everything else without an account, 1 star dinged 2.) Password requirements for the account DON'T ALLOW SYMBOLS. Are they just trying to ensure the Chinese gov hacks this device? I work InfoSec, and this is unacceptable / insecure. Two stars dinged",
+    "score": 2,
+    "thumbsUpCount": 104,
+    "reviewCreatedVersion": "3.4.1"
+}{
+    "reviewId": "gp:AOqpTOHZ_6xnO0ORyOrTckHJQLEeRTv7ixTpBUO4498d3pHTxdyX-1pfJtCsXwDyoDD7lvzCysYQBsT2X5be9w",
+    "userName": "Russ Dill",
+    "content": "There's no reason for you to need to know my location. Just because you cripple a device someone paid for if they don't consent to your privacy invasion doesn't mean you should. How much money are you getting by selling our location and other data?",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.3.0"
+}{
+    "reviewId": "gp:AOqpTOFPrbQ1MpjwRGStH0CasPzi5IsACbUlcSeWo4RpAaiJECnAegTAu9g30hNz-GGT9fAi03ngKIqwWBZY7w",
+    "userName": "verne voshell",
+    "content": "Spyware. This app is garbage. Protect your security dont use this trash",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "3.2.1"
+}{
+    "reviewId": "gp:AOqpTOERiQ6pBvV712nt-5UDwnjh_HSmfGR9fL2pPk3ANfO-WMbGKg92MGa80_LzVwjnT1Me07lCJCieZcRXlA",
+    "userName": "A Google user",
+    "content": "Why does this app require my location to show ANY data? Very privacy intrusive.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOEkYhv7h-TlkcjZS9M_BTjGLxle95zdHpx4FkvqlYPCL8_Jfs_iX91rfo0lVDG6xeXKovH_GBpE3JkDag",
+    "userName": "Mark Schmidt",
+    "content": "After taking a quick look at Govee's latest release, it appears most of my previous complaints have been fixed. However, they still don't allow you to paste a value into the password fields. If you use long, secure passwords, this is a huge issue. Also, their passwords don't support special characters.",
+    "score": 2,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "3.0.0"
+}{
+    "reviewId": "gp:AOqpTOHQEHuKYjl-nT8kk7cDTW8GlDEkVbYm4z2bisyFs68iRY6gimbvegJQGQWIluk99YAUdUYi47W0QLnJ7w",
+    "userName": "Maribel Arocha",
+    "content": "No MAC address display? I use Mac address filtering on my router for added security, and there seems to be no way to find the MAC address of the device in order to include it in my router's whitelist. No Mac address implies the company does not care about security. Sorry but I'm not going to turn off Mac filtering security just so that this device can work on my network. It's going back!",
+    "score": 2,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOGkNRtpwnLbRyNf62d5Lkzwdkb5KXoZnYI49P6OgNqIMgG6LrXUG1u8Zs3GGzcWLKVb4Y3TVJde660b3Q",
+    "userName": "Ryan W",
+    "content": "PRIVACY WARNING! & This app WILL DRAIN YOUR PHONE BATTERY! Forces users to give access to mic, camera, background data collection, and SD STORAGE (so they can read EVERYTHING!). There is.m NO option to opt out of their intrusive features! not worth giving up privacy for a bulb. Returning today. -Very offended by their reply that they need location access to connect to bluetooth!!! Do they think customers are dumbasses?",
+    "score": 1,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": "1.3.2"
+}

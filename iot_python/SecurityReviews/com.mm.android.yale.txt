@@ -1,0 +1,50 @@
+{
+    "reviewId": "gp:AOqpTOFn88teY02uT45SLTM06GGAJTLsK6oFwSBRGxnc55hthLa6QdmMpoI7HpfHmdpq0HaAfb5axdU1J21nIQ",
+    "userName": "Mark Pellowe",
+    "content": "Bad. Requires location services just to configure WiFi on a camera. Cannot add a camera without sending Yale your location. Cannot restrict cameras to be on local WiFi - the app and cameras must be given web access - essentially the cameras become a security liability. And no information on the actual videol stream address is available in the app or with the camera. I.e. you use this Yale app and suffer the problems whether you want to or not. Oh, and it constantly fails to connect to cams.",
+    "score": 3,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.5.2"
+}{
+    "reviewId": "gp:AOqpTOEy7EXf6hLnQB9Xv5R5zjgZy2YkLNA0s-JDg49lIhQxh4WRgSwx3oAaRJPZY8d674HtNrEiz_mQDitTzw",
+    "userName": "Christopher Gj Cooley",
+    "content": "The app works reasonably well. However I was under the impression I could link the camera to a dropbox account and store the video securely online. However I can't find how to do this on the app and there is nothing about it in the FAQs",
+    "score": 3,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.5.2"
+}{
+    "reviewId": "gp:AOqpTOF4e4XgJAsr5ZLvqOtFb4EViQE8E9FmKN9Wcnp3h4iv2Eb_o3ZOhULXf9H-WenvvVYRfbS_hILLw8n2cw",
+    "userName": "Nlslt Shah",
+    "content": "Good quality Yale cctv system ,app also good to use with this system,24/7 security.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.5.2"
+}{
+    "reviewId": "gp:AOqpTOHN-vNHRcRoVgwGmF-iW4WHYR-aKdcBnUzxjvPOTsYgWAMdMriakxCAmJyjrpK9vNNBUsY1nPoHE5T_fw",
+    "userName": "Peter Hefford",
+    "content": "Unreliable! Works for a variable length of time then displays 'connection failed' every time I try to view my cameras. Only option is to delete and then re-add them/the account. Not reliable, which is a must for security devices.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.5.2"
+}{
+    "reviewId": "gp:AOqpTOF4pSlw4E_r1VWG1qi4HKCov7WXb2JUTlVDCAQRds5eATc7VAqxMSVS78w0oZlplUIHIT9f6hBR8TD-Dg",
+    "userName": "Kevin Best",
+    "content": "Great tool for security use. Easy to install and has never let me down",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.5.2"
+}{
+    "reviewId": "gp:AOqpTOE4CdbbZJd6KW__B65sYSkJLUqvgqmzJYXQ4JcTUu4b5Y7djCEMoFqOvYUPcu8W6lFPIXBwBK_A_Gc7tg",
+    "userName": "Darrell Cant",
+    "content": "Installation problems all the time as soon as I scan or manually enter camera Id it finds camera then freezes so cannot move to next step. 2 hrs later and still no success what a total waste of money, there are cheaper and easier to install wifi cams out there, very disappointing from yale, used to think the smart system was ok now having second thought and reviewing my security around my home",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.3.3"
+}{
+    "reviewId": "gp:AOqpTOEbhBbsuLewo0DELFiCsVL9x4CuGb4TWeo3y9yUic-spKyAozD5J1suYyRjOPpZgoIAarrnwmKGlfEcZA",
+    "userName": "Mitch Ewins",
+    "content": "you guys need to make a new app and fast! i just paid 100 quid for something that the app is not ready for! my mrs cant log in if im logged in and vice versa, the human detection picks up absolutely everything so your phone goes off every 2 seconds killing ure phone battery so you end up logging out but then what is the point of the camera even being there! really disappointed considering i went for the camera in the first place because of yale being such a 'big well known' home security company",
+    "score": 1,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "1.3.3"
+}

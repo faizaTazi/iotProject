@@ -1,0 +1,602 @@
+[
+    {
+        "reviewId": "gp:AOqpTOF5gyqzsYR1YUdwhxSEHsdyqZB0SBPJPOXNvWIS00NHTggF-2I46kvZiJW_N86nYHoy3zD0cyu-bqmf1ss",
+        "userName": "B BBB",
+        "content": "Needs account",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHMcoJ4Womu0uqqklG8YqXOFCygvpom44XMZxhB1WfhkyyzfjGMX63auaXSeyndPqSkvWfXoLs4Pm69w1M",
+        "userName": "John Doe",
+        "content": "This was a pretty good app.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGPAwE4Kuob1Co1mfoeH4m6DYs3o4itcLHrarNnC050N_KP75YNrRfji6ZF9PK42-qyJX_wW0zuWhW9auY",
+        "userName": "Federico Porri",
+        "content": "simply.works",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOHzXdRJfca9BsAgPj6kZgnqk33veKDl8QIe71POFUD7Cz0riAaeZGEx6R4a78kHuj3oOYSiOCrdmLCqi6M",
+        "userName": "Pavlos Michaelidis",
+        "content": "Perfect!!!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOGAJcmUW19SRbjCcWDfU9IWEtywA7pJgaQ58zGK63w8y57YsxNkrPEeO2cGdQ9NuXodppoXLXtoia3utUg",
+        "userName": "TheEzserg",
+        "content": "Not working for me.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHKGtGq4ClxfNqAqPPJP8NCHmWexy1Ac2_EAtVhh8TKUVb0m6EpFESOaFiSKHLkhJOExzQpL6A2yC0vkI0",
+        "userName": "Benjamin Broudy",
+        "content": "Awesome \ud83d\udc4c",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOG3wKMs6LXRlYVCrxVOs3pDAws6ANasGfX7w5F9diP7t8yWCjHLPbDFMT8YZsNDwLFKa5hYsGBJewydLrI",
+        "userName": "Miguel",
+        "content": "Instead of setting up all this crazy stuff. I find this apps is better off to use it. Hope its safe to use all the time. Tnx angelcam..\ud83d\ude00\ud83d\ude00\ud83d\ude00",
+        "score": 5,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "2.3.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOH-a2jd0kZxET1MtVf0n7Cf0uqWJhKZvcFOzptXysXN5jJo27lDpGgHzDfSl5tAAH5-RBC4LEYjElihM8U",
+        "userName": "Gregory Mass",
+        "content": "Been using for the past year. Using Raspberry Pi B+ and works great.",
+        "score": 5,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOFQpInbF32nK89uWzTarNF_pDmqP1_yFcM8QvTw90x6f7rKpfz4YTNE9sGWzRg919VeevkE4pH75A0T6E8",
+        "userName": "robert syn",
+        "content": "Awesome free app, easy to setup and use.",
+        "score": 5,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOGH7BC7MW6x5-RaD5B_68swQZBRgFFgwHlhdfyeGLRXY_PHwa_Hc7L1By1VIsDb3VbSZqJGZhOfYSJY58Q",
+        "userName": "Stevenson NOEL",
+        "content": "Perfect",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOHTK1nScbMQC0sf0Hb18TymBErdSCu0TweXzcH4LNjk8LI_zBlw0EaizcC4a0hxXYj3dy1He_hf945TxOw",
+        "userName": "Lindsay Bucklew",
+        "content": "The only thing I would change is if you could control the camera from the viewer. For example, fix the camera angle, or the on/off button. Other than that it's wonderful.",
+        "score": 4,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOGpyklibJjYHgz1QtudWeWsLa9305HfcdXODkZfbenhu9tXkpAObZwFvXzNqYmKk8Ja8nLUW_O6cOT7C7Q",
+        "userName": "Franklin Walker",
+        "content": "Nice stream quality. Simple to follow instructions. Thank you for the trial.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.3.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOGsZXyBCHuUSwpyychUbeMI-JtYwGmQF8Vg8QsZXFETPR7ylJ2fw-ceucYc8xlcGNgPVy-t_x6e7J05uHg",
+        "userName": "Kyunne Isaac",
+        "content": "It is so wonderful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGx7_5rbd7WKqOe12Wy3HtRC5U5WBNXF5In3jRWW7P7s8nztNaafwrtB6cjexwNqwWpucVdOZ_Ys0ad7JQ",
+        "userName": "mishu een",
+        "content": "Thanks for fixing the black screen issue reported previously. I would say keep up with this determination of fixing the problems users/customers report. I'm finding your app the best cloud solution and the support provided to track down isolate and debug the issue i had with one of my cameras was outstanding. Just added a new camera to my account finding your service reliable.",
+        "score": 5,
+        "thumbsUpCount": 13,
+        "reviewCreatedVersion": "2.2.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOHbUkVP1BokPT0kyAwvlJjaylPzF70n-qo_2158us649ZSDiGGKUHRRqrl9wLYhijqdPlxC5xBjymkJfw0",
+        "userName": "Dan K",
+        "content": "worst customer service I've ever recieved. cancelled my account without missing a single payment or any request to stop service, no human has helped me despite reaching out over 5 times. only an automated message says I need to set up a whole new account to get service again. terrible website, super non user friendly, go with a competitor",
+        "score": 1,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "2.2.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOFxGv2BIlvAch8n80qSQfJGabm4LiocvWXNEfHyLUu4bhvkTI2az-7YiC9Wp-ywSGNV49ameD51QGODRLs",
+        "userName": "Carlo Mcnamara",
+        "content": "Im revising my review as the newest update appears to have fixed the problems mentioned earlier",
+        "score": 2,
+        "thumbsUpCount": 9,
+        "reviewCreatedVersion": "2.2.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOGxR-cCqiMR6QIpBb3dOoxy5CHo5b4ck-6ayZ2WoPkeQx1KHfOxaZF5V2M3L5re92tuXBL_si3LqR4eSXw",
+        "userName": "Uday Badhe",
+        "content": "Helpful",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.2.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOFNafB9UJ1yiHlI9O5zLr0NTDRBXv5Q_rBgxjixcrvn1kNjXm3HmXNt3jqjRQJ7RMF0vVjNllQEZwbbr2s",
+        "userName": "Santosh Waghmode",
+        "content": "Nice",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEhub2rqPwEGQltOcfYopLCsEK9Emk1AjRWb6bBbl7rrHEJWZboRfam_T_nCnKX99Mc4TAyS5_hY-s2mAg",
+        "userName": "Ian Foster",
+        "content": "Really great platform. Easy to add camera and features are brilliant. Only flaw so far is billing is a let down, clumsy cumbersome billing which isn't flexible when changing cameras etc. But generally so far angel can is very good.",
+        "score": 4,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "2.2.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOEFzQtB7F4ZifHwfLAUUy615s1ygRlxjetV3Y_O5NKUd2rh0xrxbNLs2Oe22qZnNvO5Us-OEEQ0j_glH60",
+        "userName": "Mattia Pratini",
+        "content": "Excellent app for an excellent service! No need to say more. OCTOBER'S UPDATE: I LOVE THE NEW PUSH NOTIFICATION FEATURE! Well done \ud83d\ude09",
+        "score": 5,
+        "thumbsUpCount": 9,
+        "reviewCreatedVersion": "2.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEUuh9mxE1T-4_VzyP2XkqP7urHFXrA5ggzxmJjV1orpIpCvO3Pd5cVFZJaY3w79xUqYBkYc9FygwVkqmE",
+        "userName": "Sgt. Scott",
+        "content": "It's a decent app but they need to add all the features they promise. All it does currently is view your camera and that's not bad but I need notifications at the very least. I hope they don't decide to make all those coming soon features subscription based because I will uninstall instantly if they do. RTS & Eliminate False Alarms could be added as a fee based service but plain notifications need to be added for free.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.1.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOEOk5TPMNXcnDNTcEy4-EHByH4xXW0cAkmMh5-VYrPR3Q7oZpP_TpRfF0vqkfj4dBU1Svlu1_a0wiSsZJI",
+        "userName": "N. Nikolov",
+        "content": "goos app and live support is amaizing. They helped me to set uo my camera. thanks",
+        "score": 5,
+        "thumbsUpCount": 9,
+        "reviewCreatedVersion": "2.1.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOEc8svzN7V0XVYzQrvIqSuaiSAJJbMOx7xPi_byFoxK16g2TaAe8LJ3gYlA79DDV6Jhx_5NnI4lc42WTOU",
+        "userName": "Jay Riley",
+        "content": "great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHWDvObOkZM_tcQsZFST05ZKBibSOBv48qgBLb3CvRAzgoxodOuDSmKUyFTNnoWlQgZL63vJ0Cn87OlDAg",
+        "userName": "Glen Shurtz",
+        "content": "this app and service is one big dumpster fire of control.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.1.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOFrWLRiOUrIU28JDHXpZtXfQcLn57KMpLVacliDJ7Ji338GUkryuIOh7_vg271ZYW6giaUWXPe4_mSAcKA",
+        "userName": "Hristo Nenov",
+        "content": "Mobile app freeze. Camera shows offline while on web site everything is OK",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.1.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOHWZ1UMVEpXwD0vGHC2bBdoSSLK3-WpGMI_a6ejAL87zaHfuTvKPuoWhBaSVAXiZZWNiqVW3a2j6lD9qoQ",
+        "userName": "Josh Jones",
+        "content": "great app to manage your ip cameras, it supports most brands and is easy to use.",
+        "score": 5,
+        "thumbsUpCount": 8,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGL6s2oyP8syHsTdJhCW-kIoSqtW-dX6ZDfAkqEmdCadKFAtn4aBsKMDhy3Ipi67QsT5t7ivddl0Ho76c8",
+        "userName": "Rik G",
+        "content": "cant detect any of my cameras. i have 3 new and old and this finds none of them.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFiMtjFw5NmzJR8BWLl5WcNQ7a4vwSlrf9HdNEqlqtmzimLbWZE-frUAo7MAVI-2j8vOm6tPwCTXGNVjSU",
+        "userName": "A Google user",
+        "content": "can't connect",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOE9MDkdwkswz_TGcCXFReIR1_K1KigaxC1EHPxEH9inUXRFzAmZAgnLLAdEIXgE-axzD9UGLwNJaMCZeX4",
+        "userName": "A Google user",
+        "content": "Great!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOH-XU44FGYoLXKl4n25OvfWPH8ssa5duiokDnC_se4uBynPN0txLgkP_a9NLoYEHFZpeURAWZUBC7rH6UE",
+        "userName": "A Google user",
+        "content": "This app is very glitchy. Angel cam overall does not work as they describe. When you go to review your video, it won't work properly. They will then blame your internet, or your network or anything they can to deflect from the fact it works very poorly if at all. Waste of money",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGujnAlCavPztP6bnhymeucpsN9wL_LrXmXbTl8J891fDbPP9_SuY1Sy3dlH33k-zAz4iaReWfhsUkBt7Q",
+        "userName": "Keith Reynolds",
+        "content": "This is an outstanding app, which is very easy to use. Would recommend for anyone who uses webcams.",
+        "score": 5,
+        "thumbsUpCount": 11,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGR5MgLPXoV1q7n314PbZapL6wskmc6sa1SbDcOEnH8PyzQJ3fqIYdHzNggTBLlCXwVVRREjgfbUoRw1DI",
+        "userName": "Chris Parsons",
+        "content": "Frustratingly bad. You can only watch cloud recording in real time on the app, there is no option to speed up the playback or to save clips to watch using different software. Constantly buffers even on an extremely fast connection. Useless unless you watch the camera live.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGmn95WIorLZ5_zCNBPFm-bOuH2rAg8bVgeRw9WHZHVwewQUQwWL-DIzKf2jrH0B81WlBTkZ0hvl18bd84",
+        "userName": "A Google user",
+        "content": "Perfect",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGzVLaPriMy-4kX5eiM5ALs8BUkGykQNpLgm_jLuIxp15KAIvB_BPNLg1lhDrRk_4Iir2h_ydN4fq-tU80",
+        "userName": "joe jr",
+        "content": "please add control function",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF-NAXZVnBW_3z3fgCudOlaXwbnP3Aaf_J556sqiN4aAXVW5RX_V_SP3oLVOibcgVVEfgMHd2umGf8glSk",
+        "userName": "A Google user",
+        "content": "Must register and login to use it : Fail!",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOG-TW4X4vXJHNf0sS6DST5-K0Ty4ZkPrAZiJ9s0lWn95AsqgyEO_iEsWBPwV9v1U1CtIaAOB4F95CW9TXo",
+        "userName": "Syed Talib Hussain Geelani",
+        "content": "Nice and user friendly app,one must install?I recomend this app to my friends.Works nice since installation.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFTaab65LsBqfG2oTKBGFY_ruS54h4qDYBfutzqHIKClalFFLcP6kbjJ59mvyJcZd0x6ZeaHk7vY5_dsDk",
+        "userName": "steve d",
+        "content": "Just grabs your email for marketing.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOG9-cay14QsDCMWdWRQe4dKnnGP7t6oArM-i0wwE-p80AymzhgaKCgrgDo2K_cNkGchWhKuqB2bbalT5Sg",
+        "userName": "Maju Kumar",
+        "content": "Good one",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHNpsJoAyfi7_nyOXua7QLwDD8XU5LF4wPRhJDFaBdwrRlYQXM6OxD5DBDlA-KEN_MFOgEaBZBBvcqkbuU",
+        "userName": "Stuart Wilson",
+        "content": "Easy to setup and use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFMXMCgKcK9sfunwEPb2QkZozMiffbxmtXyfKu_7YKZ4P-mgpFdSyV4FL8pSFG6UylMIs02GzJ0q2yXKAw",
+        "userName": "Andre Lightbourne",
+        "content": "Perfect only problem is that they should make it easier to find points of \nactivity and motion on the timeline",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEtb4vTjHEyOLgm-4ZYbRIq2lWteKl4ecQN4CYkvLiWDTVjzXAJJIEMOSHWLYckWvqDc6ym6KnmrVUCevA",
+        "userName": "Shlomo Strugano",
+        "content": "So far so good. Use for my family to finally catch who is sneaking into the \nfridge at night stealing ice cream",
+        "score": 5,
+        "thumbsUpCount": 14,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHYuVE6PzGTzzc2xAZqY85_aj39sJS_0V04bh_D0opgVgy563CSjs8xYX9Ie1ih9vBRu_GKs0jioVHFebU",
+        "userName": "Michele Kopicz",
+        "content": "Its helpful for me.because I'm handicapped",
+        "score": 5,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGu7BD1lYQA1Po0212w5alZl1rY6VnZBAI79UXTQJZmzbPYh30nYGyFgDCj2BF7umk3mTjduJZzW-y7bVI",
+        "userName": "David Bessler",
+        "content": "Great,",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOG8FHNgluJ53emRygQuuwgsXeDf4CH9LqgC8tXX5Z1zY3nYfDVL7PC1_wgpTFbAHncV4UdYoOU8YPbP6pQ",
+        "userName": "Evgeny Fateev",
+        "content": "It does the job",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGn4RlYJ52XBPpa_Iyldm37NUpys3e1DW7efNK3VQxPQiG0-XnrdXxvNgdeKhORhqbi5QZI0vh8nQ0eS5o",
+        "userName": "Yuriy Havrylyuk",
+        "content": "Best app for IP cams.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHIZm27wPFm7vdufk76EWVmZTDxdcSTd_-bFdgaiMQHjAZXTWSXlNQEJBSEtkKXPKwCvK3Kp_gTh1uGLRk",
+        "userName": "Leon",
+        "content": "Its awesome!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGmbaFAuBcEPCE9g7LiZCrxZsK7kkugewe41g8y8aBeEqKZxie_UVBqfyopq0GiCtICmZDsu1qUwSdsch8",
+        "userName": "Jhonny Latacela",
+        "content": "Easy to use",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFt7HshIuc04YJsOkTrtZkVAIfqDx06Lv_PdBgvbw-mGQzn9cRrDH9DGkJC0lpncyA2TH-xTe390CzTCcs",
+        "userName": "Madan g hittanagi",
+        "content": "It's very good easy",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEPIQTibKRf2lMgoCnow_1rUdAyuAZFzEhK7eQNmbPveLXKa8WpnjKduahLHdPIiSmNnViSaLjHSEix1MI",
+        "userName": "Micky Clarke",
+        "content": "This is just perfect!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFdeiLcKd7AkOWcP9VUPCCIFxqUyDz4SKR408PinmU9w3Yz_NNKQ1-L5uMRkfROzOGp5ZC8cxS1DSjHKFQ",
+        "userName": "parvez sheikh",
+        "content": "Nice camera",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEgn5s0crs17zBtXq-dfgJRkN2x0kpk5ra1MpXy-zS56jjGnHdQoU9u89NW0m-TGiicX4D662BIHeKgFSw",
+        "userName": "Bulchai Nirattisai",
+        "content": "I use Angelcam to share real-time video from 2 IP cameras to all the residents in our condominium. Angelcam is very useful, easy to use, access anywhere from any device and it is free of charge. Thank you very much to Angelcam team. Really love and like it.",
+        "score": 5,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEZRDGVIa1q0Om7Aa3yEaxmogRKqThCKmFe_zPYMEjiQPA3ndfmaxMmHtuslgIEP_kSqVmfpev-9kQerbk",
+        "userName": "David R.",
+        "content": "It's really easy to set up and compatible with so many cameras. If you already have an IP camera it works really well",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFaa_KBMooUg4qYl-SVrX0UbeF2CX03K8ydXhNtOobK7eIYbju49oAPuOatIM5vocX1-fTrOFv-SBJESms",
+        "userName": "A Google user",
+        "content": "Efficient to use",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHE45shk5l_UuXCDFSil4XkoNeNNAZFPzVe-RonBRBdE6xFIk_1XW1t2ixcovubG_HXWepGu_bShRlnTnM",
+        "userName": "tibor anghi",
+        "content": "I think this app blows every other app out of the water",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOElFHl9Rcd0Z6ydo9OgVDUz8jihTeTvNvhcv1Gl3rHbHaK7SFWN1bbU14yVxpc8U3ukafQYO0qQn71wHXQ",
+        "userName": "James Elliott",
+        "content": "Quick and reliable, good picture quality. No support for cameras offering Pan, Tilt and Zoom - any plans to add that?",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFvzyjxPifO_mlFewwp_8l5P8RrSZAu3zA0aJ9GEPCiVFh21vLR0dIl7nF4HvR6L_y0AhOdFZDB-wxb0rQ",
+        "userName": "Clinton Wasylishen",
+        "content": "I use this to monitor cameras in my business. I invested in their Angelbox which makes connecting the cameras super simple. If you haven't checked that software out you should",
+        "score": 5,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGJATwFQwB-kAltxrkTBg-e91e7nC0tG9eqLu7Exhn_mS4rTy-FJQCuRWkmSUdNZbt1872mMajMgjK3b8o",
+        "userName": "Shahrokh Setoudeh Foumani",
+        "content": "Perfect job, you are getting day by day better Angelcam",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGygvFMdhRWpEmVtGnVEMzehfrQc5l7zU1MW4YvF_zxz9JU4ADOB2jsQ1iNSe7CE9jbNXUtbNsyWtj8ybM",
+        "userName": "anto cliwir",
+        "content": "Best app for control ipcam",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGsIAxsBkKQNDARDka-y4ZZ8nJcyif23oFz1hX5ZNCk17eTfKq12pdm0fvwJ6Qlf9zaBBUlTNOcTt5evVw",
+        "userName": "allan wilson",
+        "content": "Idiot proof piece of software. Works flawlessly and my cameras load and live stream in seconds. Can very easily access records in the cloud very intuitively. They got this about 100% right I think..",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFfz_9UqpDm8iyueVNpM0uS32ignKlR2Lkm_eP6d0EhJWRKafJ0u81z77h9cOjoJUzLBI9esNWLZV1V-84",
+        "userName": "Peter Kelley",
+        "content": "Easy to use really clear picture.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHBZelVMepjsmcnT83ETF5Wcb_WpyUnPH3HkwkCqYO-Aa2sH_thXMW4wiAUu6-IRCCK0O1sTH7LcAPRXvA",
+        "userName": "Ali Ibrahim",
+        "content": "Great",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGgniMEGnrGPfA01bquB0ACLiJus7qTEcbgS1Tv22AzgiAwLOB00Yt0q6ga9TZfSogNeFAHVnzb5d8iOJM",
+        "userName": "Ganapathy Krishnan",
+        "content": "Works well with AV tech DVR.  No need for port forwarding.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOEy-RmWzSxErLh_3fyOCQTA_bOxPVqU6Tut3BwYI5E4VVRggOHYgefeJ2nifpi17iOMqPPQMIIZma9COm8",
+        "userName": "Chris Welch",
+        "content": "Can't log in. I signed up with my Google account, but the app won't accept the name and pass. Can't log in?! Oh, and my camera isn't list. Through the web browser version, the CAM works.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOEgxMRDy57mzfR839PVPRKAHtJy64UC_Ter8qCknB_4aPyRWZ-eWVh3rkBvnGI22l68mTcCAck0uT-0zBM",
+        "userName": "Jim Hull",
+        "content": "Asks for user name and password as soon as install complete.  Does not allow you to set them up first!  Bizarre.  Can't get into the app now.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOF40mKSr_8k_m-X5f-3h7j_JEqxybwAuDGx9sK9nRYaLSE7r5F_1O77e9_irX5KgQW2-vow-gIR16pD0L0",
+        "userName": "Dale Skinner",
+        "content": "Unable to install my cameras",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGiGeQQzAI3-yxIenpzxxwyaiO0Ykokl9zVrSku-b9mSjpMygJeoKF_twQDeZTx_kwklzhfDH846a8JLGo",
+        "userName": "Adrian Dyer",
+        "content": "This app works exactly as expected. Very simplistic but very user friendly. Thank you for providing this for us to use.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOGbEUeWmGY2emuc4AiFX07kldhBcWjSHYgaRVkzwaBSwFq25zHdvKz9ZrlvuWeSe0KrnmV10VnPkXBsCZE",
+        "userName": "santosh kamble",
+        "content": "Not so easy to open",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOFTCGdLDUo5v9MNIHqxHpvil7xvUpHLbN7ayfukazz8GmYXvjo0lf03J7iEZVXF-02WNptvfBrHLfC5oqU",
+        "userName": "moonwalk less",
+        "content": "Easy Easy Easy!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOGPiB-eFVZx5sJvwXJM_m5DaGuuLRUr2WLFqYO_YinossS3oc1W_rjSbJ-gXRuV0sPkp2WqqpmOPlfOTIs",
+        "userName": "A Google user",
+        "content": "5 stars app",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOE0Q5UHXy9tHwubodNHekHlmswfSHA4g-dFCU_H-pvlnM_feqEHiat9rHDhop33hksXmv-bjo5zLGzr10Q",
+        "userName": "Levi",
+        "content": "The app works well for the most part, except that it won't play 1 camera I have that is h264 (tires to open it in a separate app). It would be great if it could access the cloud stored video as well.",
+        "score": 4,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOGMxeaUAqMgi4FCQP916ntlMH8nkTQcMGRFw2nbm4kuWzvyV9lgO9gxAla6Nhef6ic1zKriJiGItOp3xFY",
+        "userName": "Martin Rudolph",
+        "content": "I've got a few random poe-cameras around my house. I bought the network raspberryPI adapter they make and it found everything quickly. Account setup was a breeze on my laptop. With 3 free days of recording I'm set. Just wish it recorded the full 1080p my cameras output. I'm only getting 720p.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOE8mbBKOEK1v3KkdmqySLRej8mw0EpAkm1mEyhKmO7r5hS6acp0jzk1OBs2TRr9AHnwKpxu5xoOLdXP3cw",
+        "userName": "Balu Patil",
+        "content": "Doh",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEzTemxlxOEdAwzfWo-fmF8cFrsVfdRWehE29Ee7nsLGhE9dJkqLBlkeiv6zSm1EY8AJi2blbYPmBqtJjE",
+        "userName": "rares rsres",
+        "content": "Nice",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOHbZiFHzbSsPsIX_27AKzTz9p6J3z-eTVrA5bgmxUwPG6NcRnFVEKiqpc4CDFJfLEuG-VJ14LJshkIEc0g",
+        "userName": "Andrew Boyd",
+        "content": "Wouldn't let me make account",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "0.0.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOF1Jzo3VqJ3uf12BKyytANOZNSsRb9NMOv43a9GlrHgNfXoiyPrE4NU0CQCzOIJywXfQq2cy8Fu88vnpZw",
+        "userName": "Mario Haddad",
+        "content": "Awesome, simple, just what i needed",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "0.0.3"
+    }
+]

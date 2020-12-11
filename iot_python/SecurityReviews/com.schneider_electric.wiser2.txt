@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOHQlNh688CFw6JwDtrgEIczImvlDG21ljV3Cz6ncJ-P9KS8DbJ-c8qjygsTQVdKFI44zuN9pUFzkYXSaA",
+    "userName": "Andrew Noname",
+    "content": "Do Not Buy C-bus Automation with Wiser - Clipsal do not update their products. Wiser no longer works under Chrome based browsers due Flash no longer being supported. Clipsal have refused to update Wiser hardware to address these problems and security issue.",
+    "score": 1,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": null
+}

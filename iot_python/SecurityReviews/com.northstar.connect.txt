@@ -1,0 +1,71 @@
+{
+    "reviewId": "gp:AOqpTOHFlDfup6cyIxQa68QYn5vzaHwQbDUJ-WNw92P-sxfPjRHF1qtICFAcivv4pALX7-7aUZn7IG3VlzwqFLA",
+    "userName": "Orrin Bare",
+    "content": "Its OKAY, but for a security app I need to be able to arm the system QUICKLY, but even that feature is behind a password or fingerprint which takes a while to do. Half the time the fingerprint isn't accepted (by the app not the phone). It takes WAY too long to view my doorbell cameras and the sensitivity of it is way too high where I had to turn off notifications of motion which defeats its purpose .",
+    "score": 3,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "6.2.1.454.pr.222c83ad4"
+}{
+    "reviewId": "gp:AOqpTOHfCPB2WUHnV8IChVA56N3_oy8OqYBiB5NnfojEQUoA3L7MhV3i9DYIOzDHLf5dcQJoACeSc7iNgyMEBio",
+    "userName": "Bill Meyer",
+    "content": "Great home security!!",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "5.11.2.364.pr.7992e665f"
+}{
+    "reviewId": "gp:AOqpTOF_C_ud0aOGYk9DHgRtr_cf5sPmRC4dZJ0zQZD53XRd3hEhvHmI3sxtF32tI3vWhsgvpnNA7S9f39EJjPs",
+    "userName": "Shane H.",
+    "content": "Home security system is decent. This accompanying app to run everything is extemely limited. It does not intergrade with Google Home or much anything else. The included Skybell doorbell is third party hardware that requires an additional app to run. Neither Northstar nor Skybell integrate with Google Home. It's frustrating since you have to toggle back and forth between 3+ apps if you run additional hardware like thermostats or wifi light switches.",
+    "score": 2,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "5.10.3.345.pr.d2109bc21"
+}{
+    "reviewId": "gp:AOqpTOFxJObjIWQTBCwXjmiFOqDNx3UFhJh6qiUYiwbi0byBrlIDyEBsgMSlz6mIZZzZq2FDm79jDAGIfVAQauY",
+    "userName": "Pat Roberts",
+    "content": "Unable to view security videos from archived email.",
+    "score": 2,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOE1OVHmXTtlrWGlS7DqhtSSXStOdN4jetsg4flIdiq22spWiK5h0SL2Gks32MuPj8BXWARhlbDzNqao_W4",
+    "userName": "Robert DeCarlo",
+    "content": "Great security company. No issue so far with the equipment unlike ADT. Would recommend to anyone",
+    "score": 5,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "5.9.3.304.pr.857521690"
+}{
+    "reviewId": "gp:AOqpTOFEr4DA1NDbe65IqWxT3XqZp-qL8KAePhj6gZsJk7LNAPhkn5-O0YvGcHKyB0eHijQPjK6RlbTaY2rIBw4",
+    "userName": "Larry Canady",
+    "content": "WOW, this company is excellent. Jeff sure knows his product. Extremely competent and professional, and doesn't try to sell you items you don't need. Robert, the guy who installed the system, was efficient, competent, and provided excellent service. It was a pleasure purchasing my security system.",
+    "score": 5,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "5.7.2.231.pr.2c69fbeaf"
+}{
+    "reviewId": "gp:AOqpTOH6fyu8aRWNeqXcudu8RWPKFnsWO2DpP380OqwGaJTwJ67S56m_bb1Y7T-WDh76dr6g0r30BtEXAni6meo",
+    "userName": "Josias Schmidlkofer",
+    "content": "Great app and great security system.",
+    "score": 4,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "5.1.1.171.pr.df63d4aa2"
+}{
+    "reviewId": "gp:AOqpTOEJhXIOl8qA5ieNvWoCGfbHjRPsH9iM0mAHDRr_Ylov4I6VRNtRI6eB4JmXXz-P-25SSLGr6B-8xym3xMM",
+    "userName": "Kwhyit Storm",
+    "content": "I was referral from a friend.  The 2 guys said my current 5 cameras are compatible.  NOT!!!!.   My new 2 cameras don't work at all on cell phone or computers, only on keypad.  Now who gonna stand at keypad to look at their cameras?  The app been dead since getting alarm in September.  I changed my password so many times to be kicked out again again, and again, now still can't get on app, also if I were it will freeze/drop. Saying app stop working. Now the alarm keeps going off when house is secure.  So angry.  I'm still paying old alarm system cameras only luckily I did.  Was broken into right after.  The 2 guys who help run a good game on me to get this alarm, they wouldn't answer my texts or phone calls.  I'm upset with this company.",
+    "score": 1,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "4.12.2.100.pr.7db61bcee"
+}{
+    "reviewId": "gp:AOqpTOEyPcQH4MX2ZZi78ZzPQ4z7A473yapRW5np2OTA226FjDauDp5hZdEKGnTKcOlNHTnUy74dYyICb7HyY_w",
+    "userName": "Beatrice Adame",
+    "content": "1/2 the time this app takes forever just to log on, and another 1/4 of the time I get \"website error\". So the app is good about 1/4 of the time.  Really disappointed. Please make better.  Is anyone looking into making this app better?? Why am I paying for this security when it doesn't work more than 1/2 the time?!",
+    "score": 2,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "3.8.2"
+}{
+    "reviewId": "gp:AOqpTOGGDXA68JldnWPuSz3X_0URhSswDGRWnGnNFjps19RRZD9qSW_wJP5vQ9aYPeJK4qf56sGMjgNJ_tRcPtU",
+    "userName": "Ryan Williams",
+    "content": "Most of the time I get a \"Can't connect web service error.\" From a security company I expect reliability. Not happy with Northstar. Even their home pad doesn't always work. About ready to drop this company for a less expensive and yet, more reliable company.",
+    "score": 2,
+    "thumbsUpCount": 4,
+    "reviewCreatedVersion": "3.8.2"
+}

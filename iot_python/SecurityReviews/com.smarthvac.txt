@@ -1,0 +1,15 @@
+{
+    "reviewId": "gp:AOqpTOHnlVq4pZ8jajIvnTdxYn_n5ySNwZ31LHHAXQ14587USJxpdbmjwRXQOWum6VEI7fJ5e6OH_RZUqaXUvQ",
+    "userName": "Gary Exline",
+    "content": "Works ok once i got it setup. Asked for a password to my router which is set to open... My guess is it wont connect to a non secured router. Also i cant find anything... Anywhere that tells me what the different colored bars mean in my usage. Seems like the thing would be smart wnough to turn off once it reached it set temp instead of going changing to heat to heat the room back up. But i have no idea what the blue.. Green. Red colored bars mean... Update: contacted tech support. No response.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.1"
+}{
+    "reviewId": "gp:AOqpTOGaX1Tc5p9g5f9ifFFLjGqCsozc6L-EoIZO8-qK3kXWlqTT4YWqKwf3-uwg234m7HsUk4-K2rS-R0Q1Sg",
+    "userName": "Mike Denzinger",
+    "content": "little disappointed...app requires a password but I dont have a secured network (live in the country no need) so it saying I have to enter a password when there isnt one. I'm not giving a password just for air conditioning.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.4"
+}

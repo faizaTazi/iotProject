@@ -1,0 +1,22 @@
+[
+  { permission: 'read your contacts', type: 'Contacts' },
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'precise location (GPS and network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'change network connectivity', type: 'Other' },
+  { permission: 'connect and disconnect from Wi-Fi', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'draw over other apps', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' },
+  { permission: 'modify system settings', type: 'Other' }
+]

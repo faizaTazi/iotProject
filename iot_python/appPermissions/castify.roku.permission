@@ -1,0 +1,34 @@
+[
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'allow Wi-Fi Multicast reception', type: 'Other' },
+  { permission: 'run at startup', type: 'Other' },
+  { permission: 'connect and disconnect from Wi-Fi', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' },
+  { permission: 'pair with Bluetooth devices', type: 'Other' },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'control vibration', type: 'Other' }
+]

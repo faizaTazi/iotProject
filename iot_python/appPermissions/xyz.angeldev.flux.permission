@@ -1,0 +1,9 @@
+[
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' }
+]

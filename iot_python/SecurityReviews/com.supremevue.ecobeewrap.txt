@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOEbqCb1KvhcETtOxQP6EQ9KFAncxProWh7nlB-oXV3GiJAdt6vll6jZDjkj0N2PDPpxflxNvk6PAfPQaH4",
+    "userName": "fuchi farm",
+    "content": "Intrusive Permissions - if you value your privacy at all do not install",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.87"
+}

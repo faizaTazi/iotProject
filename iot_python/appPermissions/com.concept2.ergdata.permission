@@ -1,0 +1,12 @@
+[
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'pair with Bluetooth devices', type: 'Other' },
+  { permission: 'access Bluetooth settings', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'control Near Field Communication', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' }
+]

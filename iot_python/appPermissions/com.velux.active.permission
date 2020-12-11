@@ -1,0 +1,22 @@
+[
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'precise location (GPS and network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'connect and disconnect from Wi-Fi', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'allow Wi-Fi Multicast reception', type: 'Other' },
+  { permission: 'control vibration', type: 'Other' },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' },
+  { permission: 'change network connectivity', type: 'Other' },
+  { permission: 'modify system settings', type: 'Other' }
+]

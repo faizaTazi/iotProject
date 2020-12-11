@@ -1,0 +1,11 @@
+[
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'pair with Bluetooth devices', type: 'Other' },
+  { permission: 'control vibration', type: 'Other' },
+  { permission: 'run at startup', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'view network connections', type: 'Other' }
+]

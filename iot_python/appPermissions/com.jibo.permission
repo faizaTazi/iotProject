@@ -1,0 +1,44 @@
+[
+  { permission: 'find accounts on the device', type: 'Identity' },
+  { permission: 'add or remove accounts', type: 'Identity' },
+  { permission: 'find accounts on the device', type: 'Contacts' },
+  { permission: 'read your contacts', type: 'Contacts' },
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'precise location (GPS and network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Photos/Media/Files'
+  },
+  {
+    permission: 'read the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'modify or delete the contents of your USB storage',
+    type: 'Storage'
+  },
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'view network connections', type: 'Other' },
+  { permission: 'create accounts and set passwords', type: 'Other' },
+  { permission: 'connect and disconnect from Wi-Fi', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'read sync settings', type: 'Other' },
+  { permission: 'use accounts on the device', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' },
+  { permission: 'modify system settings', type: 'Other' },
+  { permission: 'toggle sync on and off', type: 'Other' },
+  { permission: 'read Google service configuration', type: 'Other' }
+]

@@ -1,0 +1,15 @@
+{
+    "reviewId": "gp:AOqpTOGiEh8HfZNJUD5zw-K1Hq5ydP7I7izh44kHdtCVCx66rEMAWzMQVzVsZZphMDJb9MhB42aoEloXnhfIXw",
+    "userName": "Kevin Fry",
+    "content": "27/1/18 Latest update provokes a warning from my security software!!! There is a flaw that allows intruders to harm your device or exploit you're personal data!!  I have tried everything to get the VueBell to perform as advertised. Lots of messages to and from support - new WiFi repeater very close to the VueBell unit, new power supply unit, factory reset, changed the settings. The motion detection has never worked despite trying every different configuration; it will catch every bus in the 'OFF' detection zone but miss people coming in and out of the house! I have to accept that VueBell is nothing more than a good idea a good idea and cannot fulfill the promises. Support promised to replace my faulty unit weeks ago but then stopped answering my messages. Looks like Amazon are going to get another return.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "4.4.6"
+}{
+    "reviewId": "gp:AOqpTOGfjh-u1XJrgzO7F6yieHICnE1Mm_QDiLWJ_tVTWDakF3-KtCAiHL_JF_Gtnr8KNDsD72UGI1FwTmdQeA",
+    "userName": "Sweet Antoinette",
+    "content": "Great security for me giving me piece of mind when I'm out.  I get constant notifications and shows all activity.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "3.6.4"
+}

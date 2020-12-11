@@ -1,0 +1,706 @@
+[
+    {
+        "reviewId": "gp:AOqpTOFgmrOdCxnfCTaH-3V8C1amy-Wega-q9qBoPybZX7A6q45tfGjY9XUcfU5NHRmXkRIuWpnA27C-LICGtw",
+        "userName": "Greg Hutchinson",
+        "content": "Update - since the latest updates, the app is really unpredictable. The Drive Fan doesn't get recognized half the time by the app and I need to reboot the fireboard and this app. Also, the setting that I set are no longer taking effect. The concept is great but the implementation has gone really bad lately. This was my first review below so you can tell at first things were working really well. Having a cloud solution and that I can connect to the fireboard via wireless is a great design. I went through a lot of other brands before finding fireboard. Great product.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOFTzQVOriMJA59AX1Tc4ULhXFfy64ps0zL5u85_YTImc13-itX4w-Lx429lBovbZqG6xCq4T3sDBHRk9g",
+        "userName": "Arrogant Man",
+        "content": "Worth every penny",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOErTncZNc-Uevbg9JeBZLYHeZkGKTnn1HMkmpiOYYINnjh4Ojnt9WxhwydhNp1X36vssgQKLWMtuXavvQ",
+        "userName": "Brandon Scott",
+        "content": "Great app to sidekick the Fireboard! Awesome interface and very simple to use! I highly recommend the Fireboard and its app.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.3.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOHjByQkSjGAi-bAfznjwGh4N91u8nVkrMh-zbh9OdgKJ1P8qUnKVxDXZH30JUDbF1C5PaxXm0if2CF_Tg",
+        "userName": "George Kolb",
+        "content": "Will not connect to bluetooth. Once in a while. Do not use two days in a row. Will not register.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHzzNLrasnRfXJOqdeItmQ5DmO8wZkk7HZkGhxDi0L1b6Wfl1dYz-skyQWKPXt00oDg0mxPZVsSX59Ksg",
+        "userName": "S. Austin",
+        "content": "Very happy with the app, and the FireBoard!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.3.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOFDY9hxCi6KCQeScsNcNRbRepJzqSRUniXYEdPmB3XX55TPdEl-dixOP9qM7DMyJRPupGoA5HJ9edXTQw",
+        "userName": "Jeff",
+        "content": "It's great to finally be able to quit the app but can we make it so that it's not exclusively in the settings tab? Still no way to quit the app. Good app and slowly getting better. Still keeps running long after you're done using it. In fact there's no way to quit it.",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.2.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOGAvBzGiazM9B9jKnXars1MWRccFoDc8rfc2gI45kEKtl-FOD4dPY300PE5HYxsXNIEszYgCXW09BC_pw",
+        "userName": "David Reichert",
+        "content": "Way better than the el cheapo BT probe I was previously using's app. A couple of things would make it even better. - Temp alerts for temps should be defined on a \"per-session\" basis - If you're using the Drive blower control, it would make sense to have alerts for the channel to be based on the setpoint, and allow a +/- x degree swing for alerting. - It should be more obvious where to go to set up alerts - Device battery level indicator in-app would nice, and notifications of low battery",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.2.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOEf0t_DRmSlUCIFR5AF7DmS2gJLdttHWmYsWVqyAuojSE-XMYyLGM1ObUBcPmC6_3ptf5s0Z3lSUCIJCQ",
+        "userName": "Stanley Miller",
+        "content": "A bit of navigation issues until you get used to what is where but quite serviceable. The ability to download your data is very handy.",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.2.9"
+    },
+    {
+        "reviewId": "gp:AOqpTOFyo5H1BMltxqq2ly0qShozHDX0hrLM-zlbM5iS7MDKJvPFCSKYx6vi3tUAE4akk9I5hRbTL_WXUZGU8w",
+        "userName": "Everglow",
+        "content": "It seems to work well on Bluetooth but for some reason the wifi just won't read anything and that breaks a chunk of the functionality that I really wanted to have.",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOF03zbx_W2bn-BBwlKw56Sd8lJebphVoAvIEoU9i0LgjRhseV6yWP98TeOXDK7ketKTjcMKFlry58zXWg",
+        "userName": "Mike Fratto",
+        "content": "Been using Fireboard and the app for a few years. Really good experience with the probes. Temperature changes are in near real-time--within seconds. It works out of the house, too, though I've experienced drops in connectivity at times. They added note taking with pictures which is awesome. Shows up on the temp chart. I like to take notes while grilling so I can review and improve. Easy to use.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "3.2.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOGZT7r8O6SJDyol5lrh9Pv468RRT8zxeLIbRpPc18SHqE4A9bZ7LzE3RL-OQ3uNrzywyiBhb_Gf2tz_3Q",
+        "userName": "Kenton Yost",
+        "content": "I like this system a lot! Very helpful when smoking overnight. Easy to use. Love how once its connected to your wifi you can monitor your temps from anywhere. I would really like if it had a widget.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOFPw8BWmiqtB3zkaTM5v31kZvU3wPgjKp7L0y5G3wK435-75o_5-iw1-4sau8JVLH6ls1kUxELrVnrqsQ",
+        "userName": "John Amaral",
+        "content": "Great investment. Setup was a snap. Ability to label the inputs is really helpful. My only complaint is not about the app - the wires for the probes are WAY TOO LONG. I tripped over them twice.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOFzQZWgH-_94C397Xyxe8X2fuKK32Tu2GcuJfrg-DneeZ4rmEvi4HVgPy6B0gmCk6z2LEA8dYngU1yDEQ",
+        "userName": "Jim Pagel",
+        "content": "Great app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOFWRRXgKRGqT8JSo-MPu5DERE_06L4IzCOuuFexwo_C29bUr4PUcZQ493qNadp9xj73ezDl5oiDsBU96Q",
+        "userName": "AZ Wallbreaker",
+        "content": "I love the concept, but the execution is meh... I don't like how slow it takes to read my smoker. Also, you have get close enough to your smoker to get a reading. If you're in another room, it won't update!",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.2.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHlRxchlRNvzz59H1rY0zI6tbasRp71drkuxpbyRV42hIudZgkNWX0JJT5xW4doS6NSOa3rX2Z_anN2QA",
+        "userName": "Tim Arkebauer",
+        "content": "this app doesnt appear to be working at all. words dont fully load",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEsOGMbf5qWUuCP1ygC8xnBZJEQSzpb-b-do8n9spbkdOSd7KAHBih-bvLPKM69jl9aiZS7QMShanug8A",
+        "userName": "Steve Nerhood",
+        "content": "I bought a yoder with the wifi fireboard. The smoker works great but the app keeps losing connection and says waiting for temp. I had to uninstall the app and reinstall it and it was working fine. Now its losing the connection again. Samsung note 9 is what I'm using.",
+        "score": 3,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "3.2.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOGDMMRSq7Ck7Qdurruh2LKAds3ZPSkZrkZ9pYbT429lwJVRMTBcahqWOPoztCGfNinkySJZMi2eGKwstA",
+        "userName": "Brad Schickler",
+        "content": "Fireboard is freaking awesome",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.2.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOEoBGlruoxTzK_wLhxEhlDLfdh4zcCvGr4h4tCvP_AoO5APuJMxaURMySAG6riIeKESyy1emcsoHegJdQ",
+        "userName": "Phil Oyog",
+        "content": "Used this app for a year with no problems. Lately, with latest update, it has been quirky. It disables the Android back button. Also, it no longer seems to be driving my fan when set to automatic. Update. Still a buggy app Another update. Still a big dissappointment Another update: Recently, I had to replace my fan. I decided to try the Fireboard fan. Maybe it's just me but the app also seem to work a whole lot better with it. Adding back 2 stars.",
+        "score": 3,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "3.2.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOGccRA4_llY7K2HyQ7y7suxfypgu2lnDcz18OkboWxrXhAIjL1YUD8S_Cs3b_IM7tiJxApIZHYoc7pwow",
+        "userName": "Christopher Day",
+        "content": "The app is Ok ... app is always crashing and freezing. The equipment is awsome though.",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.2.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOFr8QZJdfGvTWfT9ef0opOojMiE6_z4EgBsn89pqbO1vk4Qiwx4GxFeuFmuiCdf0OS5HKfBXH0Am08jEw",
+        "userName": "Andrew Johnston",
+        "content": "Last update has screwed up the app. Used to be 4-5 star. Have always occasionally lost bluetooth/wifi connection, app then would say waiting for temp till reconnected. Now in the middle of a session with a program set, setpoint and fan speed go blank, while the probe temps still report. Also, as others have said, please bring back screen rotation. Great product, app needs better support.",
+        "score": 2,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "3.2.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOE1LxVSMKI6cj3SkHU3q-s91-2xDy76B42QCiQtZ3Df-h1DeOnPRzsYho2sH0Z3mBXule2Gbo9O7V5z7g",
+        "userName": "Cody Womack",
+        "content": "Great App to go along with amazing Fireboard.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOHoNRbAalkNUMUQkhE2UJ_NrPBiVQLSwONH4VU9qaFO7xk6rCFuU6uJpP0HAGXrf5jxXG2CBE0T0gzkBA",
+        "userName": "John Sullivan",
+        "content": "Best thermometer out there. Would like to see a social interaction with other users.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.2.1.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOE95VxnSgFzKZFLhZomM3fndcSj0raOvb5CV3mWMAuuYXufY3ZcmMBN5dMwVVo0LP1SZohqG6YZYoW-ZA",
+        "userName": "Jimbo Richardson",
+        "content": "I love it. When I'm out I know what my grill is doing.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOHiBxD3PyAZfoNUf6ETK2zWr3OJqG1ZZjZUKsCoCaKYtsf9iGAcmoGu1XThs7kYcMZTU8H8RkTrPtIgHQ",
+        "userName": "Kyle Trapp",
+        "content": "Love the system and this app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOEY7mLUnQlppDfnpFPQyKzicS2KvFroLiGfBYFVFSGeDH3Lw4WItsf7j8dfXp4UD-wttUOy2LzVAFFTAQ",
+        "userName": "Jeremy Riddle",
+        "content": "I love this app and device. I do however hope there's compatibility soon with the galaxy watch. Even if I cant directly interact, I'd still love to just see the temps on my watch.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOHH3DruXktwp3nutl1_N6uIZxj0zXcybyOb4X_31LGMAYu9kYb7P0XQJsXG7iInVKtuHQ45gycpaNmsVA",
+        "userName": "Jacob Bockelmann",
+        "content": "This is shockingly great software from what I presume to be a small company. I just used my Fireboard with a fan control for my first cook & it was flawless. The app is pretty intuitive and easy to manage. Setup was extremely easy and the app performs with high stability. Being able to monitor my cook while away from home is so cool. The only thing I haven't figured out is how to view my setpoints in the graph and how to get my drive cable speaker to sound the alarm. In sum: great product & ap",
+        "score": 5,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "3.1.8.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOHP8FoNoumWyQA6mGXjnX8uzzpgIIrLyHXe8D1OmU8qRXY-6kWv-3p8H74OGUwBesdBwQlnUCQVmtpNvQ",
+        "userName": "M M",
+        "content": "Great. Rock solid connectivity for my Yoder YS640S and my Fireboard. I can view everything at once. Great UI and controls. Just an awesome app with awesome hardware.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.8.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOEDC8Xhe0OEj-3nvjYpRUn8k94agNZSJjKVIYmGaiMghqYzIGuZpWID92Edr8SZdwiHlBKgOKDCaNU35g",
+        "userName": "kfx450",
+        "content": "Fireboard is a wonderful tool to help you with your cooking endeavors .I highly recommended their products. Also the customer service is OUTSTANDING!!! I had a recent issue with connectivity issues after purchasing a new phone and Maureen Friedt from customer service patiently worked with me to help resolve my connection issues. Thanks again!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHwWGfegFnBFskDCjU-rUdu2xVUnbt9FR2clOySoqwBCsOEtJvuIA4P8JDQmxores0zpY_6-ndZMxyvnw",
+        "userName": "Maureen Friedt",
+        "content": "So easy to use, works perfect with my fire board.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOEypZ4Gs5kZfNM-E36OV9TqzCckV5vBtoM5MlPmQn7_sFypJ4-bBClqMTq0t9SU7kXt2fB9p1uizoMQwg",
+        "userName": "Ryan Housand",
+        "content": "Works as expected and was easy to configure",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOFYELhBWYHDyP5A6Wq1qFooWkOAieR-_eLBau4jhQFOa56YOUT6lce4S11Ll3OqburCVPSXE85AQDoetQ",
+        "userName": "JAGRD Wood Fired",
+        "content": "Love this app and product, always so easy to connect, I'm a graphs nut so being able to look back and compare sessions is awesome, and being so busy I can trust I'll see what's going on with my pit through the Wi-Fi",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHsg5aKDHaxAEqX9lsp2LG5uMy3jrcB6S1BRynVs25Z8EydAoAdaAIF_nBmimz9skK6P-hcVd_0i5vQ4Q",
+        "userName": "Tom Hedlund",
+        "content": "Fireboards products are awesome! The Fireboards is very much a plug and play device and the app is so easy to use. Whether you're new to smoking or the seasoned veteran it is a very powerfully tool, to be able to accurately tell the temp of the meat during the smoking process.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOGKTjHCwTyAzpWu9bPJs3AjuBZgfSvjN7q2oFPYlhNA3vzelcfbE40dVajveo24i7g4gcs8qNLUJRA5sQ",
+        "userName": "Jason Fiscalini",
+        "content": "I received a FireBoard for Father's Day and absolutely love it. The flexibility to use different probes and to monitor 6 temps at once is sweet! I would love to give a 5 star rating, but I am bummed that the app does not allow for turning the phone sideways for widescreen. It did when I first got it, but for some reason they changed it (at least in Android). Now, when I have all 6 probes going, I have to scroll through to see all the temps. I used to be able to see them all at a glance. I really hope they go back to the old way.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOH5sUuQKaxF-W0TMswjJTgwT2NJgj92dFGa-E4fhGUh1jFdZ2Ti33CaNIXxEUi1wi7YrdzgELjo0ToMfA",
+        "userName": "Raymond Iseminger",
+        "content": "Great unit when it works. Frequently reads off and proves ate not reliable. After 2 dozen uses the unit no longer maintains connectivity and I am told its obsolete and needs replacing. Not ready for prime time. Real shame it doesn't last.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOE3sBClgYjYpDkYiZa_xMB4xPMntJG_BDTNV9I-hA1TIUYDg27Bi1q--4AJehSv9opZRXlHKY5BIku6Sg",
+        "userName": "Scrappy's World",
+        "content": "App needs updated. I have to force close after use or it just keeps running. Please update",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOFUgka6951efzpHCnhs75gO0Vl1PA_AHD8GzCmZchWg6mN29Jrw4-exfAoYWeOdft4idpsbpQmlD0iRlg",
+        "userName": "Tess Marra",
+        "content": "Best investment I made. I wasted a lot of money and time with different bluetooth thermometers. I finally \"bit the bullet\" and purchased FireBoard. I have NEVER once regretted spending the money. Easy to use, virtually Plug & Play. I love it!!!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOES_VoocdIqYqQONg1PydsRFIZ02CP1Q5YsSF46KQFbRZiACjl6BIxE3vr390B2wtw2qgD9kqUmMSXJaQ",
+        "userName": "Will Rice",
+        "content": "Constantly disconnects",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHJfqQmbNKiZiOzOjXyt7qkOArQda9ZogsFx9R__zzwSU1VdzRfRJSASlDC50PFYOYz3H_xqupPAchz1A",
+        "userName": "Craig Carleen McDonald",
+        "content": "Really great product and the app is easy to use and configure. One thing I would like to see in the app is the ability to stop the screen from timeouts when the app is in use so we don't have to unlock the phone to see the session.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHuBHfANaZFwDXbFI8oRLKT5ZtnRCtp-afSxWDphR-g8cxb-AYwKGEt325hNcmZUAcKbePhGkPG1jAjHg",
+        "userName": "Justin Aguilar",
+        "content": "Never thought I would like these types of thermometers but the more I use the more I love it.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOEpj17Hcprp4YiQ8zrgl8G1jGt8pqFv44Rg92UcLg1KwtL5_NoHNCMVz-QlD9nr9OtyIv2E_Mhyx_8tUg",
+        "userName": "Mike Johnson",
+        "content": "Doesnt connect most if the time",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.1.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOEns1STs--JEt1kBflqVZu1VMxHhSftQBEEh0w2VPbNgIRXzxDxBMHAxHgYkNnY_k2gGryelH6qUNC-fg",
+        "userName": "Damien Prob\u00e9",
+        "content": "I love how accurate the app and how easy it works with the fireboard product itself; however, I personally would have liked to have seen an option so I can select from different types of cuts of each kind of meat and select how rare I want it and have some algorithm assign the correct temperature alert to each probe.",
+        "score": 4,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.1.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOHYcFeWwGt-1auSBBbz1FxrY8zOC43oH8VWpLDlNMt1s5Y65BxCsj-aOsWI9EsgTgusguobHEjDtOALrA",
+        "userName": "Chris B",
+        "content": "updated UI pretty useful. but i notice that hours into a smoke, it gets slower and slower. tapping on anything has like a 5 second delay, when you're viewing the dashboard. i only have 2 probes now and fan going. it's at hour 20 now and it's really slow.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOGvgGOsJBMcesOYmigxpvzUnvDFmY4KusxW5EaFNn13WylAjbV-nuMv3cKC_oC1BrzCnultuxhVPj_HNA",
+        "userName": "Michael Chesloff",
+        "content": "It just works. That said, it does much more than just work. I use the Drive controller (sold separately) to control the cooking temperature on my kamado (a Big Joe). Every conceivable aspect of the cook and the logging of the ambient and food temperatures, along with the fan speed is accessible graphed and logged by the app and the Fireboard website. So using it means you essentially automatically writing your own cookbook. After a year of use it has never failed to perform as designed.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOEmMukk4GuYZoi_RqM0nctBlWi25PFDM6g_XSPZSOqvmpOzzySHTg3Zr1ww6NVVcI9JUqzDaTe9KHCMWg",
+        "userName": "Rich Thompson",
+        "content": "I've used the Fireboard for about 2.5 years now and had no problems. After the most recent update, the graphs won't rotate any longer when I turn my phone sideways. I regularly use my Fireboard for long BBQ cooks (12 - 15 hours) and a 12 hour cook jammed into a portrait screen doesn't let you see what's gone on very well. Next update, I want the app to autorotate again. Other than that, great app!",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.1.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOFgwNKZIcLfS-aLVJ0sDxRY-DEt-djKgRW7KKa0op61N_BRwpcDzIqT4-U3zHwOzzbFlNL8tKT434Fa5A",
+        "userName": "Jake J",
+        "content": "I just took this out of the box & wifi will not connect. None of the settings on the wifi section of the app seem to do anything. The view available networks does not show anything when there are several there & the manual entry does not work either. The Bluetooth is constantly disconnecting during setup within 2 feet of the device. I was able to get the fireboard wifi setup using a different phone. I still cannot keep Bluetooth connected. I have already reached out to the support email & waiting",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOHUrVtFdBQBi9fB6gNAT_jBB23eTA8sChPWtuGueqGol3sQJLSFBLkLy4JeGwEv08nQh48Py9mIUc9lKQ",
+        "userName": "A van D",
+        "content": "I am (or maybe was) a big fan of the fireboard BUT I should not have updated the software. It's constantly asking for the GPS (location) to be turned on and that's bothering me. I always have this switched off (it drains the battery and many other reasons). Why must the location services be turned on to measure some temps in food??? Since the update I can't give it more than 2 stars. When this issue is fixed I'll give it all 5 again! Update: back at 5 stars guys!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOEU9c7lN6nF8t4zpXPFyoaE5BQbna5S80NFUZCj9yvbebAoSTCPZ6vXI2gHtrnNT_91btwuI3KqnaMAsg",
+        "userName": "Chess Dedrick",
+        "content": "great app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.1.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOHy7n5IjOn3aUBThAuFY-w9d9UmUvH007dH4JxShWcsUStmShnAS4R_J6blJp0WXArP3wbRJp7q3-Fb9A",
+        "userName": "Jeremiah Hammer",
+        "content": "app works great with the new update! thanks",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOFcMUBc5KBPIWio-ISmg146hof93bERdFWQ7PtNq03JeuC7fADUxxblX-R2pBdnLCic-y2fVrn3_D-Rzw",
+        "userName": "Sean Hurwitz",
+        "content": "This is by far The Best and most accurate piece out there! I highly recommend getting the Drive as well. Customer service is also amazing and on point. Wish all apps and companies had this work ethic and customer service.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "3.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEKWZNuO-xnVxYppwH3hPngBq3vAVcPOiaiE1nzZfYwJPqKQzZQMAlcEEbgydI-rR1KfjE7nSQZZ89_AA",
+        "userName": "A Google user",
+        "content": "freakin' phantastic! not lookin' back. skip the BT junk and spring for this. it's the ONLY thermometer you'll ever need...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEkJxo-D1eeY3A7r5KD8gxMyo5uaMvmCjAn6g0DlGuOOC5QbfYUykbw93HU63m2CjYdKrkw1V-ujv0lIQ",
+        "userName": "Matt Swanson",
+        "content": "Very responsive and does what it is supposed to do. However the \"location services disabled\" notification at every launch is getting annoying. My GPS is usually off and I don't have a bed to search for new FireBoard every launch. Please consider modifying this.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOFEFXIL-KBQ6weChvkALjzQMVUvqKpUTPEt4W0ucruCwoab9ceJ1h0GOY8cfiq1ZnsNV5PIguEjAiRI0w",
+        "userName": "Nick Maludy",
+        "content": "Awesome! Works great. Easy setup, lots of good features.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOExF49IFYAHTMqLHszyxfz0BHBEwaDmbv0UwO7y1W-SCHIZ5JzxsuUcnDe9K3W44bBgMFa7fqhEYiWTzQ",
+        "userName": "A Google user",
+        "content": "2 stars for the app, but 5 stars for the product. Giving 2 stars because I think some of the functionality of the app is broken - running the latest Android on Google Pixel 2XL and none of the session graphs will load. I have to log into the website in order to view them. Would give more stores if this issue was fixed.",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "2.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOEXx_Iab-LXSGCXbfpdLdLHBVty_VJ7wnerFppGEUGvyxXJtpvFgC0XZ_NTSK_GodxQdHDj7IvdTEO84A",
+        "userName": "A Google user",
+        "content": "I have been using a Cyber Q cloud for the past year. The Fireboard app is hands down better then Share My Cook. Fireboard meat probes are more accurate then the guru's.Setting up the system is easier as well. When there isn't wifi you don't loose your internet on the phone like you do with the guru. You simply have more flexibility with Fireboard and their customer service is great.",
+        "score": 5,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "2.8.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOFp0ECA3Cvd2FA-mvschxR8xnI7G6NJjSNOvxyIjS7HPCzIfVnsve0aAEYSZR6ET3tbsjQIaIJMABM4BA",
+        "userName": "Bill Kotval",
+        "content": "This is a great app, I just can't figure out how to change the name of the device.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.7.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOGTZgO6PhvSTPp3-m2fWdYLC95wB41byWclChlB0-QHA3JivWYHoNlD5p2AEjoSG78T0QXTD65iHMmGPQ",
+        "userName": "joe kundmueller",
+        "content": "It will not connect to my Fireboard. I don't know why",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.7.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHUAiSVSNnV-oLxwfalYNjV6GsPE0EEmVe8jYMgOdnb3_Twqqix73uB8Tqr2Ke_lI-bBY2bR12uktQFPg",
+        "userName": "Tom Durham",
+        "content": "I have used other bbq controllers/apps and the fireboard with their drive cable and fan setup is by far the best I have used.   The app is super important because you make all of your adjustments using it instead of buttons on the fireboard.   It makes it soooooo easy and it's fun because you can share the progress and others will get a page that opens and updates with the current temps.   They are very responsive to calls and questions.   Definitely glad I got this setup.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOElBsaNo3E_O_Jg_LepvMrAvdk_55Qxd6Sg9UBnylqXUX7wnSALK0ZM8yxB6_IE37WihWRz78VE1g9U1g",
+        "userName": "Rusty Painter",
+        "content": "I love my Fireboard. It is by far the best remote thermometer on the market.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHMRcH-g5jS-2c-BltKp8kfQJ7v-8gOIBl4QgTwcgaeZemzIS_bw3kxLg3WC5a07lKLS_w-rvt6bd17wA",
+        "userName": "Jeroen van G",
+        "content": "Fantastic, forget all other BBQ thermometers, this is it",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOGr2bpwuVf1JSdH_JnfTRgOwp55Lx1-SuVF0JZ9qnYF3Am6fZe5wtsvYQ0N_CdRBRMq3GJBTegr-vqQjA",
+        "userName": "Rodney Sandlant",
+        "content": "BBQ, Pfft.. I got one of these bad boys for my still. Its sexy. The App & \nthe WiFi webpage are magic. No need to hover around my keg while its cookin \nanymore. Get to do some pew pews and get temp updates at the sametime. I \nlove you",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.6.3.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOF-nx262MNfBW069EBheI_XIYY4evi6SYgTekfLwfneTKE_InSKAh4wFM0LvtpStUfjt2melVP3wIH6jQ",
+        "userName": "Brett Hughes",
+        "content": "Love the Fireboard unit and the app has been flawless. A must have for all \nserious pit-masters...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOHH3wPzMXPulidYlCpkc31BCfYH68qKbjwF6gY2F9V6o_17RRWsXJm5wUrLOiz_fN9C3yfl1ggbbPd-WA",
+        "userName": "John Perry",
+        "content": "The app and hardware are the best, once you get beyond a little confusion \nupon setup. After that, the app and fireboard device ice are helping me \nunderstand what's REALLY going on inside my smoker. After some use, I wish \nthere were trending indicators to instantly tell me the direction the temp \nis going.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOEuTMKXo66moKqtX2QVs3A9yRxMRSPoyZrm0qau-44A_g-z6AMtsq9l2DvRMvIylgkMx8QmVxyaruUbDw",
+        "userName": "Brent Hilgenkamp",
+        "content": "Very robust unit and app. Developers are very responsive to customer \nfeedback. Glad I got this over the BBQ Guru Cloud.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.7.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOFdDnPLmD6TT9sBm3M2VnSP8DXQpoHoLrA1_fzCppcNrSncmI6pzwpikD9NRjqXYx29-X-fLXSgoIxkRg",
+        "userName": "Devon Berman",
+        "content": "App works great, and updates pretty well even with my weak wifi. So far \nonly shortcoming is I'd like to be able to change the color of the graphs.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHpdAFePhK3vtGToOmb3vCxnvcauqT_kL3X1vZtOrrrH3AQ-yjnjz5CVpx2Ga3x0_NUYApU1FP8oTPCSA",
+        "userName": "Richard Hackett",
+        "content": "The best device and app for assisting and storing a history of my cooks \nthat I have found. Highly recommended.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHgTQnS1XpDiu4WDbzVzGwNO3VH06ptZr9uaQh1HU9wAfSblAqHioAaLKfwfD-WBP8n-f6-9DrRpnYNKg",
+        "userName": "Beer_Goggles_ Bbq",
+        "content": "App and product work for the most part great. Bringing out up to temp tho \nit overshoots target temp every time. Blows fan at 100% till past target \ntemp which isn't good. Probs are all accurate. I would agree with most \nothers that a widget or temp reading without opening app would be nice.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFa6fc2H26z113n2-JVFg9JvzP7r8O6b5JE2TjauCaf6uvCwS9mCq3MEwu5qpdYg6ZSa4Upyn5gIu61ng",
+        "userName": "Jordan Thoms",
+        "content": "App fundamentally works well - temps are reliable, switches seamlessly from bluetooth to wifi, good graphing. I'd like to see a rich persistent notification to show temps during a cook and options for the alert sound - it'd be nice to have my phone ring loudly when an alert goes off until it's acknowledged to help with overnight cooks.",
+        "score": 5,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "2.6.3.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOFzk8A7h8Qn8ItJ3mec_R5ph45f0roofYF6joG7tA_QvYp5YEQ3IUrS4udK8F8MkXXxq4ySeK0ow8WmuA",
+        "userName": "Andy Sullivan",
+        "content": "Love the app and thermometer!! A widget would be 5 stars in my book",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.5.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF_e54CLqQjif_4CdG-WnGOvmIMx4dW6wJzxanif5plVpniGj-72PtUSdXivj7R2anW2fhaegm1KXQs7w",
+        "userName": "Dan Vise",
+        "content": "Love the thermometer and the ability to control temp with the fan.  This app gives good access to all the relevant grilling data.  Only thing I would change is to add a widget.  Love this thing!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEAiUoEl679brxSZZN832tfxqHjKuHP637oW0p53SU__TnjKgHN5iS1au5BJMVOAzpDfSEaoRJb0WTOCQ",
+        "userName": "Steve Hosterman",
+        "content": "Awesome!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.5.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFF5sV3nyJ3t4BVTsRbM9jaAAKhDEd_gNNnyJ42nmASEphQi-qPix4sN2Xq7iJcdrn6QhJH44JSCzalPA",
+        "userName": "Mike Stein",
+        "content": "Good product physically. The app is stable and seems largely without glitches. It is quite rudimentary. There is no way to see the temperature without opening the app. No persistent pull down notification like weber offers. No widget support for a temp on the phone home screen. No support for Android wear at all. Makes it difficult to use since you are most likely using your phone for other tasks while cooking so it's annoying having to stop, open the app and wait for it to find your data everytime. No easy way to check temps at a glance. I will update this review when more features are added.",
+        "score": 2,
+        "thumbsUpCount": 7,
+        "reviewCreatedVersion": "2.3.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOF_H2l_15rCI3NpX2qhKbcIcV8h5Yk1zEOjijHm5hDzwB1UvP4pPsPp9kuMbjl7Et5GEpzd6D8GVIM1ew",
+        "userName": "joey Bailey",
+        "content": "I have only used it once, but it's working exactly as it should. I wish they had an app for my smart watch.",
+        "score": 4,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "2.3.4"
+    },
+    {
+        "reviewId": "gp:AOqpTOETiN_STRLD3Uct-LxPrVpCpcrKmQAj8GVCPaJaP_mlUH11gBHzGgZsckGtllcusZBu8UI6SVFsGuBU0Q",
+        "userName": "A Google user",
+        "content": "Awesome! I can't help watch the grill from work while I'm at work and my wife is home watching the twins or vice versa. Out first brisket turned out great with this on the Rec-Tec.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "2.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHqlIJRvBPsTDiIFscd3kj7yuUSOX5D4YCByYktlwy6UvzkrRaIiGQvSvIXZixhVvOxGe2L11Ri29tG2A",
+        "userName": "Felipe Dominguez",
+        "content": "This thermometer is the best thing since sliced bread. I have had zero issues with it since I set it up. Having never used a thermometer before, my steak and chicken comes out perfect now",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHVmPTvVdIobxscaMt1VVRlnywpD8OOtFR0kTbQ8lSZC2a5uZSfIysFoZYJvxXBI7Gg-0zB96_fQ90GGw",
+        "userName": "A Google user",
+        "content": "The best thing about this system is that it just works! So many devices these days need constant fiddling and ongoing problem solving that it is refreshing to just turn it on and that's it. I'd give it 6 out of 5 if I could...",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOHs0tD0g-5Rl0H-JI1-VGFBS_K4bWljLYeFPRct41nMynnqPumLOS1M7n-odBncsfsZEx1qzfTUcfbaqA",
+        "userName": "Neil Critchley",
+        "content": "Brilliant! Just works right out of the box. Removes guesswork from grilling.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOGzwZoq3Vckutv5ZjZoqIKGOr_cQQBQ6wXR9OxQMcv2J7xppeKjBqE9uGa3yI03DumCkluPJOKG52fUsg",
+        "userName": "Matt Weber",
+        "content": "The app is good and the hardware is great. 10/10, would smoke with FireBoard again.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEmmhL-EuIixXuVEwH-OKTciYu2bSi8cpJhOzbVmDcBsF89kwpJb--qpH1XnVX7TGtbr7LCwu6PdlcBnw",
+        "userName": "William Mclaren",
+        "content": "Just received my fireboard on Friday finally unpacked the box and attempted to set fireboard up today for my first cook.I was having a issue with my phone not communicating with my fireboard. Keep in mind today is Sunday but I sent a message to the company to make them aware of the issue I was experiencing. Within 10 minutes of sending the company an email Steve called me and walked me through the troubleshooting process. Within 5 minutes my issue was resolved. In my opinion the fireboard and the costumer service are both an A\u00f7\u00f7.",
+        "score": 5,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.9.8.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOEj4QmGbDF07DLW40F1t4pgH4nKqxocvOob9AmBTzt7ZiRrZL7tS7V5sLjXnLKRo_Pm4BjwJ_M80AN1qQ",
+        "userName": "John Geary",
+        "content": "Have had nothing but great success with this app and all the Fireboard products! Keep up the good work!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.9.8.3"
+    },
+    {
+        "reviewId": "gp:AOqpTOGwWt3aQVReb0QbZpHysHc_BDALVdH9FSi_cFcS6WyAWxoRjEnqv29lm5gDcHvLuKjmtWKLtLwqfEWJqw",
+        "userName": "Nate Newman",
+        "content": "Amazing device and a very well designed app!  The response time to any questions or issues is quick as well.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.9.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOHmagfmob7FP7SLH1Hu4EC6aiQThVp9DG9EQN4nosjfzzlSWeCH0ElZm9XdjOrxCBjugpAF1KAe-yZt9w",
+        "userName": "A Google user",
+        "content": "I use this app every week and love it. Works great to monitor freezers while on vacation as well.",
+        "score": 5,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.9.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOFkeqkC-iCHsu7k_CCCldYWG4Q5G_pdGn8Ecdop3SGuBal9Bl8PGCfO6M1Iu_ItDI23LfqfbXIdLjOkew",
+        "userName": "Madelyn Bergey",
+        "content": "As a competition bbq team, we'll take any advantage we can... Fireboard is it. As a home cook, we use equally as much in the oven, grill, and smoker. A truely innovative and practical tool. The app is as easy as it gets and customer service is top notch.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.9.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOFoRkqYvJkOMz4a-9TEQKObDk7X9pkCns0nEpmbOjUJCpy214Bcu3ey8jSufsG4oBrL3GuMiGMh-5K0IQ",
+        "userName": "Chris Prestwood",
+        "content": "Long cooks are so much easier when you can stay connected to what's happening with your pit.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.9.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOF64lSQ8KEPLvDIv0iWExb8EAO_yLNXwg0_8u2x3nUCIoguvw1VKFCg8A1fdQ68RTABfPOtDEWcitJYKg",
+        "userName": "Gregg Smith",
+        "content": "Don't have to worry about being away (or asleep) during a long smoke.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.5"
+    },
+    {
+        "reviewId": "gp:AOqpTOECJaioOL1dSIO3oBhO031IcP9L8j9iEMqyyfjOkNkII56BASKIQwSQmGeTJkED8cJk2nUPyz2aGVY4Cg",
+        "userName": "Jim Wischmeier",
+        "content": "Now I am free to move around the cabin!!",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.9.2"
+    },
+    {
+        "reviewId": "gp:AOqpTOFd1STTy7AcdeqpAFERPDZfFkdlNVa5Ko57im4hdlJP6qUrVyHd1xKVDmATu7bkQCf1TW8yttaunJNp4w",
+        "userName": "Dan Dennes",
+        "content": "Perfect...so far",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.8.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOHBHEvZUJvwKwCKnCHkP0o7p5JljVEeBBKhD2Gs2EEcmHERxFyKYuJtjrIeUPG_MoPSqKnrf9Ah5mQt5A",
+        "userName": "Joe Finegold",
+        "content": "Had trouble connecting with Wi-Fi initially, but got great support (on Thanksgiving day!) that resolved it.  App is intuitive, and the hardware works great.  I highly recommend this product!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.8.7"
+    },
+    {
+        "reviewId": "gp:AOqpTOE32WuXaPB3en3wCQhHaV-vErrm6rqGsvGCcDpEK6D3A-zy8XcIcVxddsO6k3G0Pqm31UlpGcmd-Fo3lQ",
+        "userName": "James M Crigler",
+        "content": "What a great group of people making this app work. Had a minor problem connecting to Wi-Fi. But they worked their butt off to fix it, and they did. Now it's time to enjoy using it. Thank You",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.7.7"
+    }
+]

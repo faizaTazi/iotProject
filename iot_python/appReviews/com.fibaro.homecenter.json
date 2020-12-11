@@ -1,0 +1,890 @@
+[
+    {
+        "reviewId": "gp:AOqpTOHVNf8UujIO9voeUFE2GpflzdUezaj3XYU3EcbruDXW6VHTstKGURsb7o0wuwxbbmMzsdCRahOupnlkzvw",
+        "userName": "Scott Plowman",
+        "content": "Why is there no pause anymore? Fibaro blind controls I'm using don't support percentages yet (I don't think) so cannot do that....",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHGMavZmwYv9A8v78rpZLi47LD1fHmUC8EANgn2fAE0FWxPX-gNiOgkfohEDbQS1V0HteWJuWvq6p4i06I",
+        "userName": "As mm",
+        "content": "403 - Access forbidden HomeCenter Lite",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.9.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGez6IRe2IAm9FX_FLzsmOf5RtVKBdyp9wz_E9CjlitMb7BSaQk7dpcRAUDRFZspsZNoZKzqD_l_C7vjiM",
+        "userName": "Chubby YYZ",
+        "content": "I like the fresh look of the new version, but there is lack of functionality that the previous version had, as many other reviews mentioned. In my case, controlling blinds with the previous app was great: I could have 3 positions with my blinds: fully opened, fully closed, and a 3rd state that you could program by pressing the pause button. The new app does not allow it because it only has up/down buttons, and the percentage slider does not seem to work with my blinds at all: they only go all the way up or all the way down. I also want to request an app version for tablets, or alternatively allow this version to have landscape mode. I have a tablet attached to a wall that I use as a control center for my home, but I cannot use this new version of the software because it only works on portrait mode.",
+        "score": 2,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.9.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFrSTee9k8v2UmZHKhtis-fQu7pXDAoVCzR3GbqtptHPvSz8a9wOLREMaP07GnbsCQGB1L3OShn7QeqXN4",
+        "userName": "Marcin Sacharuk",
+        "content": "Much better and easier to navigate. Nice UI",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.9.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF-oM4GukhdPAvRYGenIF7LkXdNLUnX8_DXdNgAeOKEDjP1XnM2C21Vewht54pPvRTbx4l0KGJFHc6bYkw",
+        "userName": "Chris W",
+        "content": "Fibaro should consider investing time in assisting users with the current set of issues than wasting time in updates that are not adding value to the users. 1 star for the poor technical team.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.9.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFti9MWMKZM_fVfT5ooEMTPZIlsEV_GCHtHQbhyaXEShu5KDsHmbEj-r8GmQWYf96KrRTts2bNbflFA0kU",
+        "userName": "Jeremy Camp",
+        "content": "Why even make it downloadable....completely useless",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEu3XVKO-pg1UEWRvv7YkQaNGjl1tGW79EUGsZ94z7rjtr_TaA1Ahxhxc_WMjtKGnZByOiEfqJBkxykeLM",
+        "userName": "Sindre B\u00f8rsheim",
+        "content": "Old app was not perfect but Fibaro Home Center is, sorry to say awful in so many ways. Reliability, functionality and francly it is a bit messy. Almost considering rolling back to use my old HC2 to avoid this app. (I wont but it is tempting)",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.8.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEjpDroaK3wYfFvRIpFdcoX0Rm1zO14YelS5fkJUuvZehQezFRAeRdCE2Y238HyNa6Ev7GznwbwkcGYLpU",
+        "userName": "Nextsky Switzerland",
+        "content": "App 1.8: 1. In this version you can NOT add 2 different HomeCenter (like you can in the old app) it has a field to \"choose default\" but rest is as reply by support not yet programmed. You need to log out and log in again instead to switch. 2. You must change the default name of your HC-xxxx to something else otherwise this app does not allow to login 3. If app complains \"your HC is not fully configured: Config localization settings.\" Move map in web-settings around and safe again to pass error",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.8.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGjvd96TzOssFdJwALpR61BQiV5z4q2DxaiA32z_8Jqx0tabIlULwGw2XygNcN7pVOUWzZLcYwDhyN5L6M",
+        "userName": "Smart LAB",
+        "content": "Ok",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEuVKLUzhOpMfpz3ayiM4PLBLAdPD2GhmONTlgDxR8VrrhPAixpBBlu0gq09spT-jJ5oceQtWtp-lsTcVY",
+        "userName": "Artur Fronczek",
+        "content": "Awful design. Back to old app... Reply: it's not only about skin, but overall experience ;) just please don't kill the old app :D",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEwUFnu3FKWye3d6uTveMtODXIVw2B9deAGyN28saDHCxMa32e8YC2Lf10DfOI9c5tqKikiqxINNPYU8ys",
+        "userName": "HOME AUTOMATON FR OM DRASIS AUTOMATION",
+        "content": "Ok",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHJ8YO5ai9vwdv6FgdmZiXcNN25UjTakdPDZtEP8vi40i6sFo2nMpEKKluw_Ek7X7XfOtPvmtjwE6mAi98",
+        "userName": "documentos Bacigalupo",
+        "content": "Works perfect ... Love fibaro",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFc1Oc7EsnEPk_tJoxOUCQvWO8xoXu32G-9amYyH4B25O8dtALURRUnCWSTwb7BLdeR45ITxYG59wxXp6k",
+        "userName": "Corn\u00e9 Stam",
+        "content": "Needs some improvement. Functionality is a bit limited and unfortunately no portrait mode so it's looking weird on my Samsung galaxy tab S5e on its dock.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGOBudPT7v1w4JDP6jSIJ6lVb0oarfvDG739rKa52fAA3zCjgaLDxMU-H8cKyiDVM31abNe2VOwkiKUCuM",
+        "userName": "Sorin Cisleanu",
+        "content": "Hello With the last version, the go-back/exit button does not work anymore. 10x",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.7.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHUQk4oG0Rc3WvwkCk-_xOMGWv4gcaH_96uF-T4m1-YKCt8Sty9QCr13WrDZ1oAxy9YSVuRyQvpvPfCZwk",
+        "userName": "Marc Waddingham",
+        "content": "Loses connection continually. Heating panel is hit or miss. Widgets don't respond.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFJvUJK6LuYTkAP7UZepuY8KNFbHKlA8NWzYIwpdpP7qF4k3B377SuSAyGphywHYnbGzYegiC8vSBp1sus",
+        "userName": "Peter Dottax",
+        "content": "My biggest concern is that I can only start the app a few times before it hangs when starting the app. To get everything functional again, the only option I have is to reinstall the app. Meaning I have to reinstall the app at least two or three times per day. This is not very stable. When reinstalling the app I get to sign in again - which seems to be a good thing to get it working. I have been using Home Center 2 for about three years now, and I have three devices. All running perfectly. The old app has been great. But after buying HC3 a week ago, I had to move to the new Home Center app - and forecfully had to reinstall my entire home as the configuration couldn't be transferred between HC2 to HC3. This didn't make my day - I can tell you that. Frustrating and loads of work, and now the app I have to use has to be reinstalled several time per day. I wish you had some help to give, but all you do so far is give excuses. This is not very pleasent for customers like me with (now) four Home Center-devices and more than 150 sensors/switches/locks. Also - the new web page for HC3 is a bit strange as I can't find a way to dim lights. Only switch on/off? And RGBW-devices? Only on and off? Are templates missing in HC3? Other than that I enjoy the web interface for HC3. But the app (which this review was supposed to be about) is not very stable, functional nor near the intuitive interface you had in the old app. Sorry!",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGFoxA1A5RALe-lbq6W6VrJvyEiAPz251p26Ue0-eHuxVLEDb_HdVkGfMY7EL-zfjecub6zfHreODjolmg",
+        "userName": "Bartek",
+        "content": "The UX of the application is really ugly and not living up to 2020 standards. The app feels like being designed by developer in 1990's. I wish that Fibaro finally hires someone that understands Material Design and modern, minimalistic app design. I hope that Fibaro will one day create a brand new, fast, modern app with technologies like Flutter or Kotlin and modern, minimalistic design without colors like light blue on dark blue. For now I'm staying with the old Fibaro app",
+        "score": 1,
+        "thumbsUpCount": 6,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGF5GINI7FQ9hcX9DWl02XJ-UEsgARWHT_168L1avLFIHrisqcW5PHjPjTJSxX83ywLSucEV3zgJ8PbPHg",
+        "userName": "A B",
+        "content": "Can not get connected. Uninstall/install many times with no result. The old one can be connected.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOE50TWHqR36BCGQkJVkevX7Z3wNlC_915M65xi2oCb4Rqfh0c0kXPVJgmO_-7YmI8ozEOMZAqhJDKcm5UI",
+        "userName": "jack bouu",
+        "content": "Working but UI is not well displayed. Texts are cropped, so not fully displayed. Mostly in the Menu settings view.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGDd0h86KeRSdKa1rFANS3ppNwfaMqDIVAd69kDXxw8fbZGyv_ISAwbqrHSgbFzYeaIqHyMq3fbd4jKHgk",
+        "userName": "mlsprtc",
+        "content": "I still use the old app, for me it is better and kinder than new one.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOH8m_qSVN9fIMavq2QXS18WDD-3zYe9KPBuikfPxBSzScktqgZ7lEqGwMJ_Cg-5y0N5XYC5mVx2hQLw1gs",
+        "userName": "Marios Pavlou",
+        "content": "Very good management of Fibaro Home center.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.6.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEtFQax9oG1RQv0fTnawb4e0sRrJXzNrD9XYUMrgpPGisqZ9flR3eN0jRjQ4-US5hsjGgrj206M0S79f1w",
+        "userName": "james bragg",
+        "content": "Missing all my plugins for russound and logitech, devices and virtual devices are not in the correct classifications as the HC and cameras should be available on the home screen instead of trying to locate them in there associated rooms. Old app has all devices and overall functionality much better.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.5.0.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOGYjrjJa1IfG_eGQv_9CjWTjOkOHiMmUqVSWrdatbu_7lnlvf8gkktNQvMC7V9PrzXkyaUTriWf9HiZvok",
+        "userName": "Ali Haider",
+        "content": "This app don't support ip camera :-(",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.5.0.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOFxEmfmAdnwjJr-E7p_zl4zYbUkTZ0a-i_as41RSh0djE4AMSBKFQCkcFiLZ9dzTZErY5adOGA2hjZUcmg",
+        "userName": "Paradox 8",
+        "content": "Has a long way to go to get to functionality of old app. There is an error on the app landing page it says \"Welcome In *home name*\" - this makes no sense in English. The other major issue I have is rooms don't automatically close after you change to a new room, so if you jump through a few rooms without manually closing them each time you end up with a mess. Be much smoother if they automatically closed. Would really love to see some options to change layout from list view to icon/tiles view",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.5.0.1"
+    },
+    {
+        "reviewId": "gp:AOqpTOGjOMdZJ2Q6dTNZgH0YH-9TS_vY99XHglXWyF-z_5LO6thM72cdaRjZ9v9G_qD6q5FTJdmKLWIkyhfRRCM",
+        "userName": "Giuseppe De Simone",
+        "content": "Still Flakey and unintuitive",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOEqJVQ8t7cDOh9X3KOQTb7JFHly9m2_NL0EsV8tblO6lnwY61aeYnLRxw7WbF2Rau6Vmeb9SLrXaTUIka0",
+        "userName": "Daniel Ngugi",
+        "content": "Perfect",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGLpZ9ofZo_RZcRgmsf4nCgXlDp6mwOVhekKfYnUbstUIxg8CDx4bWt1MtPOIB08MWj-Adoun3xErNdw2g",
+        "userName": "Thomas Dral",
+        "content": "Usefull app, very nice UI",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOE6ggNIgcNkqXQw1rD_8z6QOAv8yHBFt-800kqnRN92MUH6WLrgXzAV9T-e4rj1NyP10Y64BnqnC54Yobw",
+        "userName": "Scott Don",
+        "content": "Keeps saying on hc2 Suspicious Login Attempts Prevented from 192.168.1.4!!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF8QttM574TOPbxd7dSWQyoiYvLA1OazvKSHK7aAdQAWnTi80rwLJJ6MKCWmZFJJ5YlfzMeU2JuVjQuJAk",
+        "userName": "Dmytro Suprun",
+        "content": "Nice apps. Works faster than previously. There are few opportunities: - heating widget shows the established tempreture. Better to show current tempreture in appartment+expected or have options to chose what I want to see. - Current ver. have less options than in previous. E.g. priority, gps accuracy, etc.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFa8W8nBSyMv_4Sgrl4sA69q79O1Fh27CzgdDPBbY6iqows44PJhdtNiHRu7ETKVzgjO5aaqrZRqsQSHts",
+        "userName": "Danny Khalil",
+        "content": "Buggy app. They went for a modern look but the old app is 10x better. This app is slow, keeps disconnecting and asks for user and pass all over again and is not very intuitive. Going back to the old one.",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEUTg6RJ-JpPGyA9ASrTnEdiLPH88c3zh48zS50iPcREwrzZ407S981JsLexTmnR0SDyYUlKlcaNOBd1cs",
+        "userName": "Jon Austenaa",
+        "content": "A few suggestions: - Move temperature control to rooms panel - Start app with rooms as first screen - Blinds should be able to set to a level by tapping directly on the line and not needing to drag the cursor there - temperature and power use graphs like remote stick - too much tapping and scrolling to get to blinds - integrate qubino power meter better and option to only use that one for entire home energy use - climate widget also shows current temperature - missing blinds widget",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGIImQfGyIW5GF3E0yGV1M8DoPfaxStaQumymRBNU8wABmTENi1cMi1RWMWufA5-w8b1S1QHSli-PPQ-YI",
+        "userName": "Brit",
+        "content": "My HomeCenter is freezing once or twice a week  - It always happens after we have controlled the Home Center via this app - Hope there will come an update that solves this issue.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEcf_CubKXOqzI9Q_JtEb_4yA3ocDeUrBI87eBhJHW4xrwaETtTuG_j-cW3tBm-_Sj8TFsJou8zLQFwBuE",
+        "userName": "Spejs Dragomir",
+        "content": "Recent updates made it very good. There are some minor issues for me atleast like I don't see my AC controller and it's not that fast like old one but it's getting there. Design is very nice but I would like to have abillity to place which are my favourite scenes in my order and devices. I understand this feature to count which you access the most but this will be more handy in my opinion.",
+        "score": 4,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGIHnRrbKynL60qcIZ6oyKQCt89ZwDFQ7guDiXlYWBhM4mP2HoK0RTa1_akizZ1hXte5K47P9j1oNpCRkM",
+        "userName": "Artiom Orlov",
+        "content": "my camera does not work on this app. old app was ok.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFyoZMS0TH1_E97UZ6q5SsvbLs6s9XrEitSc1pot7O41N187cdi0CjWOQkw7bDwQ6jxqg7STEB7qTol9Sw",
+        "userName": "Peter Farac",
+        "content": "The app is getting better which is great. However in version 1.4.0 the \"use widgets\" setting can't be turned on. Everytime I try to turn it on it doesn't seem to register. Also is there any way to get the app to connect to the home center faster?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGjZoD-rW-ta6-BEP-YJlPdmix3O5h8MHTmSKtCoKrfRsa8cc7CJxuhu6Li5GbJh8Zl0UYyJ2NYfoeaIX4",
+        "userName": "Kamen Stefanov",
+        "content": "I wonder when we will have plugin functionality? I personally invest 2000\u20ac in 2N Verso, because wss stated that works with Fibaro... Nobody likes to waste time learning an app which suppose to make our life easier, not harder!!! I would suggest first to ask users, before changing well known, well working and reliable app!",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF3iH86RQR5Jkn5TN2G39EClVButnGnAL-sa_3TW55ptLMMMlSgGB2JU37PTUfCbFwLwOFxuGN4OUbbJa8",
+        "userName": "v j",
+        "content": "update II Sorry you still not understand my point, but I think now others getting bad idea about professionalism of Fibaro update I Thank you for reply but without HC2 this app useless, if HC2 is not responding how I can use this app. first review \u2010-----\u2010------------ Very sad reliability of Fibaro HC2 is not there anymore, each firmware updates brings more issues, even basic problem like fault tolerance for network connection is completely missing now, no idea I going to stay away from Fibaro.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.4.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFPt0ZnP2ox7L7GmDM73Xa3D0MEry2WuG3Ujkn4fMfQNug_AuPcpezNlz5SKetOUfXwIt2-eDmpekGeS2Y",
+        "userName": "Mar Zie",
+        "content": "App does not work at all. after opening I see \" Select Home \" then immediately ERROR - Connection Failed.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFsdaiDjuz5h0ej4KYsgqoeaVINpUwKiyOQ6HZWrvrQIW-yJEmcAaPrQrQbNqi-K6ZiO7zGJCps4NKf2m4",
+        "userName": "Lukas Rusek",
+        "content": "opening app during changing Internet connection ends with logout user. that's really annoying. dialog with retry button would be great....",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEhNwDeAD7xSvQpDEN1bZTiPPHtqONGYZsecnG7w0D1lQBTc6N91CrHBhOHUvf8oeEf68MD_RrR_fnnSyQ",
+        "userName": "Tom\u00e1\u0161 Jasa\u0148",
+        "content": "this app looks much better than V1 (thumbs up), but it has less features for home management :/ eg user profiles, dashboard is inconsistent and mess, and what i did not uderstand at all, there is no support for Walli switches, such support should be ready before launching a new product",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGVhQg5svWeYMaJEWeFA3rXeYFCUE97YfxllxdSD0-vnpNIBIKqY0-_1XzWnE4qvAYns6hzs92z6r8vgv4",
+        "userName": "Juhani Lehtim\u00e4ki",
+        "content": "Oh wow. I did not know it was possible to have this much failure in one app. Every step is built badly and not designed at all. This app is impossible to use and failing technically in every turn.  I really don't understand companies who tie their brand of hardware to this low quality software.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOH_cFG4lTE8kbD-m_OUhXzMFreDcupZwE3SD6-tNobTbiCUWcx2uAfjC13YpepnpwyD8IdorEUsowjwNVo",
+        "userName": "A Google user",
+        "content": "i am constantly amazed just how *\u00a3_/57@%# this vendor is. I am Pi#$$d that i have spent over 10K on a HC2 and associated endpoints right throughout my house, and its overall performance and consistent functionality is below anything that should be able to make it to market. I have waited a LONG time for improvement. Fibaro, if your brand is worth anything at all, I want my money BACK!. Any other feedback you might offer, like you have done so for other honest reviewers, is rubbish",
+        "score": 1,
+        "thumbsUpCount": 7,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFlAUG_Mc7O5SOUENYaP5nwakvThkkfNxA1c2SOTzTG_zl1jBTeZiIF1kwG65fXViJc25z5jBYUcFdy2xU",
+        "userName": "Roberto Pringles",
+        "content": "-Looses the login very often. -The app consider all the VD as multimedia where in the HC is set as other. -The old app is better running. -The favorites cannot be edited. - Cancel alarms is not working from the app. \u300aAs for Bixby Fibaro have no plans to deliver this integration to the market. And as for Tizen watches \u2013 for now we have no plan to build dedicated apps for that devices. \u300b I hate it!",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGvR2e_cBRaFCxyUCqmjhyhSDYTO7Z8jOtfijN5F8kZspWV7H6gQpdqn4DyTHzG3o4IY1jZFUT0SVQIu8g",
+        "userName": "Prince Yaronasa",
+        "content": "very happy with new app",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEYFg-SGc2wOFKCelfSVC_SP1e9kZ0WPxOX1YZP7HDbCSVaBnTGMZezzjUYWX05XLaDhkf1Kj65Ms2vqbY",
+        "userName": "Janek Blankensteiner",
+        "content": "despite several attempts i cannot log in to any of my my homes.. im giving up on this app now.. Update: i have two Home Center Lite. One of them I can log in to, but it has no visible devices anywhere in the app. The other home, I cannot access. It says \"Authorisation issue - user authorization issue\"",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.3.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFZ_sFS1B9PvMahmTR3Ut6XpI2hf4eDzhzE1wRyPiGrIy5SLwcasljjRGECHYxBAF-qW1Z7ERyv2NkE6zc",
+        "userName": "Mavji Kerai",
+        "content": "any reason why i can't control my Phillips hue from this app ok with dimmer 2 ..it all been add Via plugin on pc.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOG_fXdZkS3xBjJ_b7wvfmllmU3AEGuXvR4qkPvp7ZWpWGr6jO-De0Irx6whqcK2mPDMK7VhdSnvvCAxyuI",
+        "userName": "E M",
+        "content": "The app is going right direction, but it is bugged, unstable and locks me out constantly because of the auth issues (yes, I do enter the correct pasword)",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFOcahi9_awuif1bjeqxNsaXuvPao3PW6oTuTwX9X1HJTC-vL_TG3TxQCu-G4U-RpSDwCoEMiQEAtWnYOY",
+        "userName": "Ros Khomenko",
+        "content": "This app is for homes with very basic setup. Completely unusable for more advanced setups.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEiw-O5EL3s9t86wt8kltSp9tymmfal1-gWpuW7qz5gMofeYcI8FLgiW0o3G2A0Zpdg4MxwRKpcLH_Pt1k",
+        "userName": "Mark Kenyon",
+        "content": "Able to login and select the home center, but then the app says your home center is not fully configured yet, please contact installer. The previous app works. Finally managed to get the previous app working by upgrading the firmware of the device, why this couldn't have been said defeats me, and now have just upgraded the app on my phone and it is asking me for username and password... it's the same as it was before the upgrade...honestly I'm loosing patience with the most expensive solution",
+        "score": 1,
+        "thumbsUpCount": 4,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF-tksdyOtbfREtOF7IPbq7E5mqsCeJildUk4riqb578Y3l5IL4lVpZoDfl78cdG2BS5g1TsXPqlnadCng",
+        "userName": "Pawel Kunstman",
+        "content": "The new app seems to work much better than the old one with regards to connectivity, which for me was a big problem with the old one. The design is also definitively much better (although calling the ordering of buttons a \"machine learning\" is rather pathetic). The problem with the app is that it is no longer possible to create a widget for anything other than the scenes. I cannot create widgets for my lights (a simple on/off)!!!",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOFVJfDGP_jbOzEm0FyKskb4Eo-D8TqdKbGPfxV7WZ0mOX4pUJ3xq3HXdvJ357bB-FTgr-W_vT3v6i5Y8GA",
+        "userName": "Jawad Ehsani",
+        "content": "It's getting better, the New version 1.2 loads now I hope Fibaro add some more option to it",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEeS5UWvvuHnlyOF4WN2ppU92CCwD230aphfD6w0T1rPP3Lv2Xk_DpT18SREUYJFBvE3YDzMclk0cp53ZQ",
+        "userName": "Lauri Ahonen",
+        "content": "Update 26.3.2019: Getting frustrated on Fibaro applications. This still does not work at all. Everything is blank, no sensors show up. Avoid.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF4vm5I1s2-KBgk1mzLMuxEI6LbXMHyMXz_f65BKvIR7cPaBC811lMpMUcKmcpHdccU6udOOFqg12qFr58",
+        "userName": "A Google user",
+        "content": "this is good\ud83d\udc4dwe have problem on remote access with last version of hcl!!!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.2.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFBik2CLMoLCCivUdpsapGKXAUbPCHn0N_1bfL7qPK4uQykLyuQ4kG7O0DiHoPJ3CmqYurNzTP0tIxsUuA",
+        "userName": "Patryk Kulczyk",
+        "content": "Unfinished app. Half baked. Missing many obligatory options for this kind of application. Not logical to navigate and understand. Original app is much more useful",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOH88m8ti8xWNDvrCx6hQTG5CbOmn0OPE4GRIxemHB8jAU25GtAmZlxzevKg4FHP8wwJ1kQcAksNT3O_00A",
+        "userName": "Alin Stefan",
+        "content": "I cannot access my home center although according to the fibaro site it is properly configured. After I login, I click on the gateway to connect and it says Authorization failed.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGzrtHyPJoA1acYQLYH4DF4lhYrLWmlHIdpdlOK4nrliE3di9Dxl0_FigFCOqc_9t2HQoXP9QHVHftIogw",
+        "userName": "Aaron Gaskell",
+        "content": "Really poor usability.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGDcKKmDBCRBWxQuNVmVg7aQ7ghG_PU5utHoZTU80nCogqLMc8WmayTyO6qqROSAKYhw5oVfkMZ0xu8d7Y",
+        "userName": "Andy Hall",
+        "content": "thought i would try thisapp as the older one does not work at all, and like the older app, this is not working. I log in and nothing appears. no devices or scenes etc. Come on Fibaro, sort it out and get something to work. 3 months with no direct app access to my system. Poor show guys. and all you keep saying is be patient. I think we have all been patient enough, just want a fix now",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHNimq1Q-ZnjMtGOO3ikBDYW90_3Xi5uFUGeZiQcAo1bty6UC1Cpe4vUVbLFXUb-vsyVZmFW-8kKV5fKi4",
+        "userName": "Toms Rota",
+        "content": "Cant login to any user. And alarm panel is not working. Everything works on the old app.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEaH7tPDtI5KCcsNDE1miz5I5OG7e65IODFgxU2_znOWna9cG4xYln6L0l_PapkN8ayCNDEhJ8oASNxKqU",
+        "userName": "DE Interwebby",
+        "content": "The app looks nicer. But it is slower to load and none of my hue lights can be operated in the Ap now!? Do any of the plugins work in Ap? Would change rating if hue and other plugins worked...but old ap is better.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGLp_3y8I1RTAgagIj7WDBnxAd4HzJdaPUCjAiFh-RX5_dd0rI_C7fr4v2qatI_BF8RLsWKh1LVoOOtjSo",
+        "userName": "Attila T\u00f3th",
+        "content": "Not too impressive. It only works after an update, a lot of people miss. I do not understand why Fibaro released a new app, it does not have any added functionality. The app opens with a \"favourites\" screen, but basically lists all lights, scenes, sensors, etc., the old app's graphics was better.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF9-tY8-EInUnJCdBTczLXXZTYYHLza0zDuH3MkAsyB4O3Ihm5iKs7y2su9ku2DVGozYZEveGVWbS2sgs4",
+        "userName": "Med Detector",
+        "content": "Putting 5 stars for now, but I am totally stuck at the login. I login perfectly, It picks up my HCLITE, but says it is not fully configured?!. Not sure what to do. HELP!",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGvmayRTGT_Snagk7tyRXC6XJNW7N4AI1_P4YRcahJ-R53VAXJin33dH-QfGceOqRD_YDxKd0dr86OUtUM",
+        "userName": "Owen Keane",
+        "content": "Slow and no widgets. connection issues and constant reload. only tested on Samsung s9+. clearing the cache had helped a lot.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGbU3uPT1Q_iIs_HnsAmwdhYwTrJrCeOvNx9z_Tp8daC31FO9q6nChCVMHqkTpXVHs12-swIyP9arV5dO8",
+        "userName": "Ed Bolton",
+        "content": "the update is still unusable. thats minutes for the devices to come up. still totally waste of time. please dont bother publishing another version untill it is fully working. it costs a lot of money to buy your products and you cant offer a working app!!!",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHQZGiZNPUf-WwMZa4hVTuvzOJWD7C9Jdkguiv2BsqApG_EFeddNW32kZ8LQyk_iVsRjJSFp5r8AE-8QrM",
+        "userName": "Digby Wilson",
+        "content": "Where is the support?. I can't find the manual to this app? How do you change device favourites to Home center app? Are the widgets? I couldn't see any?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEo5XqEQXR0SHGx0RxL8DFJx0209i2hIVcTKW7UD_f0CxyVkWjZF6pQ1vy3tA6d8sZ2UsQv_G-6X2w77tA",
+        "userName": "Thorvald H Munch-M\u00f8ller",
+        "content": "Does not work. no rooms or devices show up after logging in to fibaro Id and choosing home center. Responce to responce from dev: I logged in with fibaro Id and was never prompted to log in on the home center. fibaro Id and home center users do not correspond as this have created issues with older versions of the software. Which user? I was never asked to log in to home-center. Only to id.cloud.fibaro...",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOExOq_uMgJX8zFEKpkbLEqvZYqKpnQxyu9GPSPZDa0vhTU7uLeK15u-aeiGxGvoGDuLPpGHCfarD608ZGQ",
+        "userName": "Brad Arthur",
+        "content": "Half baked... way too long to populate devices. This should have been released as a Beta version. Will change my review once updates start addressing issues (assuming they will... and not create more issues)!",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEdYvbAz_k60uJsQVvai2gWbmoanyckheysLFHtg5H8vNiQ6HUBfmicASx7Ud61Ea_JqaC47eL7MqQHtwI",
+        "userName": "Nikola Spasovski",
+        "content": "This version is certainly better looking and organized, but it takes too long to connect to HC2 (7 secs approx on the same Wi-Fi). The older version in comparison connects in about a second... I'm I missing some setting?",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF0whm_jKpXalkvJr0p6GfSWKttDKQpqq5LqVp7vFMPGKB4cbojzX3rjuSXg89x1LACC0Od2X9_f6FvIxQ",
+        "userName": "Adam Kroczek",
+        "content": "Powiadomienia push nie dzia\u0142aj\u0105 w nowej aplikacji. Serwis fibaro przeprasza ale nie potrafi pom\u00f3c. \u017benuj\u0105ca postawa os\u00f3b z supportu.  Scena testowa wywo\u0142ywana r\u0119cznie r\u00f3wnie\u017c nie wysy\u0142a powiadomienia typu push.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHIxmDraACZ9bKKYGEjRc0OzJ9CbHbWpx5eDZTtbWNnBU7C23zvR7v6uYqH9aYcYpxemlcqNc9QReL2O48",
+        "userName": "Jason Favero",
+        "content": "Clunky hard to use and where is the tablet landscape option",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGLVT8kxgaGcmV23lMM6DUhdVZ_s6en13rmwK2DYnA8ADV7Ovr8Xu6-6TXxT15IHAJ4iJctjg5uj5ytKQI",
+        "userName": "A Google user",
+        "content": "I dont like when apps that are set to connect to my local network ressources only, need constantly to connect to the internet in the background. Makes me feel spied on, since I cannot turn it off and I am not informed why it needs to do so. The old app was not this talkative.",
+        "score": 2,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOE4CRgJaTdT1I5CCzvGp37CTpnKc6EFHs0mJfpCLORoX7gDrGLETrWSCZO11mN145Z682nFm_QLAHOoWRs",
+        "userName": "Raed Badwan",
+        "content": "Its not working it doesnt show anything only empty screens",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEsz08o5QOSSHXMkwMRWIZjZD5Ya6ha5y-Jqj5QTs5G57JWF1WvQLaHJrgG08AB0S-p4WWZdanDnSBwBig",
+        "userName": "Frank Keizer",
+        "content": "Why release a new app if it is a downgrade from the existing app? For me the unability to adjust the temperature settings is a no go. [EDIT]: I use my fibaro system mainly to control the temperature in my house. The new app cannot do that at all.  I have invested in temperature sensors in the different rooms and I use that data to toggle the electric heating. Current functionality in old app is ok. [Edit] I use the fibaro wall plug and switch combined with homecenter heating panel and the eye temp sensor to realise zone heating. No need for a seperate thermostates.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGACQIL0t0bpygxGROBMFFqIPvloEL3d-xHo5biy4lDqB7SUYXqhf2kFBPZF2t6iBJPpZp-J486X1yF5nQ",
+        "userName": "Max Sejersen",
+        "content": "Just moved it from 3 to 4 stars after latest update since VD is now working also. One wish.. please make this as a tablet version or perhaps be able to select font / button size to be able to have more on a single screen. Im using tablets in horizontal mode on the walls with one big virtual device to control everything and scrolling much is frustrating because of the very large font and buttons.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHVirn55bs9w2q3vZVHR7QtmS59pJ_M9dbh-pnWAZmxS38xYcSU-AgcZvxbP0qlnLSS9IEe6hkm2ZB3wYg",
+        "userName": "Adam Gabriel",
+        "content": "this app seems to have been released prematurely. looks nice but that's about it. switches just dont turn on and off properly. the old app works perfectly. this new one unfortunately fails 80% of the time also looks like yet another company favouring development on iphone rather than having feature parity on both android and iphone update: thanks for the generic response. does nothing to reply to my concerns, but all good. now I know I'm just a number.",
+        "score": 1,
+        "thumbsUpCount": 5,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEVwxK2suXHpNJbiohjjutOPSnBZnMEWQ8IQqOhhNvURcgzLlBFSJPI4Xa2v3D8PPB3mEQdjvUPGa3qmY8",
+        "userName": "A Google user",
+        "content": "Even 1.1 do not connect to completely working installation.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHX4bxovGnkEOvrab0hGCM93fyHd3GPlVA3XCRu1s5LhHHmWTlTie3pqF4ePk1_KwzSvnj2nOqHpjtMtNw",
+        "userName": "Frank Honore",
+        "content": "No customization options and way to many devices and scenes on home screen. It just feels messy.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.1.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF72JBR_q2e3UYkdFQl76dCnNGaq-Ms8bTCdq2r0ZFn5MsJIJqVNqG5ynWWB3jYQgW2q50tdPN_EiwZfWs",
+        "userName": "Hubert \u015aliwka",
+        "content": "Aplikacja \u0142adna, design na plus ale... nie posiada mo\u017cliwo\u015bci logowania u\u017cytkownika utworzonego w centrali Home Center. Ka\u017cda scena, niewa\u017cne czy ukryta (dla wygody np. startowana czasowo) jest widoczna. Irytuj\u0105ca wibracja, kt\u00f3rej nie mo\u017cna wy\u0142\u0105czy\u0107. U\u017cywam dalej starszej wersji.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHkYwgfTy_TFNsjKF5AOZqeT-BK4hfziu5bbm1oWw5YI_EMyN6xoUO42fkwGAnBcsxCutbr3Gcn8lbZeCA",
+        "userName": "Joanna Doering",
+        "content": "Dok\u0142adne wytyczne odno\u015bnie poprawy accessibility zosta\u0142y dostarczone do supportu. Naturalnie wskaz\u00f3wki w nowej wersji aplikacji nie zosta\u0142y uwzgl\u0119dnione. Mimo zapewnie\u0144, \u017ce sugestie zostan\u0105 wzi\u0119te pod uwag\u0119, a dost\u0119pno\u015b\u0107 aplikacji poprawiona. U\u017cyteczno\u015b\u0107 i funkcjonalno\u015b\u0107 nowej aplikacji Fibaro pozostawia bardzo wiele do \u017cyczenia. Ekran g\u0142\u00f3wny to zupe\u0142ny brak mo\u017cliwo\u015bci jego personalizacji. W to miejsce mamy korzysta\u0107 z tego co nam pode\u015ble palcem na wodzie pisana inteligencja FIBARO. Ekran ten w mojej ocenie jest zupe\u0142nie nieprzydatny. Posiada w dodatku ca\u0142\u0105 palet\u0119 b\u0142\u0119d\u00f3w accessibility. Programi\u015bci Fibaro udowodnili w tym miejscu, \u017ce dost\u0119pno\u015b\u0107 i u\u017cyteczno\u015b\u0107 to poj\u0119cia im zupe\u0142nie obce. Wida\u0107, \u017ce na co dzie\u0144 nie z tego systemu korzystaj\u0105. Kolejne ekrany: scen oraz urz\u0105dze\u0144 to konieczno\u015b\u0107 \u017cmudnego, nie wygodnego przerzucania kolejnych widok\u00f3w aplikacji by dotrze\u0107 do tej opcji, kt\u00f3ra nas interesuje. Nie lepiej w miejsce pierwszej zak\u0142adki serwuj\u0105cej nam obecnie wszystkie dost\u0119pne w systemie sceny czy urz\u0105dzenia, wy\u015bwietli\u0107 siatk\u0119 kategorii/zak\u0142adek kt\u00f3re znajduj\u0105 si\u0119 obecnie w g\u00f3rnej cz\u0119\u015bci aplikacji. O ile skraca si\u0119 dzi\u0119ki temu czas dotarcia do odpowiedniej opcji. Zas\u0142u\u017cone 1!",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGOfjWluK6_pVSIRmYRjdEbURX1XGSuHYXK1gf8AZ49VbzKVlgYRaFiPNv-TE_ZbUSNxKp7EiOUPr9Gxm0",
+        "userName": "A Google user",
+        "content": "after logging in with Fibaro ID and selecting the HC2 to connect - it doesnt go further .. gets into installer connect option and tells to configure the home.... when the entire setup is already fully configured.... it just doesnt work... and to top it all - the older versoon of fibaro app also doesnt work anymore and keeps crashing without getting connected!! whats happening, Fibaro?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHVHXn9bjgqZbtGZiV9w-Qfu1xSrzy3O67f9g9-dylliHyY_ZFk_L5SpBN8-4418hQJiZh6fqJWlqwm990",
+        "userName": "Eise B",
+        "content": "Hi Fibaro,  I see that apple siri voice control is build in. But what about Google's assistant. Is that in the works?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOE60_4q4PlI1HlUeAcQleqi-QAS2mXDM9_Qi2mRcG2ZCyZ2wSUHzFb2f2R5MzYKgKmsBQRGbGc66J9-aKU",
+        "userName": "Levi Butler",
+        "content": "MVP, still a long way to go but glad we have something and a development team working on improving it.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGkoYIC5q_GY828RmnTcTZUGqln2tnkGcsQhOpj_y_PLFqkxuDG1uigoMEvRmccUrla32yIsPSIxozvRqQ",
+        "userName": "darshan dharajia",
+        "content": "Virtual remote is not open in this app.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGOl29YS9pe0f54fFkdeBz-5PwAJLBZ8rYY5vsGn2gfPX-1Mrk5mNuTFUPeznViaZ9ENShlyio3Miuhjpo",
+        "userName": "Edwin Leslie",
+        "content": "This is a much better (NICE) app than the previous one. It is a new app V1 and I'm looking forward to the improvements they are working on to improve it. I see the Fibaro forum is collecting ideas for users improvements they would like to see. Keep going guy get all the issues sorted.",
+        "score": 4,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFXJVolGEMvNmcwt-rbM4HSh_ls0oULHbe7twlahqyMcRlrbaAxUqNaW1oaZatGmN4amc83fTYnJYQdXLg",
+        "userName": "A Google user",
+        "content": "Very nice interface. Intuitive design and a good concept for home automation. The most important feature is to integrate the modules for collaborative use. A big thank you to the makers of this innovative idea Great. Cool and easy to use.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHh-YRlfF1xalVMk_grV0gbjfkZjuXlvoUNgDB7t-GFzTuARNP8_zVML9alWUlzNhpIggH1mHf5aRmH49M",
+        "userName": "Matej Streba",
+        "content": "Terrible app. Nothing is working. Cant turn on lights. it is working randomly. Previous version is working properly.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOG0_-J-iCbd_zJQjCr6qspCKOZXBgc8SwTGmoId_zo0XW_Tm-jdhDlIqfxBHlVcOBELJoKM9UrK3D2bMz0",
+        "userName": "Rohit Gupta",
+        "content": "First, why would you throw away a nice colourful icon, and use a generic, pathetic monochromatic, generic one. Second, the color schemes suck. we have gone from a vibrant unique one to generic washed out ones. Third , the ui sucks. But on a positive note before I could see 5 devices, now i can see 6 at time. Finally, the virtual devices don't expand or work",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHVt2ZJ7DXsAWI_pku0A6hdfMC16AGK4OK_AKT2nwiwajTNelEucSZlnA_nRxTBiF6HngpEZ9m9c8awWM4",
+        "userName": "Andy Migdal",
+        "content": "Takes 3 times longer to load and sometimes the lights don't even appear for the first 5 mins",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGQjxLzF0O3tK8XghBJXPsBaqi562v_6LMFJSG5rUzHaxOOMQLDySdAlQk_qpe5F9AAobzev33o2aUuypw",
+        "userName": "Marcin W\u0142odarczak",
+        "content": "This is bad. Nicer than old app - therefore two stars. Why the heck I'm seeing hidden scenes and devices? Why RGBW set as multiple dimmer has option to choose colour?",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF_POE6qFokdiKxDuUA_vOitYUL7qUa3CQblNZHZYvP4z2yxoLUkFg4UBg3-sq0wwSNCTIM7Fho8zQSTMU",
+        "userName": "ambereyes",
+        "content": "Yet another app and the same problem. If you are not looking at the app at the very moment you have no idea that your door has been opened. There should be some kind of a sound/notification or something. Without that, this option is useless. Thank you for a quick response. I can't see such an option to create a notification. Can you tell me how to set it? Cause now I can only set the alarm but that's it, if I'm not looking at the app I have no idea that the door has been opened.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGlrpGLiK12JS48JwQcYeuDMrakZ5fUXikHfrMs337f2iFXq7dlDu2j5XS5IOXI7oNi9T3XxuqUjfsUTFA",
+        "userName": "Adrian Spiteri",
+        "content": "Where are the widgets? I see all scenes even the hiden onces need to be able to login with different user not just admin. Like the old one",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEYi5g09Trniw4z1bUrrKJ4GCUnaEBcQ4ONcSraV5yGenEUGwULewfQzHaaDl_haX_EfJtgdhCzniSgKIc",
+        "userName": "Roger Rabbit",
+        "content": "I think the Fibaro development team need to stop releasing half baked beta software to the public. I understand that this can be helpful for development and feedback purposes, but realistically it's just loosing market share and creating disgruntled customers. This app is not only featureless compared to the existing Fibaro app, it's very buggy and more importantly, it's clear that it won't be any good when it's finished. There is something peculiarly wrong with all of their software.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOG-px4kucdMtI_D_BbfZ_2ZP1ijDUqJH7xjdxoOVkkw4URCBMIh0w7MNJShY_X0kC6ymjIaEPclOG8A38M",
+        "userName": "Dave Lloyd",
+        "content": "Thank goodness the old app still works :) This one let's me turn my light off, but not back on. oops. didn't try anything else, no point if the basics don't work",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFSvMTfDpSFDBZF6BtttX4B095HbJfM2wOX0II4XuYK-87Xl38FlMM6vo9dh4awDdKn9knrLex-xojhuWs",
+        "userName": "Juraj Maciak",
+        "content": "While this app rocks much \"nicer\" interface than the previous app, it is nowhere as useful as the old one. First tab shows \"favourite\" lights/devices, but you can't change them so finding the one you want to control is hefty. You can't control virtual devices also. Combined with recent HC2 firmware releases, slowiness of the overall ZWave network, unresponsiveness of HC2, still loosing devices as \"Not initialized\", my overall confidence with Fibaro is even lower. \" Great\" job, 12k EUR for what?",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGI5l1M4nVGsdOWGJwXaN653HqOw0Fx-HQFr1hVaLtryckZiAo4hPs1ElaljJ2bJmhEgG6TSLdwBmW3E1A",
+        "userName": "Jirayut Kunlaphuk",
+        "content": "very Suck UX,Ui design, a lot of bug with alexa. pls hired new Designer please.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEm_sDserVe1z4R1iIzqv408MKEx8666CKZruyjxYBXwr2usEjO4YIjuN2Ktz6GFZXoZm3TluWGqWNBQg8",
+        "userName": "Dragos Bogoie",
+        "content": "can't connect to hc2.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHgKwU-a8Uv67C7ENNCPzcibSmvZHFpij6UMGyTP4Na3GQoV4KRy7Lzcta8F3uwvP-8wyqpNOy4TrIIMLs",
+        "userName": "L de jong",
+        "content": "it didn't work with install the latest version of software on my HTC 2",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFWNWeXmHS9Gm1Wv4ksamIKWmXl1Fhqmfry-j83ak3OVk4UPdLI0wucY_4pC33psf_HaP2l9a_OFwlGYME",
+        "userName": "stevie but",
+        "content": "Could do with seperating the scenes in to the rooms instead of one big list.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHJaqzM3kP9ca33gb2zIiYk8jxyA8_drr9UZ11DykxWr2kp8R_xFTG05PU2O3PgXweBtOTrfNaM17VPT0g",
+        "userName": "Dominique Croce",
+        "content": "Le design est plus aboutit que dans l'application originales mais l'ancienne App est plus fonctionnelle.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEEBqRh4mbfM7hpbSnv6LcsI3Djoz2btN15_8VfnCCMf0Yew5E0RpYTcjDandknK25799t4qRFaaJ7sALo",
+        "userName": "Bart\u0142omiej Prus-Zaj\u0105czkowski",
+        "content": "Really, only improvement on the older app is prettier interface. Favourite devices are totally random. Haptic feedback is terrible and cannot be turned off (it often goes off more than once when scrolling).  My thermostats are missing. You cannot adjust home screen to your preferences. And most of all, the widgets are missing.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFV-qDLL0qHVkhWftvrYeLcaoABRGg1CTf5gg6baGasseHZIMU5Wo8MqcesgxhIPljiB3U9NTmvIY6mb5A",
+        "userName": "Roy Wazen",
+        "content": "1.Trying to disarm sensor , always wrong password + if i try to arm the sensor nothing happen 2. last seen of the sensor not updated",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHstPLvqHTTXQLt_rPmuonzSkJU1hqM9lMpB7yrJ-yfMKfo-I1YD0i2PpXKvWm7SPwDAjM5-KZdCfElN0c",
+        "userName": "Kostandino Kustas",
+        "content": "It looks prettier but honestly it's terrible. Some of the great things about the old app are gone. Why can't I choose multiple things to arm/disarm at once? Why can't I see the alarm actors to enable/disable quiclly in the alarm panel like the old one? Why can't I see a summary of motion detections etc.? Why can't I turn off all the lights on the house with one swipe on lighting... like the old app. Sorry but really not impressed.",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEpVo8tWFpC5hRkQnOxizk26qMiYoKqWNlQOmU0hzdgF6xroJithsoR77l5J_7EDXstNfQ0h2QK2a-cfxk",
+        "userName": "Sammy Singh",
+        "content": "Same issue as everyone else. Was able to login but then it says ur home center is not configured. Old app works fine.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOF64ew-Ig05bVE8Apd3_YfNfVFoBLKz_olW-gWWcpr33yQTzf5_IYQ3183FyPBhjHZyNc1DZB2g3-8HVN8",
+        "userName": "Brendon Cameron",
+        "content": "Can't connect to HC2",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOFQZipDhWR_nP7Zvom4ySSRZNBXk4_iOkUttvYNtsBP2px3u0Uf1JC9K1gqcPB2bCiSe7IFDOKgVaIMbfk",
+        "userName": "Pawe\u0142 Klupa",
+        "content": "Brak termostat\u00f3w danfoss, pomieszane urz\u0105dzenia. Jak dla mnie w tej chwili nie do u\u017cytku. Czekam na aktualizacj\u0119!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOEm6QDcGQ9hVZMY7FMHXSXNB5YlRPoZu86Bvsx7jYHywGdi9y-4aTQd3BJnY84Rd1P2VCYkNItcQ_lY8TI",
+        "userName": "Ricardo Fonseca",
+        "content": "The New app is much easier and clean! awesome job guys! Now keep the good work and fix the custom icons please! :)",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGXWtyuLwmfwTkuV1SdA5LmBi370o_ksv2Fyi5gBLV7DC2YCEb1AV3v3O0zedULM0ei8NroeWkkvDIlu1w",
+        "userName": "val kilmer",
+        "content": "Why do you bring out a software that is not properly tested? I see my HC2 after login but after selecting it the app tells me that it is not properly configured. The fibaro app works fine. It asks for the credentials for the hc2 after the fibaro ID was checked. PL: jak zawsze jest lipa na pocz\u0105tku wszystkiego co puszczacie na rynek. P\u00f3\u017aniej dopiero stabilizujecie. Powinni\u015bcie wymieni\u0107 odpowiedzialnego za QA. My\u015bl\u0119 \u017ce najwcze\u015bniej za rok ta Apka b\u0119dzie u\u017cywalna. Smutna prawda... :(",
+        "score": 1,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGLq2it75lUg9MOpFtzsSPuBr-n4UQ5O7bTt5tRHZ2gNmJwhCryAy-klLpjPnn-WvpsXwrsizFCy3J3lM0",
+        "userName": "Krzysztof Iwanicki",
+        "content": "Please add an option to set all devices to \"holidays mode\" with one click. In example when I leave home I would like to turn off all heating devices and set all thermostats to 10 celsius degrees - and then when back home turn everything on again with one click.   Additionally please work on user experience as it is still not good enough - design of the app is improved but user experience still lacks some attention.",
+        "score": 3,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGAtwJA1GEIvKvzGryZuiJwnoPmlHVIXoVRadXvLpB-W347X-MaP37OWGZqzxa4BdAP4kjverXzD9z7DU0",
+        "userName": "Alexey Mitrofanov",
+        "content": "I have successfully logged in to the app using Fibaro ID, but couldn't login to my HLC :( the app said the Home Center is not fully configured. Everything works in other apps",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOGDJTVzBQzL2EpTe3Usj_ml6Y83kJYl96ZDv9_PHhjrZw83G0XrX0EYVHa4py-qBFGTjvFnZcPYng8Hksc",
+        "userName": "Adam D\u0105browski",
+        "content": "Very good job. Working OK on HC2 and HCL. Much faster than previous app. I love new interface.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOHtLgisvCZI1JQLJ4ra1Q6GnMED6O6B2DvGrBSzYJRuxDq73FaxtfM_Cnr0p_29uP3_UxqGjhN7yvnx8NE",
+        "userName": "Smart Home Oman \u0627\u0644\u0628\u064a\u062a \u0627\u0644\u0630\u0643\u064a \u0639\u0645\u0627\u0646",
+        "content": "Demo mode is not working in Android?",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "1.0.0"
+    },
+    {
+        "reviewId": "gp:AOqpTOG7ThnYagfmrlLwwb9SyFn7lewpRf2SmAJwVdocEcFSe3VJRm03Yf56z-DdeI9ohkR9Os316Q7NdQS3XbQ",
+        "userName": "Alex Chan",
+        "content": "installed OK, logged in fine to fibaro but unable to connect to my hc2. the other fibaro app works fine",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "1.0.0"
+    }
+]

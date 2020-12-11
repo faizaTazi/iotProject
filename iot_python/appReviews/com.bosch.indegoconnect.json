@@ -1,0 +1,314 @@
+[
+    {
+        "reviewId": "gp:AOqpTOEsWogNQxU0cQkeo-8MLeMYzh-6gH82NdFYHRC1Wxt9CFJ0Cclwdc_0Wr2qYzYq2R-PEWj8_rNH4MFTRg",
+        "userName": "Shiro Kurita",
+        "content": "Terrible app. Random errors popping up all the time. Passwords were not recognised anymore, but it was the right one because I needed to change it because of the same error just a day before. Often wrong information is displayed, server issues all the time, and a general lack of features. That's not boah quality as you know it.",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHtEYknDF4BiulFn-c4ZQCpx8gzfvvPV4BhbBtwVy5nAPICCApyqwxVVDUeLdCHpDqSsRGIHKdPxJFveQ",
+        "userName": "Mathias von der Decken",
+        "content": "Unstable app. Worked fine initially then suddenly all sorts of errors displayed in a row, app became unresponsive and showed indego docked and charging while it was roaming around mowing, then Play Protect signalled having.blocked it because of access violation/risk..decided to uninstall and reinstall. Fourth attempt.downloading worked, now the app seems to be functioning again",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOF9z6dpjKaibOOSV2AUOKYhOtz-Whsc-gWQFS_Dw7H-EZMKCZYTZMCZfEONLuEeFziiA3KLW2kC4XO7Sw",
+        "userName": "jerry ludig",
+        "content": "Permanent server unavailabilities/incorrect feedback and lack of usefull tools: - why is there no way to let the user decide to decide on the mowing lane length, why is the length of a lane limited?",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOGoS6AKDGzJ7BCU1vgrfliE9j98LIW7tCya2XaandoCRpa_lluI4EOXOOls8DwGjSN_OSWyidoJ7EmzDQ",
+        "userName": "Hans van de Braak",
+        "content": "just started after breakdown of a beautiful mower: all works fine now",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOEAWU1n84103NF4pKGO9skXVKi1eJ5vih953AzwxMnjqGds2BfzHu9I95rD5Lm0U9sv9rsoysAwkmp45Q",
+        "userName": "S M",
+        "content": "Terrible app. Worst I have used Keep displaying errors. You need to quit, log out then in again, sometimes multiple times. What's going on with the developers",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOETfH8pglS8XlDY2si4hovZXQdbd6GWqH67SXz0QlhRQh_37QfZm_GA-_KP6epHflRTQGIAQLARGuCV1Q",
+        "userName": "Robert Knight",
+        "content": "Good info but two many fault messages",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOFHLO2G5gcbnP5qoNrU4W1UqUHfnv4B3DTWqU0W5NuIOFRXfdjpf4cr6US8HEeTIo6sOk2jD-3f9cRodQ",
+        "userName": "Adrian \u0218ulumberchean",
+        "content": "There is not much that you can do using the app. Remote control, set pin from app when required on device, interactivity with the device from the app are only a few missing options.",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOHtHoYdQlSqHrJD0Elc7xo9WIoQpqjBtk8pWROkfd_j-F-qNbc3HHaVU8PbrZ-m09O6VN-kmkoj1cYplQ",
+        "userName": "Akos Zambori",
+        "content": "Works good, even the weather integration.",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.11"
+    },
+    {
+        "reviewId": "gp:AOqpTOE-ern3gYObhH9CJKvUiI41W1Q7FTd2k9RcN05wT61YTKoX1ItIt8Q0xg5cN9j14zJJqHzoOhHESC94eQ",
+        "userName": "jthartmann",
+        "content": "The app is slow and often gives 401 and 429 errors. I use it just because this is the app to control my Indego. The one star is because the weather forecast is pretty accurate. The mower itself always misses a few large areas (>5m) which means smart mow effectively only does 1 full mow in the week. When there is good rain and sunshine you end up using a traditional push mower at least once a month to have a nice lawn.",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOH9Cqyai2-0BiHueJsENl7NMPP_MxCAiUQhA8O988aJ299gFHcAInL3Ly25vcSeRdkVOW1i9t7nxnQzcA",
+        "userName": "Paul Wilson",
+        "content": "Great when it works but a nightmare to try to connect to the machine and then when its eventually connected more often than not you yet an error message on the screen and can't control the mower anyway",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHJSjVATNashP27QwQ85TWz_HIsNN1XKJwiR6BNrHOQzLfJfZfXSqG5N7uVatvFcyDAz599Qa6xmFXAMQ",
+        "userName": "Francis Deweirdt",
+        "content": "Despite the recent june 23 update I do not see any improvement in map or position updates. Most of the time the app report that position updates are not supported yet, while they randomly do. The previous app was much more precise in this regard. Developpers please get the job done!",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOEXrsBqHG-EIQTI8I2B7W1yXoxwRrZJ9kznsoD6j0yXIZ-sUV81_sKbX4f74WKxhfvye8MtX8KXo7tqnA",
+        "userName": "Vedran Sabol",
+        "content": "I use it with Indego 1000. Right after robot starts to mow it almost always goes to 'obstacle in the way' error, when there is none and then this app goes to amok with errors. This is just an insignificant step forward compared to legacy app. Support is none existing. Will never recommend this product to anyone .",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOGDr5MU2SnK8_ZS2KHRjaOl7vsWJ_VeEQGEUkfVxO2aEpeyJqPFzmDn0kpqOvqMhvab5zhpXktItdb9wA",
+        "userName": "Martin Longbottom",
+        "content": "Very clever but does not give me the option to set my own schedule. Normal schedule does not cut enough times.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOF_zKP72l5WSnDQ6fLzkXoNqcvyoHpxZ49Pxo4U7yei0f5OzlwQyYXD0TKrNXbfg03dDCi0o5R9xWHtiQ",
+        "userName": "Kevin Russell",
+        "content": "Should be able to reset pin from app?",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHQockf7bR642VtfyuI0_kzKcFT6yjZmPxU58K5bOJsh86Fs224QRuyFftdot35X8SZFx5fe4Vvo1eHlQ",
+        "userName": "Auris Tuska",
+        "content": "Puiku",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHVkkCe3Y1_In9B5LJITVkWM7-Tz0ZycrLqihZajZYCDxp8uHT7fe-1yw8hWf0rkB0J8G2pwif_Yo5XYQ",
+        "userName": "simon hardy",
+        "content": "could be improved",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOEjfi99dc5N1Tn13YqbCDaXjpgRvDY_093dxPgMfKKzZcMCY0i4YqwU5aTkqmUnloNW1H2a4UhCjCxCyQ",
+        "userName": "Adam Hall",
+        "content": "Not yet as good as the old one! Some moving images added to the app does not improve functionality- my mower has been confused all day, whereas previously he was fine. Now keeps circling trees. Why not address these issues or change yellow position dot on map to red- yellow is v hard to see with green background. Why not show area cut? Come in these mowers are over a grand each, let's get it sorted out! When it works SUPER! Does steep swerves, dozen trees automatically and I am a believer!",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOE_a2kFYyklNAtnQMsrQpM9IToYnmWvUO0U8cZxgn8veHDr1AmDmppx2HoDKWIU4k4rq-r9YkSS5-wCww",
+        "userName": "Rodolphe de CARTIER",
+        "content": "Many far to many system errors Next mow estimate is a nice feature tho",
+        "score": 1,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOF1EEr5X_Hca2oAeUNFsIs05tA5CS3vBzjbLhAfMUOS7wSr-rxIZUV-j29IZ7SQnKbT60AAETi3YpJ9Ww",
+        "userName": "Arno Parlante",
+        "content": "Great app (especially for the smart calendar) but important functionalities are missing such a tracking of cut portion and logbook of activities (start/stop, duration, etc). When such options will have been implemented, I will give 5 stars.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOELWm5ptDgr6jcd7GQjxWE4hppb80gfhJOG0dLD0cacQzfHpV-lSF4nsuUow65vs50M4lIPk4uPtZxlcw",
+        "userName": "Rob Pinnington",
+        "content": "Occasional crashes and slow to update between lawns, but really good. Smart mow is excellent",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOEkLcghdDAx32lmN_lL8t-oLlwgB5dAbW5UOTqUFkuPybOTYiESns9JcOljUykiAUK8oy7FLnZdvSWAmw",
+        "userName": "Matthew Lobban",
+        "content": "Well done on the updated app... Very impressed",
+        "score": 5,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOGV0tVOBElTNOqTuszFNxJ987v4nNNbPFXV7PHI3fPK_Y1NC51xmmdoiC6JVDWtZEheV4GpWEVh9VHhPg",
+        "userName": "Mate Kalauz",
+        "content": "Functionally it's 4 stars, however it's full of bugs, always need to restart to function.",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHO9FbtOnRTtGl-70XSOfEDmb6h2Cek0Ttv11EvZ7vtlVX8bgjVjrwsy2AwwUA0O0Qw6CG_cPCaE8nn5Q",
+        "userName": "John Scott",
+        "content": "Ok when it works, but it crashes regularly.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHThhwYEup7lJGvFzF8ojPuoXgryG0mkyCpujVta2JqGfoZZ9LFYS1cKxoJUYvEllgHHTZrJP6lMkn9Ww",
+        "userName": "David Seager",
+        "content": "Good but would be better with support for more than one mower per account.",
+        "score": 4,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOHzNfc66tZpadL1ZxKaw2BcbbrMHatKmPYN5KjcdbRTJul7R5MidiX0tsaTXhJxBceGQpymZJvZ6-VYwA",
+        "userName": "Andrea Karpati",
+        "content": "Limited options and also instabil.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.10"
+    },
+    {
+        "reviewId": "gp:AOqpTOH22oB_WicfU21sHFdhRGWD0EttocOf5PW1-312RZnDjas0ABXLvpelpgJarfVyUWrCJVmrtLYJIe27Jw",
+        "userName": "Evaldas",
+        "content": "Nei prisijungti galima nei slapta\u017eod\u017eio priminima gaunam. Kosmaras ne programa. Negi sunku nusamdyti programerius kurie \u017eino k\u0105 daro ir padaryti normali\u0105 programa. Geda tokiai korporacijai",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOHEhB4ViM5ZBzzXaNwKlO7nOqwR-uUQgy2O8CZv5fV5fjtlrNHPkWip-bHTLi3zXrZDViHWC3fz--EbBQ",
+        "userName": "Shriram Sampat",
+        "content": "Disappointing. Lots of obvious missing features. Cannot see which portion of garden is completed. Cannot ask it to spot mow via app. Cannot even see a log of completed mowing events(when, how long). Don't even see a point of buying a smart robot, when basic feature set is missing. Not to mention the new m700+ model is not even in the app list. I had to connect it as m400+.",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOHr6UNnGSn1tDdFu-_3IhNDcaxOBuWkeFKBlY86un5YWuVId_-881v6pVlLRxsbcd0zClVmWE26yySc4A",
+        "userName": "Frank Schliefer",
+        "content": "Moin Bosch, also die App tut was sie soll. Leider fehlen in meinen Augen diverse Features. - Rand M\u00e4hen auf Knopfdruck - Position w\u00e4hrend des M\u00e4hvorgangs, gerade bei gro\u00dfen Grundst\u00fccken wichtig. - Areal m\u00e4hen da der Rasen ja leider nicht \u00fcberall gleichm\u00e4\u00dfig w\u00e4chst und ab und zu eine Areal besonders behandelt werden sollte. - PIN Eingabe in der App -Regelm\u00e4\u00dfige Updates w\u00e4ren sch\u00f6n, die App ist ja nun seit einiger Zeit unver\u00e4ndert. Danke und bleibt gesund. PS. Und wann ist mit dem angek\u00fcndigten Updates zu rechnen ?",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOFJ9SHx1r-LwngYHS6HGJ8unafsPE6IZ7mu5UIIJMJtuHKiwm9CU6BfxrQTSr3clQYEMcGCjGxrzdZPvA",
+        "userName": "Chris Hill",
+        "content": "Keeps crashing when entering the \" Indego settings menu\"",
+        "score": 3,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOGleM8lx6nZt5jPpxreI0t7s-FZK1EouCiiQONHe1UP_q0RjoyJ3cB58MlvLDJiMPjsqxii1_8rEOTF7g",
+        "userName": "Brian UK Heasman",
+        "content": "Missing function in the old application. The old application gave information on what areas of the lawn had been mowed. It also gave information on the run time per mow and total mow time. To know when cutters needed replacing. Also the older machine gave option of how frequent the machine did a border cut. A useful feature would be:- to remotely reset alerts. Had the old machine fall in the border when on holiday. Neighbour put machine back in the Dock. Had to guide neighbour through reseting.",
+        "score": 2,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": null
+    },
+    {
+        "reviewId": "gp:AOqpTOGK4Pns14vHPhZbB5XFuucfw_hrZz4EmiElT8bvGc00QlFI_tSvWrmbApYazNYuyhZVOM6q9Y06RhLMMg",
+        "userName": "Philippe DeRuyter",
+        "content": "The app is mediocre but the mower itself is simply terrible. I loved my old Indego 800 but the 400 Connect is junk. I constantly gets stuck and leaves huge parts of my lawn unmowed. I'm talking 20cm high grass. Bosch service took the mower for a month and returned it with new motors which improved nothing. I want my money back but they refuse. The engineers agreed that they have issues but couldn't do more until a new version of the hardware is released. Can I swap to that please??????",
+        "score": 2,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOFrUfwKJdmjm9867VtyZNu-eDIa2TCKE7VzgL_lzlJIS1lS6T5Sb_Dp6i6QFJ0_RXrBt-MC9GUeotWLLg",
+        "userName": "M Ski",
+        "content": "Generally very happy with my Indego 350 Connect. App it's a nice add on to it. Five star is still to be achieved. what I miss is setting a time in refference to sunrise and sunset.",
+        "score": 4,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOH3KH89q5F1pT4rVE1G2ambETyjWymHVe-Jv_lazsLI_SkcMUho_0-RNDZ48H9nUIjtx7zHlt3lwbMf8Q",
+        "userName": "Ian O'Gorman",
+        "content": "Will the Indego still 'Connect' in CH after 2G GSM network switched off? + 7 months after purchase and 27 emails, telephone calls, replacement device + a service return of the replacement device to fix the GSM module, Bosch finally got my Indego Connect 400 to pair and be controllably from the smartphone app, but did not inform. I would regrettably rate my customer experience as very poor. So it's working now, but for how long (2G GSM in CH will be turned off by Swisscom end 2020).",
+        "score": 1,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0.8"
+    },
+    {
+        "reviewId": "gp:AOqpTOH1yYTIfuRg_hVumX8YcjX1jMA4XWg6StrmPZoFA485oIw70QUQF0Hv8HXm-2VqPgIiNx2CP-hlVazsQQ",
+        "userName": "Younes Bakali",
+        "content": "Feels like a betaversion at best. Very unstable and lacking elementary functions! \ud83d\ude11 *Edit* Since you replied that you would like to help me, I'll elaborate my answer and suggest missing functions that definitely should have been included: - There is no battery status - There is no mowing history - There is no mowing path - There is no zone function where one can choose to mow a limited area - Frequent error messages when starting and checking status",
+        "score": 2,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOE3-PInFoDwPWMfaeB6__evTBQ7D8TRBGDghu1_Ic4Q6fqASBKOzoy0ia9cv3NaFpLhBQ-UJvL4lXl7Lw",
+        "userName": "Martin Schuster",
+        "content": "App is okay, but still a bit buggy and missing some features.  App crashes often on startup and I need to start one more time. Also alerts seem to randomly repeat when opening the app and create a list of duplicated alerts. Also the timestamp is wrong in my app. Seems like time is set based on language on the phone, which is not correct in my case, as I have my phone set to \"English (UK)\", but I am using it in Poland. Also the accessories tab doesn't show anything for me. Just blank white. Also when some error occured and pin needs to be entered, the options to mow should not be enabled. Because now I click the mow button and get an \"pin error\"' message, which is not very clear and doesn't really tell me what to do.  In sense of ideas for new features I agree with things that were listed before: - show next planned mowing time slot ( as you already had in the old app) - show progress in different colors on the map to see, where the mower already cut the grass and where not.  - Show percentage of progress as a number - Show estimated time to finish (either time left or time at which it will be completed) - Show and allow to reset usage timer for the blades - show battery status",
+        "score": 3,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOGR5sp8QqvbTFGYEXhukMIZUnXB2TqqX-OCQi3guJDr2VuX_5sb9FR1o3x6moR9fsaLOrxn0E_H4qqEqw",
+        "userName": "N B",
+        "content": "when i enter serial number it says \"a mower with the serial number on this account could not be found\". tnk you",
+        "score": 1,
+        "thumbsUpCount": 0,
+        "reviewCreatedVersion": "3.0.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOE8ZWOTv_-uzq2XSloGwik37JX-_fRKE26C-N0IDU815v1K1MrbVmGf6OtwTdhl56luev36taAlV0PjBQ",
+        "userName": "Jeff Smith",
+        "content": "This is a useful app but as others have said it could usefully do more. I hope battery level comes soon, and things like next planned mow and last completion date and time. What would also be nice is a history log including recent significant events. Perhaps some kind of graphical view of the history of activity would be nice. Oh, and colouring on the map as progress is made. All this would be useful and also help sales!",
+        "score": 4,
+        "thumbsUpCount": 3,
+        "reviewCreatedVersion": "3.0.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOHRwAKrG4JEMes1bMZi9QD9F28sozHdRwe6MDiEbjuaZYomhdUON0CA78TPh7ijl7F6KhCEJ2EEXGewYQ",
+        "userName": "Timothy Guyot",
+        "content": "much much better than the old app but there is still much more the app could do which some of the competitors do. The app isn't useful when something goes wrong with the mower or to send the mower to a specific part of the map (like a missed spot), or have information on the battery charge or mowed % etc ... the ability to tweak the overlap over the wire would also be really useful. Come on Bosch, one more push you're nearly there!",
+        "score": 3,
+        "thumbsUpCount": 2,
+        "reviewCreatedVersion": "3.0.6"
+    },
+    {
+        "reviewId": "gp:AOqpTOG2DrVSxJSqfHUolOiPoZcM2S71L2JxyJEmrHu1CBKRfECQKwrcZc4EWbzSmX4ihTPY_izxgpFI8Zt8XQ",
+        "userName": "Kim Fisker",
+        "content": "Soooo much better than the old app. Quick and responsive.",
+        "score": 5,
+        "thumbsUpCount": 1,
+        "reviewCreatedVersion": "3.0.6"
+    }
+]

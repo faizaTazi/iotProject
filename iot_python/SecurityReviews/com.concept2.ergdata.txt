@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOFf67Qb3Am0yReBz3qnJazgCSTEx_pAacV16kyx3QetYyynoOZ47OZ4QC-78DwDVtlx7ibUNZfzUQJqvq0",
+    "userName": "Will King",
+    "content": "Awful. 'We need to know your location'. No, you don't. 'If you don't tell us your location, won't let you connect to your PM5'. And sure enough, they don't. No reason, no privacy statement - just data harvesting at your expense. App is useless, find a better one. And shame on you Concept, after I forked out a grand for your rower.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.85"
+}

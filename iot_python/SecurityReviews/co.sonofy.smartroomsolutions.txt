@@ -1,0 +1,22 @@
+{
+    "reviewId": "gp:AOqpTOEu1y-2UfzKFfBQhtrW4AMbkdz8YLjEfJbnw791rWb_yxbTMmT82ZvfWn2X6NKOA6ePtlvUHEQEyT917g",
+    "userName": "Gordon Gillespie",
+    "content": "Why would i have to sign in to my Google account to use this app? No thanks. No option to just log into my Sonos? I try to keep my Google account private.",
+    "score": 1,
+    "thumbsUpCount": 12,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOHTZKkRWyVDDYzwj_GYWIgoDxrEvIWWq7N0G7c-OnuODBoJeaWktme5VvAXQfyM7tasAM4JcVs71EWbEg",
+    "userName": "Kevin Gristwood",
+    "content": "Brilliant app, adds so much to Sonos. Great for notifications around the \nHouse e.g. dinner is ready etc (you can even direct it to individual rooms \ne.g. hope you have done your homework before you are playing on that \nPlayStation) So many things you can use it for, one great example (which I \nhave told many customers about) if you have a security/fire system or \nelderly care system that can send SMS messages you can sent it up to wake \nand alert you to emergency situations. Also great fun to play messages when \nfriends walk through the door Great app, if you haven't downloaded it \nalready, why not? Highly recommended! ***UPDATE*** Support is amazing, \nreplied within 2 minutes and very helpful! I would especially like to \nsingle out eric as replied to every message very politely and answered \nquestions perfectly Keep up the good work",
+    "score": 5,
+    "thumbsUpCount": 3,
+    "reviewCreatedVersion": "2.0.8"
+}{
+    "reviewId": "gp:AOqpTOGbS_PN43Z1wW_WL0F70SU-gak_hs4WSKTXDwNYMdCxe1AvlV4ft8fO6nTFZu8On4aP8VBaI_w4O9rEMQ",
+    "userName": "Eric H",
+    "content": "This app helps me to put down my devices when I\u2019m home.  Love having it announce my calls and text msgs.  Now I don\u2019t have to go look at my phone every time it makes a notification sound. Sonofy just tells me it was a text, and who it\u2019s from.  In another room and don\u2019t hear that important sms? No worries.  And \u2018unknown\u2019 or \u2018private\u2019 calls won\u2019t have me dashing for my phone to see who\u2019s calling.   Great app.   Can\u2019t wait to see where the developers go from here.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "1.16.6"
+}

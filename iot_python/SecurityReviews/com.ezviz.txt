@@ -1,0 +1,113 @@
+{
+    "reviewId": "gp:AOqpTOH7yfEHNpsyAvqLo7OcRxBrM61gvP64WhV8h6iEsrn6_eVJUgNDKfWkGvSJiT7zcMBR6cBylBBMTtbk",
+    "userName": "Life is love",
+    "content": "Your cameras are having security risk issues and needs your attention immediately or make refunds or you might be getting a lawsuit soon if you don't fix the errors or breach. I sent an email addressing my concerns and no response yet! Your camera can't be depended on, hackers or your company security is wacky, losing footage, Recorded videos are damaged by hackers because of your poor security system/services but i dont depends on one product for protection. To your users!!! You install more.",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "4.6.2.1010"
+}{
+    "reviewId": "gp:AOqpTOGhIA1JgLPl-pJD-S7W5Hv4e5ieTFuEftZE8lJkX7Mtc6pD1G2NUpau20lSwHToYjwpaKO05g-LOUUB",
+    "userName": "Mark Buckley",
+    "content": "10/10 for genuine quality as of as good as it gets Oct 2020. Price for functional attributes incorporated with the upmost latest in technology. Great Price. Very very happy with product 101C exterior security twin floodlight security system. 10_10 From New Zealand \ud83c\uddf3\ud83c\uddff - Mark A Buckley 22/09/2020",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.6.2.1010"
+}{
+    "reviewId": "gp:AOqpTOGpgvFFAeN5qflxCoBW3xbeiCYoYHmhMVlLPOX5D0ygUeKEF8Ss3AIeJ2tBT-b91FwIrhd_c8TXxMYp",
+    "userName": "Desiree BB",
+    "content": "10/5/20 Update: Dropping another star for this update! I'm so sick of these weekly updates that never fix this app to what used to be great. I used to be able to leave my tablet on as a security monitor. Now I have to click to turn each camera back on every 5 minutes, even when it is plugged in. That's 12 times per hour, or 144 times every 12 hours! The latest update is determined to keep my cameras flipped 90 degrees sideways!!! Grrrrrr!!!!! Stop screwing around with the messed up updates!!!!!",
+    "score": 1,
+    "thumbsUpCount": 23,
+    "reviewCreatedVersion": "4.6.1.0925"
+}{
+    "reviewId": "gp:AOqpTOEuHs_ok4ukQsNavHsLlEnlQLcVvBEvpOK5SnR9trhzrkAdRR2rMYtDnbrk3v7_pWJkZxYlh760esjD",
+    "userName": "Lynda",
+    "content": "Purchased yesterday quality amazing can't view constantly says fail when away, its to add security to elderly relative waste of time!",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "4.6.1.0925"
+}{
+    "reviewId": "gp:AOqpTOGSHlc30ujmH1rR8GrQdHRAMXbXztCKmoh15sXxW0cFHgTDFbCJyyHPc1zBWX3rCcVj0jC6pasZsq3I",
+    "userName": "Remedine Fernnades",
+    "content": "Since the app upgrade I'm.unable to use the service keep getting error operation failed.its for family's security but it's not servicing the purpose...Really upset with this",
+    "score": 1,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "4.6.1.0925"
+}{
+    "reviewId": "gp:AOqpTOEZha22Ww2gV_ePPvG_FZALz1ZU7m7p-RwJLJSWzcArlYKZk9gBNJ6lgQTA2raEkY9ChRnhFFNJulDN",
+    "userName": "Bob S",
+    "content": "Poorly designed and engineered product (C1C cameras). Overly complicated setup process. Application issues with updates reducing functionality of the product. Service telephone numbers that aren't operational. Support email addresses manned by one person in a country. This company is a dud. Just go with a Xiaomi camera and don't trust the security of your home to this disorganised mess of a company. AVOID.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOG2Jddg6IPRFhgqHcjcp7fsJtmbd5gecAu0GxJTCKwza6ansISNzSk_5uXbwIW2nyeBxTctTfoxenf3",
+    "userName": "Babs King",
+    "content": "Up until this latest version everything was really good. Now with this new version the camera views CRASH and it is not working (I get \"operation failed\" message) when trying to load a view ... I am very upset because now it is so frustrating not to be able to use the expensive security system I am counting on for our family's safety. Please please please FIX THIS ... GO BACK TO THE WAY IT WAS ... I hope more people jump on board and let these developers know this version SUCKS!!!",
+    "score": 1,
+    "thumbsUpCount": 42,
+    "reviewCreatedVersion": "4.6.1.0925"
+}{
+    "reviewId": "gp:AOqpTOHS1v9eTFxtzZ9S8CZY-QWAPnHC3WKvQXjMesERAg0gD3owm8BsfmDysK-AkZSO5mROKkHf3ysgAye9",
+    "userName": "Richard Hering",
+    "content": "The camera works great. Honestly no issue. It's this app that's garbage. I can understand security checks. But the amount that this app logs you out is just silly. I want to check my camera feed. Not have to jump through several hoops just to do so... Check it again 10 minutes later. Oh I've been logged out. Don't waste your time with this. Just use the PC software.",
+    "score": 1,
+    "thumbsUpCount": 7,
+    "reviewCreatedVersion": "4.4.6.0804"
+}{
+    "reviewId": "gp:AOqpTOEYd1BHejD3rNA9PH8ZtadrAC5AIOOl0-Zn-9lH8M9DA4lGZ5oHYwia8XlIR_SXbP0RCYwijBBpfMUu",
+    "userName": "Vitaly Fi",
+    "content": "Doesn't accept security code. Doesn't work at all. On Android 8.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.4.6.0804"
+}{
+    "reviewId": "gp:AOqpTOEGNSx08H7a3liJPHMo-QGWPgTC_ejkPzWlB5nf2FjShg5nW_oV2e5jm3XkQ6D4Atgo_tAx7AxtAGIR",
+    "userName": "T Merrygold",
+    "content": "If I could score zero I would, the idea of the app connecting all your home security is brilliant, however it is very poorly executed, the app is very glitchy, trying to connect any more than 1 cctv camera is almost impossible, we even had different alarm engineers out to help us install it with no luck at all. The customer tel number no work, in the months I have been trying, we resorted to e-mail support which was a joke, 2 days to answer a query it was clear that english was not 1st language",
+    "score": 1,
+    "thumbsUpCount": 28,
+    "reviewCreatedVersion": "4.0.4.1217"
+}{
+    "reviewId": "gp:AOqpTOEwipzW5y9bVw69gelux2vVERjXe-vot6VM_nnFdQdYhIQTZ_PjupOprDxFxehmRqt2loEBHGRfWrJE",
+    "userName": "Alan Viloria",
+    "content": "Is good for security, use to work with alexa no longer works as it always says on my tv ezviz device asleep, obviously not as its still recording, did everything reinstalled alexa and ezviz devices, and still nothing",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}{
+    "reviewId": "gp:AOqpTOF6BgInNqVGxffJ5j1pIGxC3w2NEBVkS-gvPJapoylrsxVLSWPiBmcOd5ydrxy6SqWKVGir1yEbbIi2",
+    "userName": "Andre Scholtemeijer",
+    "content": "Good for home security.",
+    "score": 4,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.4.6.0804"
+}{
+    "reviewId": "gp:AOqpTOEAIM0jKWlk1G-6IxS_CVDw2iWmTX3Z1I-1BIhpm-bNJR_zk5X8o9j-qqxrYlGEi5SgzUyOXtO9i1G2",
+    "userName": "Hazem Elsayed",
+    "content": "Very good security system, I'm using Ezviz camera for more than 1 year in different countries, every thing is working perfectly, I need to recommend one important thing when the camera loose internet connection for any reason it's going offline mode and I have to restart the camera manually to solve it, what if the camera configured to do itself reboot after few minutes of loosing the internet connection it will be connected and appear online automatically Thanks.",
+    "score": 4,
+    "thumbsUpCount": 18,
+    "reviewCreatedVersion": "4.4.5.0713"
+}{
+    "reviewId": "gp:AOqpTOGSf87lNVcftpVjm6NkZmfxV6h83MjHv4BhHhWQvj97l6oIk0V-7WfIooZlDPB1IDjhVek_vvrYarsj",
+    "userName": "Walter Weeraratne",
+    "content": "I use to check my CCTV where ever i go including foreign countries use to check my home security it can see excellent views.",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.4.6.0804"
+}{
+    "reviewId": "gp:AOqpTOFeEdnIjIr9qYWwL2Vba67oZkwwj7G-r4bH90MHp_OhoXMLh9NyPDivfQxNFjbdR086TsKhISM8C57a",
+    "userName": "Tammy Pineo",
+    "content": "Keeps my family feel secure and safe",
+    "score": 5,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "4.4.5.0713"
+}{
+    "reviewId": "gp:AOqpTOHAy6Bh_J0B700_PSGdYfHx7LatJBsvUsgUk9KaAnELwOGJpu_J39oAFF3kSDif-UTzwiOhzVkyhG4l",
+    "userName": "Michael McPeak",
+    "content": "Give the Chinese access to your home, not cool. But it is probably better than continual invasion of our privacy and constitutional rights by Google.",
+    "score": 3,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "4.4.0.0616"
+}

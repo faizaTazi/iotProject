@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOHQv-vekH7MOb1IBgohAukWGygZTTdFfEmMc7jja8RQ-YiCYbqhw5kD9L9Z51CHHmwprfO9M-6-CWiPCjk",
+    "userName": "Nicholas Ryan",
+    "content": "Doesn't work with WEP Wi-Fi anymore after the patch since the \"encryption \nis too weak\", however unsecured is still okay. Stupid and inappropriate for \nan air monitor to dictate network security policy to it's customers. 1st \none died after a few weeks, returned and 2nd is now a paperweight for me.",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": "2.2.7"
+}

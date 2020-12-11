@@ -1,0 +1,98 @@
+castify.roku
+contacts: 0 content: 4 location: 1 
+castwebbrowsertotv.castwebvideo.webvideocaster
+contacts: 0 content: 4 location: 0 
+cn.ubia.ubox
+contacts: 1 content: 5 location: 2 
+co.bitfinder.awair
+contacts: 0 content: 4 location: 1 
+co.sonofy.smartroomsolutions
+contacts: 1 content: 0 location: 1 
+com.abb.energyviewer
+contacts: 0 content: 4 location: 2 
+com.adt.pulse
+contacts: 0 content: 4 location: 0 
+com.alarm.alarmmobile.android.guardian
+contacts: 2 content: 4 location: 2 
+com.allocacoc.smart
+contacts: 0 content: 4 location: 2 
+com.angelcam
+contacts: 0 content: 4 location: 0 
+com.bosch.indegoconnect
+contacts: 0 content: 0 location: 2 
+com.concept2.ergdata
+contacts: 0 content: 0 location: 1 
+com.customsolutions.android.alexa
+contacts: 0 content: 4 location: 1 
+com.datadudu.ubibot
+contacts: 0 content: 5 location: 3 
+com.ezviz
+contacts: 0 content: 5 location: 2 
+com.fibaro.homecenter
+contacts: 0 content: 4 location: 2 
+com.govee.home
+contacts: 0 content: 4 location: 2 
+com.hubble.care
+contacts: 1 content: 4 location: 1 
+com.hunter.hunterWifiConnectAndroid
+contacts: 0 content: 4 location: 2 
+com.ilifesmart.mslict_gp
+contacts: 0 content: 5 location: 3 
+com.iruleav.nebula.android.prod
+contacts: 0 content: 0 location: 0 
+com.jibo
+contacts: 2 content: 4 location: 2 
+com.lgeha.nuts
+contacts: 3 content: 4 location: 2 
+com.mm.android.direct.AmcrestViewPro
+contacts: 0 content: 5 location: 1 
+com.mm.android.yale
+contacts: 1 content: 5 location: 2 
+com.mobics.kuna
+contacts: 0 content: 4 location: 2 
+com.netatmo.camera
+contacts: 2 content: 4 location: 2 
+com.northstar.connect
+contacts: 0 content: 4 location: 2 
+com.safety1st.babymonitor
+contacts: 0 content: 4 location: 1 
+com.schneider_electric.wiser2
+contacts: 0 content: 4 location: 0 
+com.sensibo.app
+contacts: 0 content: 4 location: 2 
+com.seventwentysoftware.powerzoneplus
+contacts: 1 content: 4 location: 0 
+com.simplisafe.mobile
+contacts: 2 content: 4 location: 2 
+com.smarthvac
+contacts: 1 content: 4 location: 2 
+com.smartroost.app
+contacts: 1 content: 0 location: 2 
+com.sonova.hansaton.rcapp
+contacts: 0 content: 0 location: 2 
+com.specialyg.ippro
+contacts: 1 content: 5 location: 3 
+com.supremevue.ecobeewrap
+contacts: 0 content: 4 location: 2 
+com.tplink.tpm5
+contacts: 0 content: 4 location: 2 
+com.tuya.smart
+contacts: 0 content: 4 location: 2 
+com.velux.active
+contacts: 0 content: 0 location: 2 
+com.vivitarsecurity.smart
+contacts: 0 content: 4 location: 2 
+com.vuebell
+contacts: 1 content: 4 location: 2 
+com.xvrview
+contacts: 0 content: 4 location: 3 
+de.twokit.video.tv.cast.browser.firetv
+contacts: 0 content: 4 location: 0 
+eu.hoermann.ast.bluesecur
+contacts: 1 content: 4 location: 2 
+io.fireboard.android
+contacts: 0 content: 4 location: 2 
+no.easee.apps.easee.users
+contacts: 0 content: 0 location: 0 
+xyz.angeldev.flux
+contacts: 0 content: 0 location: 0 

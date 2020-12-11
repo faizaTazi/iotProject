@@ -1,0 +1,23 @@
+[
+  { permission: 'take pictures and videos', type: 'Camera' },
+  {
+    permission: 'view Wi-Fi connections',
+    type: 'Wi-Fi connection information'
+  },
+  { permission: 'directly call phone numbers', type: 'Phone' },
+  {
+    permission: 'precise location (GPS and network-based)',
+    type: 'Location'
+  },
+  {
+    permission: 'approximate location (network-based)',
+    type: 'Location'
+  },
+  { permission: 'read your own contact card', type: 'Identity' },
+  { permission: 'control vibration', type: 'Other' },
+  { permission: 'run at startup', type: 'Other' },
+  { permission: 'full network access', type: 'Other' },
+  { permission: 'prevent device from sleeping', type: 'Other' },
+  { permission: 'read Google service configuration', type: 'Other' },
+  { permission: 'view network connections', type: 'Other' }
+]

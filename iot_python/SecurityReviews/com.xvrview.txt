@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOEjAXImsL1WtCY3Dj5ksDu2Mmo0GZPOESkTHxznDy6wOYbhXlavNiaqu_enFTr3n7HF3yLShunNWrpMAA",
+    "userName": "Keep it Tidy Gardens Warren Barthus",
+    "content": "App keeps crashing and now a security issue. Are you planning to fix this? I have emailed the app developer last week and still no reply, no update....very disappointing.",
+    "score": 2,
+    "thumbsUpCount": 2,
+    "reviewCreatedVersion": "2.4.8.69"
+}

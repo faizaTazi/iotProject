@@ -1,0 +1,15 @@
+{
+    "reviewId": "gp:AOqpTOGHW80THUBtsNDS3rTu8L4jMaAA6ZPh0wEwEqFN0nf2uFnIlPPuQQ1XWWg2IulKOmifDQ9j-8Sxu4tNHnw",
+    "userName": "vmusarv s",
+    "content": "This app can be used only if you provide your or in the case of installing on a tablet, someone else's, cell phone number. There's absolutely no legitimate business reason why you have to give a phone number to register the app. An email address should suffice. It just a scam to harvest phone numbers and should be illegal. Companies like this have been emboldened to intrude on our privacy since people share their personal information willy-nilly.",
+    "score": 1,
+    "thumbsUpCount": 14,
+    "reviewCreatedVersion": "5.0.5"
+}{
+    "reviewId": "gp:AOqpTOFSrPlsdYDZ6SKY37HdNBnyfK4Jt-ai0oH0MyKsM-q2PSBUkeG0q6AA25McQ9xIK306eGxkIoPVTcuB2sQ",
+    "userName": "Gabor Gunyho",
+    "content": "Simply the battery doesn't fit my smoke alarm. And my smoke alarm has this security feature that you can't close the lid if there is no battery or it's improperly inserted. So I can't use this battery.",
+    "score": 1,
+    "thumbsUpCount": 1,
+    "reviewCreatedVersion": "1.2.27"
+}

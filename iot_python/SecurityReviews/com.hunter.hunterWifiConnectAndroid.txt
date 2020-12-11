@@ -1,0 +1,15 @@
+{
+    "reviewId": "gp:AOqpTOGbuE4ec0m1xwJ9Hgm8Gp_y0OdLVyNuh5wA--DeXo4dpldsTmnHkpPVHK4sEdKK9jUHkH-HclY4M51jI64",
+    "userName": "Justin Ryan",
+    "content": "Ridiculous! The account verification email to set up my new account didn't work, so I tried again. That one didn't work. It couldn't recognize my email/password. So then I tried to change the password, and now my account is LOCKED! I couldn't even try the app. How much security do you we really need for a ceiling fan app?? Good grief!",
+    "score": 1,
+    "thumbsUpCount": 5,
+    "reviewCreatedVersion": "v1.1.30"
+}{
+    "reviewId": "gp:AOqpTOGZ1TBfD-qcU8Iy8lzLT7Hz6_JxbZOsE3chAUZiyPOr1moJf4J36kZnc5Wl5UEYFwINAqc-A48GRbVc1mI",
+    "userName": "Bradley",
+    "content": "I voice privacy concerns and concerns over app permissions and you guys go and promote Alexa and Google Assistant. Makes you guys look pretty stupid. I have never used those spyware services and never will. I deducted another star. I wanted to give feed back in hopes your app would improve so we could update our house. Companies make smart hub independent options. I was hoping maybe in a year you guys would get a clue, but some companies dspite good programmers lack good design. Ill buy elsewhr",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}

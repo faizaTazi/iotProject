@@ -1,0 +1,8 @@
+{
+    "reviewId": "gp:AOqpTOFBrdELDWrn5dmEahGmBtlNz_XkU0sXnwqic0JXPsML3HrHH19jA4_JDT0AVjzn-uLdJ5wwijn3SBCgFg",
+    "userName": "Kayse Sanageyama",
+    "content": "doesnt work anymore. when I had an earlier version of this app I could always make sure to stream the shows and video programs that I love directly to my Roku without any problem, but as of the latest update or whatever has happened to the app I can no longer do that because it says that video is no longer supported or it is blocked for security reasons. I do believe that this can be resolved if they simply boot the programming back to the previous model but I am a bit upset",
+    "score": 1,
+    "thumbsUpCount": 0,
+    "reviewCreatedVersion": null
+}
